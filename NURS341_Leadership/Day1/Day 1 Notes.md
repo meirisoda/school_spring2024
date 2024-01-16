@@ -15,7 +15,13 @@ Desired outcome is **effectiveness**.
 #### Skills 
 Diagnosing -- can they identify the situation; objectivity
 Adapting -- the behavioural aspect
-Communication -- ability to understand, accept and expalin to
-### Roles of a Nurse
+Communication -- ability to understand, accept and explain to others
+
+**Emotional Intelligence** 
+- self-awareness
+- self-management
+- social awareness
+- relationship management
+#### Roles of a Nurse
 Care provider (direct care provider)
 Coordinator/integrator (day-to-day corrdination and information flow / communication)
