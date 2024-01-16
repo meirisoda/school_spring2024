@@ -39,13 +39,15 @@ Measures attitudes towards leader behavior
 Focuses on observed behaviors of leeaders and hwo styles can be matched to situations
 ## Leadership Styles
 <mark class="hltr-yellow">check in textbook</mark>
-	Autocratic
-	Bureaucratic
-	Charismatic
-	Democratic
-	Laissez-faire
-	Servant
-	Situational
-	**Transactional**
-	**Transformational** 
+Autocratic
+Bureaucratic
+Charismatic
+Democratic
+Laissez-faire
+Servant
+Situational
+**Transactional**
+- Functions in a caretaker role and is focused on day-to-day operations
+**Transformational** 
+- Motivates followers to perform to their full potential over time by influencing a change in perception
 
