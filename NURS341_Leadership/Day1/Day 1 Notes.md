@@ -9,4 +9,8 @@ Components <mark class="hltr-yellow">** check in textbook later</mark>
 Attributes
 - Communication and relationship management
 - Leadership
-- Business skilsl a
+- Business skills and principles
+- Knowledge of the healthcare environment
+- Professionalism
+
+### Roles of a Nurse
