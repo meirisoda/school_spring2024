@@ -38,12 +38,14 @@ Measures attitudes towards leader behavior
 ### Situational Theories
 Focuses on observed behaviors of leeaders and hwo styles can be matched to situations
 ## Leadership Styles
-Autocratic
-Bureaucratic
-Charismatic
-Democratic
-Laissez-faire
-Servant
-Situational
-Transactional
-Transformational 
+<mark class="hltr-yellow">check in textbook</mark>
+	Autocratic
+	Bureaucratic
+	Charismatic
+	Democratic
+	Laissez-faire
+	Servant
+	Situational
+	Transactional
+	Transformational 
+
