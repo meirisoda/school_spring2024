@@ -43,3 +43,7 @@ Bureaucratic
 Charismatic
 Democratic
 Laissez-faire
+Servant
+Situational
+Transactional
+Transformational 
