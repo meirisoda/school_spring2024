@@ -6,3 +6,7 @@
 Components <mark class="hltr-yellow">** check in textbook later</mark>
 - dd
 
+Attributes
+- Communication and relationship management
+- Leadership
+- Business skilsl a
