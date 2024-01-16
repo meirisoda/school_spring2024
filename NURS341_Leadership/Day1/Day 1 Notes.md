@@ -53,5 +53,9 @@ Situational
 # Chapter 2_Change and Innovation
 Check definitions in textbook
 ## Kotter's Model of Change
+We want to reward people
+Short term, realistic goals are important
 1. Establish a sense of urgency
-2. 
+2. Create a guiding coalition
+3. Develop a vision and strategy
+4. Communicate
