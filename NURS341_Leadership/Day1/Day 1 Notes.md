@@ -13,6 +13,7 @@ Attributes
 - Knowledge of the healthcare environment
 - Professionalism
 
+Desired outcome is effec
 ### Roles of a Nurse
 Care provider (direct care provider)
 Coordinator/integrator (day-to-day corrdination and information flow / communication)
