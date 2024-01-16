@@ -49,5 +49,6 @@ Situational
 **Transactional**
 - Functions in a caretaker role and is focused on day-to-day operations
 **Transformational** 
-- Motivates followers to perform to their full potential over time by influencing a change in perception
+- Motivates followers to perform to their full potential over time by influencing a change in perceptions and by providing a sense of direction
+
 
