@@ -34,5 +34,7 @@ Communication -- ability to understand, accept and explain to others
 ### Trait Theories
 Focuses on identifying characteristics of leaders
 ### Attitudinal theories
-
+Measures attitudes towards leader behavior
 ### Situational theories
+Focuses on observed behaviors of leeaders and hwo styles can be matched to situations
+## 
