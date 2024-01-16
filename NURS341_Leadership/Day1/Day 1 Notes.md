@@ -50,4 +50,6 @@ Situational
 - Functions in a caretaker role and is focused on day-to-day operations
 **Transformational** 
 - Motivates followers to perform to their full potential over time by influencing a change in perceptions and by providing a sense of direction
-# Chapter 1_Change and Innovation
+# Chapter 2_Change and Innovation
+Check definitions in textbook
+
