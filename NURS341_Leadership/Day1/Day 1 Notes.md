@@ -33,8 +33,13 @@ Communication -- ability to understand, accept and explain to others
 ## Types of Leadership Theories
 ### Trait Theories
 Focuses on identifying characteristics of leaders
-### Attitudinal theories
+### Attitudinal Theories
 Measures attitudes towards leader behavior
-### Situational theories
+### Situational Theories
 Focuses on observed behaviors of leeaders and hwo styles can be matched to situations
-## 
+## Leadership Styles
+Autocratic
+Bureaucratic
+Charismatic
+Democratic
+Laissez-faire
