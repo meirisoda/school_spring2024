@@ -51,5 +51,3 @@ Situational
 **Transformational** 
 - Motivates followers to perform to their full potential over time by influencing a change in perceptions and by providing a sense of direction
 # Chapter 1_Change and Innovation
-
-
