@@ -46,6 +46,6 @@ Focuses on observed behaviors of leeaders and hwo styles can be matched to situa
 	Laissez-faire
 	Servant
 	Situational
-	Transactional
-	Transformational 
+	**Transactional**
+	**Transformational** 
 
