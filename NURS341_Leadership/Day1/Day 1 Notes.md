@@ -30,4 +30,9 @@ Communication -- ability to understand, accept and explain to others
 - The situation
 - The communication process
 - The goals 
-## Types 
+## Types of Leadership Theories
+### Trait Theories
+Focuses on identifying characteristics of leaders
+### Attitudinal theories
+
+### Situational theories
