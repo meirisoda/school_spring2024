@@ -14,3 +14,5 @@ Attributes
 - Professionalism
 
 ### Roles of a Nurse
+Care provider (direct care provider)
+Coordinator/integrator (day-to-day corrdination and information flow / communication)
