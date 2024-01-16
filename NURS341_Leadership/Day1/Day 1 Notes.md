@@ -56,3 +56,4 @@ Check definitions in textbook
 We want to reward people
 Short term, realistic goals are important
 ## Process of Change
+Change fatigue
