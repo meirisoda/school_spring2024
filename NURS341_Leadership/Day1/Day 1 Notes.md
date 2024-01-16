@@ -24,3 +24,5 @@ Communication -- ability to understand, accept and explain to others
 - self-management
 - social awareness (empathy and reading the room)
 - relationship management
+### Leadership
+1. 
