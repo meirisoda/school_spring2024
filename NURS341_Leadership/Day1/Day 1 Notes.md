@@ -3,5 +3,6 @@
 **Leadership** focuses on the people; innovation
 **Management** focuses on the system (task accomplishment); administration
 
-Components
-- 
+Components <mark class="hltr-yellow">** check in textbook later</mark>
+- dd
+
