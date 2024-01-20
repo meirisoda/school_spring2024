@@ -44,4 +44,4 @@ Conflicts that occur between different individuals, groups, organizations or oth
 ## Conflict Management
 All conflicts include"
 - **Causes**, which occur before the conflict
-- **Core processes**, which are per
+- **Core processes**, which are perceptions of why the conflict exists followed by some kind of affective state or emotional response
