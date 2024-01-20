@@ -23,4 +23,5 @@ About people, their values, political convictions or religious preference. They 
 Involves incompatibilities in views about how the work should be accomplished. 
 ## Conflict Management
 ### Functional/Constructive
-- Improves the quality of decisions, stimualtes creativity and innovation
+- Improves the quality of decisions
+- Stimualtes creativity and innovation, encourages interest and curiosity, provides a medium through which problems can be aired and ten
