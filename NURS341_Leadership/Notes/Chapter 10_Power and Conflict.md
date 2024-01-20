@@ -41,3 +41,5 @@ Discord, tension or stress inside an individual that results from unmet needs, e
 Generates from within an individual. 
 ### Interpersonal Conflict (Dyadic)
 Conflicts that occur between different individuals, groups, organizations or other social units. 
+## Conflict Management
+Framework for classifying appra
