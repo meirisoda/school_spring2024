@@ -6,3 +6,5 @@ Clincial practice experience
 Important issue I learned during the class
 Question that I still have
 How would I differently approach conflict now that I know more conflict management
+
+For me, as I've taken a year off an
