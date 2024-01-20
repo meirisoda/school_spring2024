@@ -5,4 +5,4 @@
 | Leadership                            | Care Management                |
 | ------------------------------------- | ------------------------------ |
 | Focused on human relationship aspects | Focused on task accomplishment |
-| Interactive mode rather than a stepwise linear r                                      | Part of leadership                               |
+| Interactive mode rather than a stepwise linear process                                      | Part of leadership                               |
