@@ -35,3 +35,5 @@ Involves incompatibilities in views about how the work should be accomplished.
 
 ![[Pasted image 20240119210324.png|300]]
 ## Levels of Conflict
+### Intrapersonal Conflict
+Discord, tension or stress inside an individual 
