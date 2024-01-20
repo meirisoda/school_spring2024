@@ -49,3 +49,5 @@ All conflicts include"
 - **Effect**
 
 ![[Pasted image 20240119211226.png]]
+
+### Causes
