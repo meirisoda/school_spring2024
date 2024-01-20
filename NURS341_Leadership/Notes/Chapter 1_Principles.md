@@ -4,4 +4,4 @@
 
 | Leadership | Care Management |
 | ---------- | --------------- |
-|            |                 |
+| Focused on human relationship aspects           | Focused on task accomplishment                |
