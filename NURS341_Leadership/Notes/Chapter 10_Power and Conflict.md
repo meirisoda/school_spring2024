@@ -45,3 +45,7 @@ Conflicts that occur between different individuals, groups, organizations or oth
 All conflicts include"
 - **Causes**, which occur before the conflict
 - **Core processes**, which are perceptions of why the conflict exists followed by some kind of affective state or emotional response
+- **Conflict behaviours**
+- **Effect**
+
+![[Pasted image 20240119211226.png]]
