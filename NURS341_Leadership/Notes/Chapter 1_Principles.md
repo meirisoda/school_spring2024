@@ -1,2 +1,1 @@
-# Definitions
-**Leadership** 
+**Leadership** defined as somebody who 
