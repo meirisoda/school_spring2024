@@ -1,3 +1,4 @@
+### Mini Case Study 1
 Read the case situation and answer the questions that follow:  
 
 You have been a nurse for over 5 years and have been interviewing for a nurse manager position of a busy acute care medical-surgical 30 bed unit. After your interview with the Director of Nursing, you have been thinking about the leaders that have influenced your career and your desire to seek a management position. As you reflect on the qualities and traits of past leaders, you realize that you need to focus on your own leadership style and qualities, especially if you are offered the nurse manager position.  
