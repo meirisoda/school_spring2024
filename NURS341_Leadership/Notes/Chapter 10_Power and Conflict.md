@@ -24,3 +24,7 @@ Involves incompatibilities in views about how the work should be accomplished.
 ## Conflict Management
 ### Functional/Constructive
 - Improves the quality of 
+
+
+
+vcmx,z.ㅍㅋ,,bㅜㅜ         
