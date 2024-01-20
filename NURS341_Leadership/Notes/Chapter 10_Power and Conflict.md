@@ -16,3 +16,5 @@ When one party - individual or a group - perceives its goals, values or opinions
 May result from scarce resrouces (such as time, responsibilities, status or budgets) or they could also involve different political preferences, religious and social issues or a combination of several. 
 ### Task-related Conflicts
 About the way a team is doing its job, including the pros and cons of certain task approaches. 
+Usually seen as healthy as it promotes and stimulates discussions and constant improvement, which leads to increased team effectiveness and performance. 
+### Relationship Conflicts
