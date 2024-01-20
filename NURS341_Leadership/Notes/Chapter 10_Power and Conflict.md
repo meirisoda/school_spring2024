@@ -42,4 +42,9 @@ Generates from within an individual.
 ### Interpersonal Conflict (Dyadic)
 Conflicts that occur between different individuals, groups, organizations or other social units. 
 ## Conflict Management
-Framework for classifying appra
+Blake and MoutonFramework for classifying approaches for handling interpersonal conflicts: 
+1. Forcing
+2. Withdrawing
+3. Smoothing
+4. Compromising
+5. Problem-Solving
