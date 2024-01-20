@@ -22,3 +22,4 @@ About people, their values, political convictions or religious preference. They 
 ### Process Conflict
 Involves incompatibilities in views about how the work should be accomplished. 
 ## Conflict Management
+Dys
