@@ -22,6 +22,7 @@ About people, their values, political convictions or religious preference. They 
 ### Process Conflict
 Involves incompatibilities in views about how the work should be accomplished. 
 ## Conflict Management
+![[Pasted image 20240119210324.png|300]]
 ### Functional/Constructive
 - Improves the quality of decisions
 - Stimulates creativity and innovation
@@ -33,8 +34,9 @@ Involves incompatibilities in views about how the work should be accomplished.
 - Reduction in group cohesiveness
 - Subordination of group goals
 
-![[Pasted image 20240119210324.png|300]]
+![[Pasted image 20240119210550.png]]
 ## Levels of Conflict
 ### Intrapersonal Conflict
 Discord, tension or stress inside an individual that results from unmet needs, expectations of goals. 
 Generates from within an individual. 
+### Interpersonal Conflict
