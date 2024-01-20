@@ -24,4 +24,7 @@ Involves incompatibilities in views about how the work should be accomplished.
 ## Conflict Management
 ### Functional/Constructive
 - Improves the quality of decisions
-- Stimualtes creativity and innovation, encourages interest and curiosity, provides a medium through which problems can be aired and ten
+- Stimulates creativity and innovation
+- Encourages interest and curiosity
+- Provides a medium through which problems can be aired and tensions released
+- Fosters an environment of self-evalu
