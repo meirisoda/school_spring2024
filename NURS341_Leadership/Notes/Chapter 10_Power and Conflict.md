@@ -10,4 +10,6 @@ Decreased attention to patient care, employee satisfaction and morale, and incre
 **Dysfunctional organizational culture**, which stifles change, innovastion and organizational effectiveness. 
 ## Types of Conflict
 ### Organizational Conflict
-The struggle over scarce organizational resources - specific locuses may be values
+The struggle over scarce organizational resources - specific locuses may be values, goals, roles, money or structural elements. 
+### Workplace Conflict
+When one party - individual or a group - perceives its goals, values or opinions being thwarted by an interdependent cou
