@@ -23,8 +23,4 @@ About people, their values, political convictions or religious preference. They 
 Involves incompatibilities in views about how the work should be accomplished. 
 ## Conflict Management
 ### Functional/Constructive
-- Improves the quality of 
-
-
-
-vcmx,z.ㅍㅋ,,bㅜㅜ         
+- Improves the quality what the fuck tis klthsi ㅇㄹㅇㄴㄹㄴㅇㄹsdfsdfsdf
