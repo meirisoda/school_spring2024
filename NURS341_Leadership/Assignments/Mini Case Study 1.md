@@ -5,13 +5,14 @@ You have been a nurse for over 5 years and have been interviewing for a nurse ma
 1. What type of leadership do you want to use?  
 		I would like to be a leader who uses a mix of transformational and democractic leadership. 
 		
-1. Why did select this style?  
+2. Why did select this style?  
 		I selected these because I believe that these two styles combbine the things I personally value most. Democratic leadership is important to me because I believe that every member of a team has something valuable to offer, and taking everybody's opinions into consideration is important when making decisions. Transformational leadership is one that focuses on individual growth and promoting internal motivation for every member of the team. By providing guidance from a third-person's perspective with transformational leadership, the team can grow to their fullest potential. 
 		
-1. How will you demonstrate your leadership style in day to day activities on your unit?  
+3. How will you demonstrate your leadership style in day to day activities on your unit?  
 		It would involve being very aware of all qualities of my team members and I would make effort to be very observant and listen to any concerns and opinions. Active listening is a major aspect of demonstrating my leadership style and making sure everybody feels like they are being heard (which they should be) and doing my best to actively maintain relationships with each staff member is paramount. 
-1. Write a description for your position as nurse manager that reflects your philosophy of leadership and management.  
-2. 
+		
+4. Write a description for your position as nurse manager that reflects your philosophy of leadership and management.  
 		As a nurse manager, I value hearing diverse perspectives and involving the team in my decision-making process. I make an effort to inspire and motivate with a personal commitment to continuous learning and self-improvement. By building trust and strong relationships with my colleagues, I aim to create a resilient and cohesive team that is dedicated to delivering high-quality patient care. 
 1. How will you develop staff leadership?
+	1. I 
 
