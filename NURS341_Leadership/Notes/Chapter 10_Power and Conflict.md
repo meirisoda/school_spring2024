@@ -27,4 +27,8 @@ Involves incompatibilities in views about how the work should be accomplished.
 - Stimulates creativity and innovation
 - Encourages interest and curiosity
 - Provides a medium through which problems can be aired and tensions released
-- Fosters an environment of self-evalu
+- Fosters an environment of self-evaluation and change. 
+### Dysfunctional/Destructive
+- Degrading of communication
+- Reduction in group cohesiveness
+- Subo
