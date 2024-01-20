@@ -50,4 +50,6 @@ Conflicts that occur between different individuals, groups, organizations or oth
 5. Problem-Solving
 **Rahim and Magner**
 1. Integrating (cooperation among parties to find mutual ground)
-2. 
+2. Obliging (reducing differences and trying to satisfy the other party)
+3. Dominating (solution-oriented)
+4. Avoiding (behavioural )
