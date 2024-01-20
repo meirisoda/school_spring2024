@@ -33,9 +33,8 @@ Involves incompatibilities in views about how the work should be accomplished.
 - Degrading of communication
 - Reduction in group cohesiveness
 - Subordination of group goals
-
-![[Pasted image 20240119210550.png]]
 ## Levels of Conflict
+![[Pasted image 20240119210550.png]]
 ### Intrapersonal Conflict
 Discord, tension or stress inside an individual that results from unmet needs, expectations of goals. 
 Generates from within an individual. 
