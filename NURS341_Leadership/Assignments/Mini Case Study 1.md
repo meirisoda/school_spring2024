@@ -14,5 +14,5 @@ You have been a nurse for over 5 years and have been interviewing for a nurse ma
 4. Write a description for your position as nurse manager that reflects your philosophy of leadership and management.  
 		As a nurse manager, I value hearing diverse perspectives and involving the team in my decision-making process. I make an effort to inspire and motivate with a personal commitment to continuous learning and self-improvement. By building trust and strong relationships with my colleagues, I aim to create a resilient and cohesive team that is dedicated to delivering high-quality patient care. 
 1. How will you develop staff leadership?
-	1. As mentioned earlier, I will make a consistent effort to be observant and take note of each staffs' unique skills. Considering current circumstances, I will evaluate which qualities I lack and what the unit needs. Transformational leadership will encourage personal growth on all level
+	1. As mentioned earlier, I will make a consistent effort to be observant and take note of each staffs' unique skills. Considering current circumstances, I will evaluate which qualities I lack and what the unit needs. Transformational leadership will encourage personal growth on all levels, and I will make opportunities for people to take charge and collaborate in 
 
