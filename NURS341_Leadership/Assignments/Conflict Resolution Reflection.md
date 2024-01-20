@@ -8,4 +8,4 @@ Question that I still have
 How would I differently approach conflict now that I know more conflict management
 
 For me, as I've taken a year off and have had some spaced out clinical experiences, I do not have much to speak on conflicts I've observed *during* my clinicals. However, I can speak of conflicts I've either seen or been directly involved in in a clinical setting. 
-During work, there was a time in which I've clashed with another UAP due to miscommunication. 
+During work, there was a time in which I've clashed with another UAP due to miscommunication. It ended with the UAP yelling at me in the 
