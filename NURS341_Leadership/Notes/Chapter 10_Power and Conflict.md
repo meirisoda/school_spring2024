@@ -18,4 +18,5 @@ May result from scarce resrouces (such as time, responsibilities, status or budg
 About the way a team is doing its job, including the pros and cons of certain task approaches. 
 Usually seen as healthy as it promotes and stimulates discussions and constant improvement, which leads to increased team effectiveness and performance. 
 ### Relationship Conflicts
-About people, their values, political convictions or religious preference. They are highly dependent on 
+About people, their values, political convictions or religious preference. They are highly dependent on individual and subjective values and each party can be quite biased. 
+###
