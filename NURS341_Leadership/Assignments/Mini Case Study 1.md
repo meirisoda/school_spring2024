@@ -7,8 +7,8 @@ You have been a nurse for over 5 years and have been interviewing for a nurse ma
 1. Why did select this style?  
 		I selected these because I believe that these two styles combbine the things I personally value most. Democratic leadership is important to me because I believe that every member of a team has something valuable to offer, and taking everybody's opinions into consideration is important when making decisions. Transformational leadership is one that focuses on individual growth and promoting internal motivation for every member of the team. By providing guidance from a third-person's perspective with transformational leadership, the team can grow to their fullest potential. 
 1. How will you demonstrate your leadership style in day to day activities on your unit?  
-	4. It would involve being very aware of all qualities of my team members and I would make effort to be very observant and listen to any concerns and opinions. Active listening is a major aspect of demonstrating my leadership style and making sure everybody feels like they are being heard (which they should be)
-2. Write a description for your position as nurse manager that reflects your philosophy of leadership and management.  
-	1. 
-3. How will you develop staff leadership?
+		It would involve being very aware of all qualities of my team members and I would make effort to be very observant and listen to any concerns and opinions. Active listening is a major aspect of demonstrating my leadership style and making sure everybody feels like they are being heard (which they should be) and doing my best to actively maintain relationships with each staff m
+1. Write a description for your position as nurse manager that reflects your philosophy of leadership and management.  
+	1. As a Nurse Manager, I blend democratic and transformational leadership to foster a collaborative and inspiring healthcare environment. I believe in involving the team in decision-making, valuing diverse perspectives. Simultaneously, I inspire and motivate through a commitment to continuous learning and excellence. Building trust and strong relationships, I aim to create a resilient and cohesive team dedicated to delivering high-quality patient care.
+2. How will you develop staff leadership?
 
