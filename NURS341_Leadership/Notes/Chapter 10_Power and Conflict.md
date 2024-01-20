@@ -21,8 +21,9 @@ Usually seen as healthy as it promotes and stimulates discussions and constant i
 About people, their values, political convictions or religious preference. They are highly dependent on individual and subjective values and each party can be quite biased. 
 ### Process Conflict
 Involves incompatibilities in views about how the work should be accomplished. 
-## Conflict Management
+# Conflict Management
 ![[Pasted image 20240119210324.png|300]]
+## Pros and Cons of Conflict
 ### Functional/Constructive
 - Improves the quality of decisions
 - Stimulates creativity and innovation
