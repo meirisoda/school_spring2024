@@ -13,4 +13,6 @@ Decreased attention to patient care, employee satisfaction and morale, and incre
 The struggle over scarce organizational resources - specific locuses may be values, goals, roles, money or structural elements. 
 ### Workplace Conflict
 When one party - individual or a group - perceives its goals, values or opinions being thwarted by an interdependent counterpart. 
-May result from scarce resrouces (such as time, responsibilities, status or budgets) or they could also involve different political preferences, relig
+May result from scarce resrouces (such as time, responsibilities, status or budgets) or they could also involve different political preferences, religious and social issues or a combination of several. 
+### Task-related Conflicts
+About the way a team is doing its job, including the pros and cons of certain task approaches. 
