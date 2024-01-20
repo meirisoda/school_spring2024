@@ -9,7 +9,7 @@ You have been a nurse for over 5 years and have been interviewing for a nurse ma
 1. How will you demonstrate your leadership style in day to day activities on your unit?  
 		It would involve being very aware of all qualities of my team members and I would make effort to be very observant and listen to any concerns and opinions. Active listening is a major aspect of demonstrating my leadership style and making sure everybody feels like they are being heard (which they should be) and doing my best to actively maintain relationships with each staff member is paramount. 
 1. Write a description for your position as nurse manager that reflects your philosophy of leadership and management.  
-	1. As a nurse manager, I believe in involving the team 
+	1. As a nurse manager, I value hearing diverse perspectives and involving t
 		As a Nurse Manager, I blend democratic and transformational leadership to foster a collaborative and inspiring healthcare environment. I believe in involving the team in decision-making, valuing diverse perspectives. Simultaneously, I inspire and motivate through a commitment to continuous learning and excellence. Building trust and strong relationships, I aim to create a resilient and cohesive team dedicated to delivering high-quality patient care.
 1. How will you develop staff leadership?
 
