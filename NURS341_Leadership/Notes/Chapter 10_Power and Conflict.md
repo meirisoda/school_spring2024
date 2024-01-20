@@ -42,15 +42,6 @@ Generates from within an individual.
 ### Interpersonal Conflict (Dyadic)
 Conflicts that occur between different individuals, groups, organizations or other social units. 
 ## Conflict Management
-**Blake and Mouton's** Framework for classifying approaches for handling interpersonal conflicts: 
-1. Forcing
-2. Withdrawing
-3. Smoothing
-4. Compromising
-5. Problem-Solving
-**Rahim and Magner**
-1. Integrating (cooperation among parties to find mutual ground)
-2. Obliging (reducing differences and trying to satisfy the other party)
-3. Dominating (solution-oriented)
-4. Avoiding (behavioural withdraw or escape)
-5. Compromising 
+All conflicts include"
+- **Causes**, which occur before the conflict
+- **Core processes**, which are per
