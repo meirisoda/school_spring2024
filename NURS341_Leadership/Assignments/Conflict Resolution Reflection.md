@@ -4,4 +4,5 @@ After the Conflict Resolution discussion (1/17), students will write a brief, bu
 
 Clincial practice experience
 Important issue I learned during the class
-Question that 
+Question that I still have
+How would I differently approach conflict now that I know more conflict management
