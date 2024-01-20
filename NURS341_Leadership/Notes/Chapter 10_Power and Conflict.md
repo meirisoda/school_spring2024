@@ -39,3 +39,4 @@ Involves incompatibilities in views about how the work should be accomplished.
 Discord, tension or stress inside an individual that results from unmet needs, expectations of goals. 
 Generates from within an individual. 
 ### Interpersonal Conflict
+Conflicts that occur between different
