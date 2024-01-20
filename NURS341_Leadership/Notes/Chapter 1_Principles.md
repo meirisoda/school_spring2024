@@ -1,2 +1,2 @@
 **Leadership** defined as somebody who influences people to accomplish goals. 
-**Management** is defined as the coordination and integration of resources through planning, organizing 
+**Management** is defined as the coordination and integration of resources through planning, organizing coordinating, directing and controlling to achieve certain institutional goals and objectives. 
