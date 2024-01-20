@@ -31,4 +31,5 @@ Involves incompatibilities in views about how the work should be accomplished.
 ### Dysfunctional/Destructive
 - Degrading of communication
 - Reduction in group cohesiveness
-- Subo
+- Subordination of group goals
+![[Pasted image 20240119210324.png|300]]
