@@ -44,4 +44,6 @@ Measures 5 dimensions
 ## Results and Discussion
 FLNMs had a moderate self-rating of their leadership practices. They identified highly with Enabling others to act, Modeling the way and Challenging the process. 
 
-b
+How can nursing resilience be developed and learned? 
+Attributed to:
+- a caring workplace
