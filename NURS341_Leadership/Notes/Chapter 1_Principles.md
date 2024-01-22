@@ -7,3 +7,8 @@
 | Focused on human relationship aspects | Focused on task accomplishment |
 | Interactive mode rather than a stepwise linear process                                      | Part of leadership                               |
 # Leadership
+## Core Components
+- Process
+- Involves influence
+- Occurs in groups
+- Involves common goal
