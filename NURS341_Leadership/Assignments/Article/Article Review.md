@@ -16,4 +16,7 @@ Correlated to the rates of burnout, depression, stress and compassion fatigue
 - Organizational resilience involves having a shared vision, willingness to learn, adaptation ability, cooperative awareness and work enthusiasm --> affects individuals
 ## Job involvement
 The extent in which the employee is committed to the job.
-Having high job involvement 
+Having high job involvement directly affects how they feel about their work and how connected they are to it. 
+
+# Significance of the Study
+#
