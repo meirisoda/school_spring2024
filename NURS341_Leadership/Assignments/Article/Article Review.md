@@ -56,8 +56,9 @@ Attributed to:
 - promoting the practice of mindfulness 
 - conveying altruism
 
-Ties to job involvement 
+Ties to job involvement  -- > has involvement in work outcomes
 - important relationship with organizational justice, value and respect
 - leadership performance
 - decision-making practices
-- interac
+- interactive relationships 
+- job characteristics
