@@ -62,4 +62,4 @@ Has involvement in work outcomes
 - interactive relationships 
 - job characteristics
 ### In Leaders
-Nurse leaders who authentically present with themselves and nurses have the potential to increase connectedness, enhance personal and professional satisfaction, and promote resilience. 
+Nurse leaders who authentically present with themselves and nurses have the potential to increase connectedness, enhance personal and professional satisfaction, and promote resilience. z
