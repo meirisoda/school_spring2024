@@ -57,3 +57,7 @@ Attributed to:
 - conveying altruism
 
 Ties to job involvement 
+- important relationship with organizational justice, value and respect
+- leadership performance
+- decision-making practices
+- interac
