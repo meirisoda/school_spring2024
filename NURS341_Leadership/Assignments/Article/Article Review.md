@@ -21,4 +21,6 @@ Having high job involvement directly affects how they feel about their work and 
 # Significance of the Study
 ## Primary Goal
 To provide high-quality, cost-efficient patient care. 
---> must involve the staff nurses and support of 
+--> must involve the staff nurses and support of nurse managers
+
+Effective leadership that fosters decision-making, autonomy in nursing practice, respect, teamwork and cohesive interactions. 
