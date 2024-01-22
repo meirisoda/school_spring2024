@@ -20,6 +20,8 @@ Actively manage the change process thorugh communication, feedback, training, su
 Create a learning environment. 
 ## Roles of a Nurse
 1. Service profession as a direct provider
-	1. Directly 
+	1. Directly provides care
 2. Coordinator/integrator role
 	1. A complementary fx that arises from nursing's central positioning tin the day to day coordination of service delivery and information flow regarding care and service delivery
+## Skills
+### Diagnosing
