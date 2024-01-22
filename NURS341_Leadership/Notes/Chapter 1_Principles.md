@@ -18,3 +18,7 @@ Balance tensions between efficiency and reliability
 Create and sustain trust
 Actively manage the change process thorugh communication, feedback, training, sustained effort and attention, and worker involvement. 
 Create a learning environment. 
+## Roles of a Nurse
+1. Service profession as a direct provider. 
+2. Coordinator/integrator role
+	1. A comple
