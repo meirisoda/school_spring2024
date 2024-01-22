@@ -43,8 +43,7 @@ Measures 5 dimensions
 **Sociodemographic and work related form**
 ## Results and Discussion
 FLNMs had a moderate self-rating of their leadership practices. They identified highly with Enabling others to act, Modeling the way and Challenging the process. 
-
-How can nursing resilience be developed and learned? 
+### How can nursing resilience be developed and learned? 
 Attributed to:
 - a caring workplace
 - collegial support networks for nurses -- crucial in building employees' morale, fostering cohesion, and sharing accountabilities amongst them
@@ -55,10 +54,11 @@ Attributed to:
 - fostering growth
 - promoting the practice of mindfulness 
 - conveying altruism
-
-Ties to job involvement  -- > has involvement in work outcomes
+### Ties to job involvement 
+Has involvement in work outcomes
 - important relationship with organizational justice, value and respect
 - leadership performance
 - decision-making practices
 - interactive relationships 
 - job characteristics
+### In Leaders
