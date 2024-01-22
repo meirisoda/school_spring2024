@@ -27,3 +27,9 @@ Effective leadership that fosters decision-making, autonomy in nursing practice,
 Determine the relationship between transformational leadership practices of FLNMs and nurses' organizational resilience and job involvement. 
 ## Methods
 Leadership practices inventory (LPI)
+1. Modeling the way
+2. Inspiring a Shared Vision
+3. Challenging the Process
+4. Enabling others to act
+5. Encouraging the Heart
+Organizational Resilience Questiona
