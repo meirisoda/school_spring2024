@@ -19,4 +19,6 @@ The extent in which the employee is committed to the job.
 Having high job involvement directly affects how they feel about their work and how connected they are to it. 
 
 # Significance of the Study
-#
+## Primary Goal
+To provide high-quality, cost-efficient patient care. 
+--> must involve the staff nurses and support of 
