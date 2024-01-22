@@ -32,3 +32,9 @@ Being able to adapt behaviors and other resources to match the situation -- beha
 #### Communicating 
 Used to advance the process in a way that individuals can understand and accept -- process competency. 
 ### Emotional Intelligence 
+Consist of 5 defining attributes:
+1. self-awareness
+2. self-regulation/discipline
+3. motivation
+4. social awareness
+5. relationship management
