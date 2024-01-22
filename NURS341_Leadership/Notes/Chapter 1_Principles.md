@@ -28,4 +28,5 @@ Create a learning environment.
 Being able to understand the situation and the problem to be solved or resolve -- a cognitive competency.
 ### Adapting
 Being able to adapt behaviors and other resources to match the situation -- behavioral competency.
-### Communictaing 
+### Communicating 
+Used to advance the process in a way that individuals can understand and accept -- process competency. 
