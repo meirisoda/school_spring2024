@@ -26,5 +26,6 @@ Create a learning environment.
 ## Skills
 ### Diagnosing
 Being able to understand the situation and the problem to be solved or resolve -- a cognitive competency.
-### Aapting
-Being able to adapt behaviors and other resources to mat
+### Adapting
+Being able to adapt behaviors and other resources to match the situation -- behavioral competency.
+### Communictaing 
