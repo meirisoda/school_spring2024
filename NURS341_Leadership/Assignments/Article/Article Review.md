@@ -48,4 +48,5 @@ How can nursing resilience be developed and learned?
 Attributed to:
 - a caring workplace
 - collegial support networks for nurses -- crucial in building employees' morale, fostering cohesion, and sharing accountabilities amongst them
-- resilience training can help equip nurse
+- resilience training can help equip nurses with increased capacity to mitigate workplace adversity, increase personal resilience, and influence decision to remain in teh workforce. 
+- facilitating social interactions, teamwo
