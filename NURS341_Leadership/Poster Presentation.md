@@ -1,1 +1,0 @@
-Nursing Informatics for Leaders in Clinical Nursing 
