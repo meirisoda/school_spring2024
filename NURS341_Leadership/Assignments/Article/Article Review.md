@@ -62,3 +62,4 @@ Has involvement in work outcomes
 - interactive relationships 
 - job characteristics
 ### In Leaders
+Nurse leaders who authentically present with themselves and nurses have the potential to increase connectedness, 
