@@ -24,9 +24,11 @@ Create a learning environment.
 2. Coordinator/integrator role
 	1. A complementary fx that arises from nursing's central positioning tin the day to day coordination of service delivery and information flow regarding care and service delivery
 ## Skills
-### Diagnosing
+### Three Main Skills
+#### Diagnosing
 Being able to understand the situation and the problem to be solved or resolve -- a cognitive competency.
-### Adapting
+#### Adapting
 Being able to adapt behaviors and other resources to match the situation -- behavioral competency.
-### Communicating 
+#### Communicating 
 Used to advance the process in a way that individuals can understand and accept -- process competency. 
+### Emotional Intelligence 
