@@ -34,8 +34,9 @@ Used to advance the process in a way that individuals can understand and accept 
 ### Emotional Intelligence 
 Consist of 5 defining attributes:
 1. self-awareness
+	1. The ability to read one's own emotional state and be aware of one's own mood and how this affects st
 2. self-regulation/discipline
 3. motivation
 4. social awareness
 5. relationship management
-Helps understand and assess the meaning of emotions, to reason and to problem solve. 
+Helps understand and assess the meaning of emotions, to reason and to problem-solve. 
