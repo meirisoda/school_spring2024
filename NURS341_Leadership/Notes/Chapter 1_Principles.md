@@ -12,4 +12,6 @@
 - Involves influence
 - Occurs in groups
 - Involves common goals
-- 
+## Areas of Management Practice
+Implement evidence based management - 
+Balance tensions between efficien
