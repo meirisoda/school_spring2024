@@ -19,6 +19,7 @@ Create and sustain trust
 Actively manage the change process thorugh communication, feedback, training, sustained effort and attention, and worker involvement. 
 Create a learning environment. 
 ## Roles of a Nurse
-1. Service profession as a direct provider. 
+1. Service profession as a direct provider
+	1. Directly 
 2. Coordinator/integrator role
-	1. A comple
+	1. A complementary fx that arises from nursing's central positioning tin the day to day coordination of service delivery and information flow regarding care and service delivery
