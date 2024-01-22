@@ -6,3 +6,7 @@ Nursing Informatics for Leaders in Clinical Nursing
 3. The framework developed the Evidence-Based Clinical Documentation (EBCD) and Nursing Data Portal (NDP) solutions. The overall vision for the clinically focused EBCD system was to create a patient-centric record that guides and informs the provision of safe, effective, and efficient care by the interdisciplinary team and produces data to valuate care of individual and population care. The leadership-focused NDP system sought to establish a single platform for sharing nursing performance data. 
     
 4. These two nursing informatics solutions have different focuses but were developed from the same systems-level framework. This system-level method demonstrates the role of specific leadership in guiding the ideation, design, development, data mapping and visualization, and application of the products. The developed framework gives executive nursing leadership a systems-level method on which to base future projects.
+
+BP1: study/paper aim BP2: main point #1 BP3: main point #2 BP4: conclusion
+
+1. The 
