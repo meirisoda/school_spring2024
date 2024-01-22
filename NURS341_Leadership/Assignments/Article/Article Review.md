@@ -18,9 +18,10 @@ Correlated to the rates of burnout, depression, stress and compassion fatigue
 The extent in which the employee is committed to the job.
 Having high job involvement directly affects how they feel about their work and how connected they are to it. 
 
-# Significance of the Study
-## Primary Goal
+# Study
 To provide high-quality, cost-efficient patient care. 
 --> must involve the staff nurses and support of nurse managers
 
 Effective leadership that fosters decision-making, autonomy in nursing practice, respect, teamwork and cohesive interactions. 
+## Aim
+Determine the relationship betw
