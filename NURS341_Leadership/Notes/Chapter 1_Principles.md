@@ -36,7 +36,7 @@ Consist of 5 defining attributes:
 1. self-awareness
 	1. The ability to read one's own emotional state and be aware of one's own mood and how this affects staff relationships
 2. Self-regulation/discipline
-	1. Ability to take corrective action so as not to transfer negative affect to staff relationships
+	1. Ability to take corrective action so as not to transfer negative affect to staff relationships 
 3. Motivation
 4. social awareness
 5. relationship management
