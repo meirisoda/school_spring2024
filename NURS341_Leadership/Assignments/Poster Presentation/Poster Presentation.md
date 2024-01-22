@@ -9,4 +9,4 @@ Nursing Informatics for Leaders in Clinical Nursing
 
 BP1: study/paper aim BP2: main point #1 BP3: main point #2 BP4: conclusion
 
-1. Nursing informatics has made its way as a crucial component of nursing care over the last decade. Nursing informatics can be defined as the application of information technology in nursing responsibilities encompassing management, practice and edu
+1. Nursing informatics has made its way as a crucial component of nursing care over the last decade. Nursing informatics can be defined as the application of information technology in nursing responsibilities encompassing management, practice and education. It combines and integrates computer science, nursing science and information to supplement nursing care. 
