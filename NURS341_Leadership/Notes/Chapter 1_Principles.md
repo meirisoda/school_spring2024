@@ -11,4 +11,5 @@
 - Process
 - Involves influence
 - Occurs in groups
-- Involves common goal
+- Involves common goals
+- 
