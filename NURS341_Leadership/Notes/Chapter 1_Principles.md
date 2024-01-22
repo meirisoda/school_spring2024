@@ -25,3 +25,6 @@ Create a learning environment.
 	1. A complementary fx that arises from nursing's central positioning tin the day to day coordination of service delivery and information flow regarding care and service delivery
 ## Skills
 ### Diagnosing
+Being able to understand the situation and the problem to be solved or resolve -- a cognitive competency.
+### Aapting
+Being able to adapt behaviors and other resources to mat
