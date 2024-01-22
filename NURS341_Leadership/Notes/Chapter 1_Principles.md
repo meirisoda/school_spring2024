@@ -14,4 +14,7 @@
 - Involves common goals
 ## Areas of Management Practice
 Implement evidence based management - 
-Balance tensions between efficien
+Balance tensions between efficiency and reliability
+Create and sustain trust
+Actively manage the change process thorugh communication, feedback, training, sustained effort and attention, and worker involvement. 
+Create a learning environment. 
