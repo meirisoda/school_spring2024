@@ -47,3 +47,5 @@ FLNMs had a moderate self-rating of their leadership practices. They identified 
 How can nursing resilience be developed and learned? 
 Attributed to:
 - a caring workplace
+- collegial support networks for nurses -- crucial in building employees' morale, fostering cohesion, and sharing accountabilities amongst them
+- resilience training can help equip nurse
