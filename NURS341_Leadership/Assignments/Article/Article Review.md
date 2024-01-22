@@ -44,3 +44,4 @@ Measures 5 dimensions
 ## Results and Discussion
 FLNMs had a moderate self-rating of their leadership practices. They identified highly with Enabling others to act, Modeling the way and Challenign the process. 
 
+b
