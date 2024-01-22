@@ -11,4 +11,6 @@ Proposal
 	- encouraging the heart
 - resilience! 
 	- process of people adapting well to the adversities they face and staying optimistic about the future
-	- 
+	- rates of burnout, depression, stress and compassion fatigue
+	- It is a skill that can be learned (individually)
+	- Organizational resil
