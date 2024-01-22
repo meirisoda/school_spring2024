@@ -38,3 +38,4 @@ Consist of 5 defining attributes:
 3. motivation
 4. social awareness
 5. relationship management
+Helps understand and assess the meaning of emotions, to reason and to 
