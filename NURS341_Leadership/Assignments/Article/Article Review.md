@@ -42,6 +42,6 @@ Measures 5 dimensions
 **Job Involvement Questionnaire**
 **Sociodemographic and work related form**
 ## Results and Discussion
-FLNMs had a moderate self-rating of their leadership practices. They identified highly with Enabling others to act, Modeling the way and Challenign the process. 
+FLNMs had a moderate self-rating of their leadership practices. They identified highly with Enabling others to act, Modeling the way and Challenging the process. 
 
 b
