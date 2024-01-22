@@ -24,4 +24,5 @@ To provide high-quality, cost-efficient patient care.
 
 Effective leadership that fosters decision-making, autonomy in nursing practice, respect, teamwork and cohesive interactions. 
 ## Aim
-Determine the relationship betw
+Determine the relationship between transformational leadership practices of FLNMs and nurses' organizational resilience and job involvement. 
+## Methods
