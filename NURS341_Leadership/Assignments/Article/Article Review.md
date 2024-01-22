@@ -38,4 +38,6 @@ Measures 5 dimensions
 2. willingness to learn
 3. cooperative awareness
 4. adaptability
-5. work
+5. work enthusiasm
+**Job Involvement Questionnaire**
+**Sociodemographic and work related form**
