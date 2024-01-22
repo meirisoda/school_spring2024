@@ -9,4 +9,4 @@ Nursing Informatics for Leaders in Clinical Nursing
 
 BP1: study/paper aim BP2: main point #1 BP3: main point #2 BP4: conclusion
 
-1. The 
+1. Nursing informatics can 
