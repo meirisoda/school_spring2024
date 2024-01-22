@@ -49,4 +49,11 @@ Attributed to:
 - a caring workplace
 - collegial support networks for nurses -- crucial in building employees' morale, fostering cohesion, and sharing accountabilities amongst them
 - resilience training can help equip nurses with increased capacity to mitigate workplace adversity, increase personal resilience, and influence decision to remain in teh workforce. 
-- facilitating social interactions, teamwo
+- facilitating social interactions, teamwork
+- endorsing positivity
+- leveraging the strengths of nurses
+- fostering growth
+- promoting the practice of mindfulness 
+- conveying altruism
+
+Ties to job involv
