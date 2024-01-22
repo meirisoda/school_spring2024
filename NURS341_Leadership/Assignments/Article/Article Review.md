@@ -64,4 +64,4 @@ Has involvement in work outcomes
 ### In Leaders
 Nurse leaders who authentically present with themselves and nurses have the potential to increase connectedness, enhance personal and professional satisfaction, and promote resilience. 
 
-This article talks about resilience and job involvement in it
+This article talks about resilience and job involvements' role in work satsfaction, quality and ability to inspire and lead others. They open with an aim to 
