@@ -41,5 +41,5 @@ Consist of 5 defining attributes:
 4. social awareness
 	1. An intuitive skill of empathy and expressiveness in being sensitive and aware of emotions and moods of others
 5. relationship management
-	1. Use of effective communication with others to disarm conflict and the ability to develop the emotional maturity of team members                                             
+	1. Use of effective communication with others to disarm conflict and the ability to develop the emotional maturity of team members                                           bj
 Helps understand and assess the meaning of emotions, to reason and to problem-solve. 
