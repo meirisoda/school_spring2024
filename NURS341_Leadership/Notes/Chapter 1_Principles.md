@@ -61,4 +61,6 @@ Typically uses directive behaviors and places a high emphasis on task.
 Tend to strictly enforce regulations and statuses in the hierarchy and strive to maintain the status quo. 
 ### Charismatic
 Attract followers and motivate team to follow their lead. 
-### 
+### Democratic
+Wecome subordinate participation in decision making and implies and relationship and person orientation. 
+Shares responsibility 
