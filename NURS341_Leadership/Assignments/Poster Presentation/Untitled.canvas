@@ -1,8 +1,9 @@
 {
 	"nodes":[
+		{"id":"2a67e9b9eb05f27b","x":-107,"y":-103,"width":250,"height":60,"type":"text","text":""},
 		{"id":"0c5c9869d6cfd8c8","x":-245,"y":-473,"width":443,"height":218,"type":"text","text":"## Health Informatics\nThe interprofessional field that studies and pursues the effective uses of biomedical data, information, and knowledge for scientific inquiry, problem-solving, decision making, motivated by efforts to improve human health."},
 		{"id":"733014e713e25296","x":-422,"y":-161,"width":250,"height":125,"type":"text","text":"## Electronic Health Records (EHRs)"},
-		{"id":"c4ee93225a2e8964","x":-459,"y":50,"width":250,"height":60,"type":"text","text":"Reduce time spent on documentation and accessing information\n"}
+		{"id":"c4ee93225a2e8964","x":-422,"y":-2,"width":250,"height":278,"type":"text","text":"- Reduce time spent on documentation and accessing information\n- Reduce medication errors\n- Increase patient satisfaction"}
 	],
 	"edges":[
 		{"id":"17e0b39886b72895","fromNode":"0c5c9869d6cfd8c8","fromSide":"bottom","toNode":"733014e713e25296","toSide":"top"},
