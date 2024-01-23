@@ -1,18 +1,18 @@
 {
 	"nodes":[
-		{"id":"c4ee93225a2e8964","x":-459,"y":145,"width":250,"height":278,"type":"text","text":"- Reduce time spent on documentation and accessing information\n- Reduce medication errors\n- Increase patient satisfaction"},
-		{"id":"733014e713e25296","x":-459,"y":-14,"width":250,"height":125,"type":"text","text":"## Electronic Health Records (EHRs)"},
-		{"id":"0c5c9869d6cfd8c8","x":-555,"y":-362,"width":443,"height":218,"type":"text","text":"## Health Informatics\nThe interprofessional field that studies and pursues the effective uses of biomedical data, information, and knowledge for scientific inquiry, problem-solving, decision making, motivated by efforts to improve human health."},
-		{"id":"2a67e9b9eb05f27b","x":37,"y":-359,"width":250,"height":100,"type":"text","text":"## Nursing Leadership"},
-		{"id":"5f842a975b00d81f","x":-78,"y":-160,"width":250,"height":146,"type":"text","text":"### Evidence-Based Clinical Documentation (EBCD) "},
-		{"id":"9d80de682228313d","x":208,"y":-160,"width":250,"height":99,"type":"text","text":"### Nursing Data Portal (NDP)"}
+		{"id":"c4ee93225a2e8964","type":"text","text":"- Reduce time spent on documentation and accessing information\n- Reduce medication errors\n- Increase patient satisfaction","x":-459,"y":145,"width":250,"height":278},
+		{"id":"733014e713e25296","type":"text","text":"## Electronic Health Records (EHRs)","x":-459,"y":-14,"width":250,"height":125},
+		{"id":"0c5c9869d6cfd8c8","type":"text","text":"## Health Informatics\nThe interprofessional field that studies and pursues the effective uses of biomedical data, information, and knowledge for scientific inquiry, problem-solving, decision making, motivated by efforts to improve human health.","x":-555,"y":-362,"width":443,"height":218},
+		{"id":"2a67e9b9eb05f27b","type":"text","text":"## Nursing Leadership","x":37,"y":-359,"width":250,"height":100},
+		{"id":"9d80de682228313d","type":"text","text":"### Nursing Data Portal (NDP)","x":208,"y":-160,"width":250,"height":99},
+		{"id":"5f842a975b00d81f","type":"text","text":"### Evidence-Based Clinical Documentation (EBCD) ","x":-88,"y":-183,"width":250,"height":146}
 	],
 	"edges":[
 		{"id":"17e0b39886b72895","fromNode":"0c5c9869d6cfd8c8","fromSide":"bottom","toNode":"733014e713e25296","toSide":"top"},
 		{"id":"72c9ba5cee0cee6d","fromNode":"733014e713e25296","fromSide":"bottom","toNode":"c4ee93225a2e8964","toSide":"top"},
 		{"id":"5f0ad59783fadab0","fromNode":"2a67e9b9eb05f27b","fromSide":"bottom","toNode":"5f842a975b00d81f","toSide":"top"},
 		{"id":"1e18b5ec8eb2e3cd","fromNode":"2a67e9b9eb05f27b","fromSide":"bottom","toNode":"9d80de682228313d","toSide":"top"},
-		{"id":"7b5d4f2a6f5e7129","fromNode":"9d80de682228313d","fromSide":"bottom","toNode":"733014e713e25296","toSide":"right"},
-		{"id":"faa374b52213eadd","fromNode":"5f842a975b00d81f","fromSide":"bottom","toNode":"733014e713e25296","toSide":"right","label":"are a part of"}
+		{"id":"faa374b52213eadd","fromNode":"5f842a975b00d81f","fromSide":"bottom","toNode":"733014e713e25296","toSide":"right","label":"are a part of"},
+		{"id":"7e4ca226d834d7ad","fromNode":"9d80de682228313d","fromSide":"bottom","toNode":"733014e713e25296","toSide":"right"}
 	]
 }
