@@ -19,8 +19,9 @@ In evaluating the problem-solving of the supervisor:
 	To be honest, I don't know how else to act in this situation. 
 	
 2. Are there conflicting legal and ethical obligations? Explain your answer. 
-	Legally, I believe that 
-2. To who does the manager have the greatest obligation---patients, subordinates, or the  
+	I do believe there to be conflicting legal and ethical obligations. On a legal standpoint, Beverly 
+	
+1. To who does the manager have the greatest obligation---patients, subordinates, or the  
 organization? Why?  
 4. Could the outcome have been prevented? Why/why not?  
 5. Does this outcome reflect on the quality of the problem solving? Why/why not
