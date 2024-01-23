@@ -16,7 +16,7 @@ Questions:
 In evaluating the problem-solving of the supervisor:  
 
 1. Would your actions have been different if you were the supervisor?  
-	To be honest, I don't know how
+	To be honest, I don't know how else to act in this situation. 
 2. Are there conflicting legal and ethical obligations? Explain your answer  
 3. To who does the manager have the greatest obligation---patients, subordinates, or the  
 organization? Why?  
