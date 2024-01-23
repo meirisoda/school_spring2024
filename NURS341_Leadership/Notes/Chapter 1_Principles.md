@@ -52,5 +52,3 @@ helps understand and assess the meaning of emotions, to reason and to problem-so
 # Leadership Theories
 ## Trait Theories
 Focus
-
-
