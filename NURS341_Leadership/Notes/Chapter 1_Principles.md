@@ -73,9 +73,10 @@ Share power and decision making with subordinates and direct organization based 
 Change leadership style based on what produces effectiveness. 
 - The need for leadership is not static
 - Groups move back and forth through stages
-- Lead
+- Leadership styles are fluid based on the group's needs
 ### Transactional Leadership 
 Focused on day-to-day operations and uses a reward system to motivate employees to achieve success.
 ### Transformational 
+Someone who motivates followers to perform to their fullest potential over time by influencing a change in perceptions and by providing a sense of direction. 
 Use inspiring energy and personality to raise each other to higher levels of motivation
 Often more effective than charismatic leadership as it is follower focused. 
