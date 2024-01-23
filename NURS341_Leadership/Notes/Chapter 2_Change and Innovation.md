@@ -23,3 +23,7 @@ Emphasis is on helping others to see the need for the change and to embrace it.
 7. Consolidate gains and produce more change
 8. Anchor new approaches in the culture
 # Process of Change
+Emergence of events
+Talking with one another
+Development of practice
+	Which is a result of a chain of activities, purposeful and planned
