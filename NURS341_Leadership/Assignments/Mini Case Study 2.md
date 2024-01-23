@@ -20,7 +20,7 @@ In evaluating the problem-solving of the supervisor:
 	
 2. Are there conflicting legal and ethical obligations? Explain your answer.
 	I do believe there to be conflicting legal and ethical obligations (by a little bit). On a legal standpoint, by drinking on the job, Beverly is putting her patients' lives at risk and legally, I believe I am supposed to report this (depending on state laws).
-	On an ethical standpoint, since Beverly is putting her patients' and her
+	On an ethical standpoint, since Beverly is putting her patients' lives and her own life at risk, 
 	
 	
 1. To who does the manager have the greatest obligation---patients, subordinates, or the  
