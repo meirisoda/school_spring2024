@@ -1,4 +1,4 @@
-### Jamie Lee_Mini Case Study 2- The Impaired Employee  
+### Jamie Lee_Mini Case Study 2
 Beverly, a 35-year old, full-time nurse on the day shift, has been with your facility for 10 years.  
 There are rumors that she comes to work under the influence of alcohol. Staff report the smell of  
 alcohol on her breath, unexcused absences from the unit, and an increase in medication errors.  
@@ -14,7 +14,9 @@ requirement that she complete the program as they direct her. Beverly again beca
 
 Questions:  
 In evaluating the problem solving of the supervisor:  
+
 1. Would your actions have been different if you were the supervisor?  
+	My actions 
 2. Are there conflicting legal and ethical obligations? Explain your answer  
 3. To who does the manager have the greatest obligation---patients, subordinates, or the  
 organization? Why?  
