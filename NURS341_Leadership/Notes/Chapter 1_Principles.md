@@ -62,5 +62,7 @@ Tend to strictly enforce regulations and statuses in the hierarchy and strive to
 ### Charismatic
 Attract followers and motivate team to follow their lead. 
 ### Democratic
-Wecome subordinate participation in decision making and implies and relationship and person orientation. 
-Shares responsibility 
+Welcome subordinate participation in decision making and implies and relationship and person orientation. 
+Shares responsibility with followers by involving them in decision-making. 
+### Laissez-faire
+Hands-off approach and let employees assume responsibility in the decision-mak
