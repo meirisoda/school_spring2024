@@ -43,6 +43,11 @@ Consist of 5 defining attributes:
 5. relationship management
 	1. Use of effective communication with others to disarm conflict and the ability to develop the emotional maturity of team members
 helps understand and assess the meaning of emotions, to reason and to problem-solve. 
-##
+## 5 Interwoven Aspects
+1. The leader
+2. The follower
+3. The situation
+4. The communication process
+5. The goals
 # Leadership Theories
 ## Trait Theories
