@@ -58,4 +58,7 @@ Move beyond a focus on traits to explore the concept of leadership styles
 ### Autocratic
 Typically uses directive behaviors and places a high emphasis on task. 
 ### Bureaucratic
-Tend to strictly enforce regulations and statuses in the hierarchy and s
+Tend to strictly enforce regulations and statuses in the hierarchy and strive to maintain the status quo. 
+### Charismatic
+Attract followers and motivate team to follow their lead. 
+### 
