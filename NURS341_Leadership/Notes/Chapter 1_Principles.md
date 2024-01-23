@@ -69,4 +69,7 @@ Hands-off approach and let employees assume responsibility in the decision-makin
 Promotes complete freedom for group or individual decisions. 
 ### Servant
 Share power and decision making with subordinates and direct organization based on the interests of the team. 
-### 
+### Situational
+Change leadership style based on what produces effectiveness. 
+### Transactional Leadership 
+Focused on day-to-day operations and uses 
