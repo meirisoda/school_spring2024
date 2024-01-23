@@ -11,7 +11,7 @@ Focus is top administrators and management
 ### Emergent view of change
 Focus is on those affected at the frontline
 ## Lewin's Planned Change Theory
-Unfreezing, moving, and refreezing
+**Unfreezing** - Create an awareness of the nee
 ## Kotter's model of change 
 Emphasis is on helping others to see the need for the change and to embrace it. 
 1. Establish a sense of urgency
