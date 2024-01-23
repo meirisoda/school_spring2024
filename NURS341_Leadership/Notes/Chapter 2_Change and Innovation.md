@@ -21,4 +21,4 @@ Emphasis is on helping others to see the need for the change and to embrace it.
 5. Empower employees for broad-based action
 6. Generate short-term wins
 7. Consolidate gains and produce more change
-8. Anchor new ap
+8. Anchor new approaches in the culture
