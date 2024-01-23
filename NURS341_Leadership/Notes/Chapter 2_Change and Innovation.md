@@ -6,4 +6,7 @@
 **Change agent** - someone who encourages people to change or function as a change facilitator
 # Change Theories
 ## Background
-### Top-down 
+### Top-down change 
+Focus is top administrators and management
+### Emergent view of change
+Focus is on those affected at the frontline
