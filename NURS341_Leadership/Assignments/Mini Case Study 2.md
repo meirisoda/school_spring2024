@@ -16,7 +16,7 @@ Questions:
 In evaluating the problem-solving of the supervisor:  
 
 1. Would your actions have been different if you were the supervisor?  
-		To be honest, I don't know how else to act in this situation. While it is clear that whatever the supervisor did was not sufficient, 
+		To be honest, I don't know how else to act in this situation. While it is clear that whatever the supervisor did was not sufficient (in terms of changing outcome), there is a limited number of things that the supervisor *could* have done. Rather than changes in actions, I do believe the supervisor could have been less blunt with her desire for Beverly to complete the program. 
 	
 2. Are there conflicting legal and ethical obligations? Explain your answer.
 		I do believe there to be conflicting legal and ethical obligations (by a little bit). On a legal standpoint, by drinking on the job, Beverly is putting her patients' lives at risk and legally, I believe I am supposed to report this (depending on state laws).
@@ -27,6 +27,7 @@ organization? Why?
 		I believe that, personally, the manager has a great obligation to the patient, As a manage, one is overseeing the care of patients. However, I do also believe that the greatest obligation goes to the organization. The integrity of the organization can be very greatly compromised as a result of Beverly's actions, and if an incident occurs, liability will fall onto the nurse, the manager, and mostly the organization. And as part of administration, the nurse manager is obligated to the organization. 
 		
 4. Could the outcome have been prevented? Why/why not?  
-		I believe the outcome *could* have been prevented, but ultimately it is out of anybody's control except for Beverly. This might sound harsh, but regardless of the amount of support that outsiders provide, in the instance of mental health crises, all choice does fall onto the victim. It is not to say that the things that we do, as friends or managers, don't have a **chance** of preventing these outcomes. It is still extremely important to support and provide resources to those around us, and most importantly, be accepting and do not judge. As mentioned earlier, the manager did the most she could at the time. 
+		I believe the outcome *could* have been prevented, but ultimately it is out of anybody's control except for Beverly. This might sound harsh, but regardless of the amount of support that outsiders provide, in the instance of mental health crises, all choice does fall onto the victim. This is more personal, but as someone with Bipolar II disorder who has fallen into some quite severe depressive episodes, even though the people around me have tried their best to be supportive, in the end only I could get myself out of it. It is not to say that the things that we do, as friends or managers, don't have a **chance** of preventing these outcomes. It is still extremely important to support and provide resources to those around us, and most importantly, be accepting and do not judge. As mentioned earlier, the supervisor could have spoken with more nuance and sensitivity, but in terms of actions, I believe she did the most she could at the time. 
 		
-1. Does this outcome reflect on the quality of the problem-solving? Why/why not?
+5. Does this outcome reflect on the quality of the problem-solving? Why/why not?
+This outcome does not reflect the quality of problem-solving. Any actions surrounding mental health and 
