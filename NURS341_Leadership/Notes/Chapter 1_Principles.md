@@ -65,4 +65,8 @@ Attract followers and motivate team to follow their lead.
 Welcome subordinate participation in decision making and implies and relationship and person orientation. 
 Shares responsibility with followers by involving them in decision-making. 
 ### Laissez-faire
-Hands-off approach and let employees assume responsibility in the decision-mak
+Hands-off approach and let employees assume responsibility in the decision-making process. 
+Promotes complete freedom for group or individual decisions. 
+### Servant
+Share power and decision making with subordinates and direct organization based on the interests of the team. 
+### 
