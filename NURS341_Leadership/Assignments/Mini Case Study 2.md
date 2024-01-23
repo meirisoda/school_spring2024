@@ -24,6 +24,6 @@ In evaluating the problem-solving of the supervisor:
 	
 3. To whom does the manager have the greatest obligation---patients, subordinates, or the  
 organization? Why?  
-		I believe that, personally, the manager has a great obligation to the patient, As a manage, one is overseeing the care of patients. However 
+		I believe that, personally, the manager has a great obligation to the patient, As a manage, one is overseeing the care of patients. However, I do also believe that the greatest obligation goes to the organization. 
 1. Could the outcome have been prevented? Why/why not?  
 2. Does this outcome reflect on the quality of the problem solving? Why/why not
