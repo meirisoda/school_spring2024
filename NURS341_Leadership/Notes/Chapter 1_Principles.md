@@ -72,4 +72,7 @@ Share power and decision making with subordinates and direct organization based 
 ### Situational
 Change leadership style based on what produces effectiveness. 
 ### Transactional Leadership 
-Focused on day-to-day operations and uses 
+Focused on day-to-day operations and uses a reward system to motivate employees to achieve success.
+### Transformational 
+Use inspiring energy and personality to raise each other to higher levels of motivation
+Often more effective than chari
