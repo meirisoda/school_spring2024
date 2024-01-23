@@ -51,4 +51,4 @@ helps understand and assess the meaning of emotions, to reason and to problem-so
 5. The goals
 # Leadership Theories
 ## Trait Theories
-Focus
+Focus on traits or characteristics of the leader as a person
