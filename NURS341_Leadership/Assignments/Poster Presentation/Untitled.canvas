@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"c4ee93225a2e8964","type":"text","text":"- Reduce time spent on documentation and accessing information\n- Reduce medication errors\n- Increase patient satisfaction","x":-459,"y":145,"width":250,"height":278},
+		{"id":"c4ee93225a2e8964","type":"text","text":"- Reduce time spent on documentation and accessing information\n- Reduce medication errors\n- Increase patient satisfaction","x":-459,"y":145,"width":250,"height":268},
 		{"id":"733014e713e25296","type":"text","text":"## Electronic Health Records (EHRs)","x":-459,"y":-14,"width":250,"height":125},
 		{"id":"0c5c9869d6cfd8c8","type":"text","text":"## Health Informatics\nThe interprofessional field that studies and pursues the effective uses of biomedical data, information, and knowledge for scientific inquiry, problem-solving, decision making, motivated by efforts to improve human health.","x":-555,"y":-362,"width":443,"height":218},
 		{"id":"2a67e9b9eb05f27b","type":"text","text":"## Nursing Leadership","x":37,"y":-359,"width":250,"height":100},
