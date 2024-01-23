@@ -14,3 +14,11 @@ Focus is on those affected at the frontline
 Unfreezing, moving, and refreezing
 ## Kotter's model of change 
 Emphasis is on helping others to see the need for the change and to embrace it. 
+1. Establish a sense of urgency
+2. Create a guiding coalition
+3. Develop a vision and strategy
+4. Communicate the change vision
+5. Empower employees for broad-based action
+6. Generate short-term wins
+7. Consolidate gains and produce more change
+8. Anchor new ap
