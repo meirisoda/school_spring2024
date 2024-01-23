@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"0c5c9869d6cfd8c8","x":-245,"y":-322,"width":209,"height":67,"type":"text","text":"## Informatics\nThe "},
+		{"id":"0c5c9869d6cfd8c8","x":-245,"y":-454,"width":443,"height":199,"type":"text","text":"## Health Informatics\nThe interprofessional field that studies and pursues the effective uses of biomedical data, information, and knowledge for scientific inquiry, problem-solving, decision making, motivated by efforts to improve human health"},
 		{"id":"733014e713e25296","x":-422,"y":-161,"width":250,"height":125,"type":"text","text":"## Electronic Health Records (EHRs)"}
 	],
 	"edges":[
