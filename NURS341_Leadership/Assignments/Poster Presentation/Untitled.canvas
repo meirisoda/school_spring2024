@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"0c5c9869d6cfd8c8","x":-340,"y":-254,"width":250,"height":60,"type":"text","text":""}
+		{"id":"0c5c9869d6cfd8c8","x":-245,"y":-322,"width":209,"height":67,"type":"text","text":"## Informatics"},
+		{"id":"733014e713e25296","x":-422,"y":-161,"width":250,"height":60,"type":"text","text":""}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"17e0b39886b72895","fromNode":"0c5c9869d6cfd8c8","fromSide":"bottom","toNode":"733014e713e25296","toSide":"top"}
+	]
 }
