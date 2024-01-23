@@ -39,5 +39,7 @@ Consist of 5 defining attributes:
 	1. Ability to take corrective action so as not to transfer negative affect to staff relationships 
 3. Motivation
 4. social awareness
+	1. An intuitive skill of empathy and expressiveness in being sensitive and aware of emotions and moods of others
 5. relationship management
+	1. Use of ef
 Helps understand and assess the meaning of emotions, to reason and to problem-solve. 
