@@ -16,7 +16,7 @@ Questions:
 In evaluating the problem-solving of the supervisor:  
 
 1. Would your actions have been different if you were the supervisor?  
-	To be honest, I don't know how else to act in this situation. This is an extremely 
+	To be honest, I don't know how else to act in this situation. While it is clear that 
 	
 2. Are there conflicting legal and ethical obligations? Explain your answer.
 	I do believe there to be conflicting legal and ethical obligations (by a little bit). On a legal standpoint, by drinking on the job, Beverly is putting her patients' lives at risk and legally, I believe I am supposed to report this (depending on state laws).
