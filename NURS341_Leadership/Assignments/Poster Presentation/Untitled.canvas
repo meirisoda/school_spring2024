@@ -6,7 +6,8 @@
 		{"id":"2a67e9b9eb05f27b","type":"text","text":"## Nursing Leadership","x":37,"y":-359,"width":250,"height":100},
 		{"id":"9d80de682228313d","type":"text","text":"### Nursing Data Portal (NDP)","x":208,"y":-160,"width":250,"height":99},
 		{"id":"5f842a975b00d81f","type":"text","text":"### Evidence-Based Clinical Documentation (EBCD) ","x":-88,"y":-183,"width":250,"height":146},
-		{"id":"eb05c20ab4f204a1","x":-245,"y":-538,"width":250,"height":125,"type":"text","text":"Ideation, design, development, data mapping and visualization "}
+		{"id":"eb05c20ab4f204a1","x":-245,"y":-538,"width":250,"height":125,"type":"text","text":"Ideation, design, development, data mapping and visualization "},
+		{"id":"44391b601f890b1e","x":42,"y":221,"width":250,"height":60,"type":"text","text":"## Competencies"}
 	],
 	"edges":[
 		{"id":"17e0b39886b72895","fromNode":"0c5c9869d6cfd8c8","fromSide":"bottom","toNode":"733014e713e25296","toSide":"top"},
