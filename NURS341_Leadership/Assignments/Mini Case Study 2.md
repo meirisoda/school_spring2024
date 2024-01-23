@@ -1,10 +1,10 @@
 ### Jamie Lee_Mini Case Study 2
-Beverly, a 35-year old, full-time nurse on the day shift, has been with your facility for 10 years.  
+Beverly, a 35-year old full-time nurse on the day shift, has been with your facility for 10 years.  
 There are rumors that she comes to work under the influence of alcohol. Staff report the smell of  
 alcohol on her breath, unexcused absences from the unit, and an increase in medication errors.  
 Although the unit supervisor suspected that Beverly was chemically impaired, she was unable to observe directly any of these behaviors.  
-After arriving a t work last week, the supervisor walked in to the nurses’ lounges and observed  
-Beverly covertly drinking from a dark-colored flask in her locker. She immediately confronted Beverly and sked her is she was drinking alcohol while on duty. Beverly tearfully admitted that she was drinking alcohol but stated this was an isolated incident and begged her to forget it. She promised never to consume alcohol at work again.  
+After arriving at work last week, the supervisor walked in to the nurses’ lounges and observed  
+Beverly covertly drinking from a dark-colored flask in her locker. She immediately confronted Beverly and asked her is she was drinking alcohol while on duty. Beverly tearfully admitted that she was drinking alcohol but stated this was an isolated incident and begged her to forget it. She promised never to consume alcohol at work again.  
 In an effort to reduce the emotionalism of the event and to give herself time to think, the  
 supervisor sent Beverly home and scheduled a conference with her for later in the day. At this  
 conference, Beverly was defensive and stated, “I do not have a drinking problem, and you are  
