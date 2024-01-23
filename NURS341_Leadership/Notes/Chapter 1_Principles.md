@@ -83,4 +83,5 @@ Often more effective than charismatic leadership as it is follower focused.
 
 ![[Pasted image 20240122192010.png]]
 
-#
+# Effective Leadership 
+Is an integrated blend of leadershipprinciples and characteristics with management principles and te
