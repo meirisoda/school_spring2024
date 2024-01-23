@@ -52,3 +52,4 @@ helps understand and assess the meaning of emotions, to reason and to problem-so
 # Leadership Theories
 ## Trait Theories
 Focus on traits or characteristics of the leader as a person
+Seeks to understand leadership by examining the characteristics of leaders, leading to multiple lists of traits proposed to be essential to leadership. 
