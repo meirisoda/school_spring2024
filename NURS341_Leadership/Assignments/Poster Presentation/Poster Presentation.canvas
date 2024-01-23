@@ -4,8 +4,8 @@
 		{"id":"733014e713e25296","type":"text","text":"## Electronic Health Records (EHRs)","x":-459,"y":-14,"width":250,"height":125},
 		{"id":"0c5c9869d6cfd8c8","type":"text","text":"## Health Informatics\nThe interprofessional field that studies and pursues the effective uses of biomedical data, information, and knowledge for scientific inquiry, problem-solving, decision making, motivated by efforts to improve human health.","x":-555,"y":-362,"width":443,"height":218},
 		{"id":"2a67e9b9eb05f27b","type":"text","text":"## Nursing Leadership","x":37,"y":-359,"width":250,"height":100},
-		{"id":"9d80de682228313d","type":"text","text":"### Nursing Data Portal (NDP)\nLeadership focused and seek ","x":208,"y":-160,"width":250,"height":99},
-		{"id":"5f842a975b00d81f","type":"text","text":"### Evidence-Based Clinical Documentation (EBCD) ","x":-88,"y":-183,"width":250,"height":146},
+		{"id":"9d80de682228313d","type":"text","text":"### Nursing Data Portal (NDP)\nLeadership focused and seeks to establish a single platform for sharing data. ","x":208,"y":-183,"width":347,"height":146},
+		{"id":"5f842a975b00d81f","type":"text","text":"### Evidence-Based Clinical Documentation (EBCD) \n","x":-88,"y":-183,"width":250,"height":146},
 		{"id":"eb05c20ab4f204a1","type":"text","text":"Ideation, design, development, data mapping and visualization ","x":-245,"y":-538,"width":250,"height":125},
 		{"id":"44391b601f890b1e","type":"text","text":"## Competencies","x":37,"y":163,"width":250,"height":60},
 		{"id":"2c5bdf4dc249b595","type":"text","text":"1. Informatics knowledge\n2. Informatics skills\n3. Computer skills","x":37,"y":255,"width":250,"height":124}
