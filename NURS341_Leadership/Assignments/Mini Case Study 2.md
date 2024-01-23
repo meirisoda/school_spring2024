@@ -27,5 +27,5 @@ organization? Why?
 		I believe that, personally, the manager has a great obligation to the patient, As a manage, one is overseeing the care of patients. However, I do also believe that the greatest obligation goes to the organization. The integrity of the organization can be very greatly compromised as a result of Beverly's actions, and if an incident occurs, liability will fall onto the nurse, the manager, and mostly the organization. And as part of administration, the nurse manager is obligated to the organization. 
 		
 4. Could the outcome have been prevented? Why/why not?  
-		I believe the outcome *could* have been prevented, but ultimately it is out of anybody's control except for Beverly. This might sound harsh, but regardless of the amount of support that outsiders provide, in the instance of 
+		I believe the outcome *could* have been prevented, but ultimately it is out of anybody's control except for Beverly. This might sound harsh, but regardless of the amount of support that outsiders provide, in the instance of mental health crises, all choice d
 1. Does this outcome reflect on the quality of the problem-solving? Why/why not?
