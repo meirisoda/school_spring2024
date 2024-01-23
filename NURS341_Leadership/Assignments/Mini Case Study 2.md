@@ -16,14 +16,14 @@ Questions:
 In evaluating the problem-solving of the supervisor:  
 
 1. Would your actions have been different if you were the supervisor?  
-	To be honest, I don't know how else to act in this situation. While it is clear that 
+		To be honest, I don't know how else to act in this situation. While it is clear that 
 	
 2. Are there conflicting legal and ethical obligations? Explain your answer.
-	I do believe there to be conflicting legal and ethical obligations (by a little bit). On a legal standpoint, by drinking on the job, Beverly is putting her patients' lives at risk and legally, I believe I am supposed to report this (depending on state laws).
-	On an ethical standpoint, since Beverly is putting her patients' lives and her own life at risk, this should be reported to necessary higher ups. 
+		I do believe there to be conflicting legal and ethical obligations (by a little bit). On a legal standpoint, by drinking on the job, Beverly is putting her patients' lives at risk and legally, I believe I am supposed to report this (depending on state laws).
+		On an ethical standpoint, since Beverly is putting her patients' lives and her own life at risk, this should be reported to necessary higher ups. 
 	
-1. To whom does the manager have the greatest obligation---patients, subordinates, or the  
+3. To whom does the manager have the greatest obligation---patients, subordinates, or the  
 organization? Why?  
-
-4. Could the outcome have been prevented? Why/why not?  
-5. Does this outcome reflect on the quality of the problem solving? Why/why not
+		The manager has the greatest obligation to the 
+1. Could the outcome have been prevented? Why/why not?  
+2. Does this outcome reflect on the quality of the problem solving? Why/why not
