@@ -54,6 +54,8 @@ helps understand and assess the meaning of emotions, to reason and to problem-so
 Focus on traits or characteristics of the leader as a person
 Seeks to understand leadership by examining the characteristics of leaders, leading to multiple lists of traits proposed to be essential to leadership. 
 ## Leadership Styles Theories
-Move beyond a focus on traits to explore the conecept of leadership styles
-### Autocratic Leadership
-Typically uses directive behavior
+Move beyond a focus on traits to explore the concept of leadership styles
+### Autocratic
+Typically uses directive behaviors and places a high emphasis on task. 
+### Bureaucratic
+Tend to strictly enforce regulations and statuses in the hierarchy and s
