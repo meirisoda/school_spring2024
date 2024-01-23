@@ -10,13 +10,13 @@ supervisor sent Beverly home and scheduled a conference with her for later in th
 conference, Beverly was defensive and stated, “I do not have a drinking problem, and you are  
 overreacting.” The supervisor shared data that she had gathered supporting her impression that Beverly was chemically impaired. Beverly offered no explanation for these behaviors.  
 The plan for Beverly was a referral to the State Board of Nursing Diversion Program and a  
-requirement that she complete the program as they direct her. Beverly again became very tearful and begged the supervisor to reconsider. She stated that she was the sole provider for her four small children and that her frequent sick days had taken up all available vacation and sick pay. The supervisor stated that she believed her decision was appropriate and again encouraged Beverly to seek guidance for her drinking. Four days later, a colleague of Beverly’s stopped in the supervisor’s office and informed her that Beverly had attempted to commit suicide the day after the meeting.  
+requirement that she completes the program as they direct her. Beverly again became very tearful and begged the supervisor to reconsider. She stated that she was the sole provider for her four small children and that her frequent sick days had taken up all available vacation and sick pay. The supervisor stated that she believed her decision was appropriate and again encouraged Beverly to seek guidance for her drinking. Four days later, a colleague of Beverly’s stopped in the supervisor’s office and informed her that Beverly had attempted to commit suicide the day after the meeting.  
 
 Questions:  
-In evaluating the problem solving of the supervisor:  
+In evaluating the problem-solving of the supervisor:  
 
 1. Would your actions have been different if you were the supervisor?  
-	My actions 
+	To be honest, I don't know how
 2. Are there conflicting legal and ethical obligations? Explain your answer  
 3. To who does the manager have the greatest obligation---patients, subordinates, or the  
 organization? Why?  
