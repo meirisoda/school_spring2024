@@ -22,3 +22,4 @@ Emphasis is on helping others to see the need for the change and to embrace it.
 6. Generate short-term wins
 7. Consolidate gains and produce more change
 8. Anchor new approaches in the culture
+# Process of Change
