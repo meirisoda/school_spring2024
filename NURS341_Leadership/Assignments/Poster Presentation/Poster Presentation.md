@@ -1,5 +1,7 @@
 # My part
+## Article 1 
 
+## Concept Map
 # Poster Presentation Doc
 Each team will choose a topic relevant to the current healthcare environment from the provided list on Canvas (first come, first serve). The team will research and produce a poster that explores the assigned topic/concept. The team will review their topic with faculty no later than January 18th for guidance. Team members will submit their work by January 23rd (1159pm) on Canvas. Each team will decide which team member will be responsible for the individual assignments (content outline, literature review, concept map, ethical issues, and presentation). Each team will submit the final outline with references to the faculty prior to the presentation. Posters will be presented in class on January 24th and 25th, 2024. A maximum of twenty (20) minutes will be allotted per team to present their poster during class. Some time will be provided during the week for preparation. Teams should also plan to work on the poster presentation outside of class. The completed poster must be submitted on Canvas no later than January 23rd, (1159pm). This assignment will be discussed in detail on day one of class
 
