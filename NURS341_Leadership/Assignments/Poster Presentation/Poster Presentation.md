@@ -1,8 +1,9 @@
 # My part
 ## Article 1 
-It is a general paper that talsk about nursing informatics and how it integrates into our workflow as a crucial component of nursing care over the last decade. as nurses, and how it as benefits us. 
-Nursing informatics can be defined as the application of information technology in nursing responsibilities encompassing management, practice and education. It combines and integrates computer science, nursing science and information to supplement nursing care.
-    
+It is a general paper that talsk about nursing informatics and how it integrates into our workflow as a crucial component of nursing care over the last decade. And how it benefits us as nurses. 
+
+Nursing informatics can be defined as the application of information technology in nursing responsibilities that encompass management, practice and education. It combines and integrates computer science, nursing science and information to supplement nursing care and help us in our daily tasks. 
+
 2. The usage of nursing informatics is directly correlated with improved patient outcomes. Electronic health record tools (EHRs) allow healthcare providers to access information quickly while allowing them to address patients' needs on time. The utilization of technology has optimized healthcare processes. By reducing time spent on charting, documentation and accessing information, patient satisfaction is also improved.
     
 3. An important aspect of delivering quality patient care is in medication administration. EHRs play a crucial role in creating a more reliable healthcare system by detecting and preventing errors. Quantitative research involving a comprehensive analysis of medication administration and ingestion history was conducted, of which the findings from a quantitative research study analyzing medication administration indicate that medication errors occurred due to a number of reasons: illegibility of nurse's handwriting, lack of time and documentation errors. EHRs reduce the likelihood of these errors by eliminating these factors.
