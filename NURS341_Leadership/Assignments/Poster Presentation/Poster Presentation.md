@@ -8,7 +8,10 @@ And we all know this already, but the usage of nursing informatics is directly c
 
 Besides patient satisfaction, we also have medical duties to fulfill. And an important aspect of delivering quality patient care and fulfilling our medical duties is in medication administration. 
 EHRs play a crucial role in creating a more reliable healthcare system by detecting and preventing errors. 
-Quantitative research involving a comprehensive analysis of medication administration and ingestion history was conducted, of which the findings from a quantitative research study analyzing medication administration indicate that medication errors occurred due to a number of reasons: illegibility of nurse's handwriting, lack of time and documentation errors. EHRs reduce the likelihood of these errors by eliminating these factors.
+Quantitative research involving a comprehensive analysis of medication administration and ingestion history was conducted
+Findings indicate that medication errors occurred due to a number of reasons: 
+- illegibility of nurse's handwriting
+- lack of time and documentation errors. EHRs reduce the likelihood of these errors by eliminating these factors.
     
 4. The increasing usage of electronic health records and nursing informatics provide several benefits not only to patients, but also healthcare providers. By enhancing efficiency, reducing medical errors, promoting time management, and enhancing communication, nurses can focus on providing quality care to patients. Implementation according to constantly changing and improving technology will continue to shape the healthcare and nursing environment.
 ## Concept Map
