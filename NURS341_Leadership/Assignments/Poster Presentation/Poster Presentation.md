@@ -12,7 +12,8 @@ Quantitative research involving a comprehensive analysis of medication administr
 Findings indicate that medication errors occurred due to a number of reasons: 
 - **illegibility of nurse's handwriting**
 - **lack of time**
-- documentation errors. 
+	- helps with saving time as you don't have to spend time shuffling through papers, and the location of data is standardized everywhere. 
+- **documentation errors.** 
 EHRs reduce the likelihood of these errors by eliminating these factors.  
     
 4. The increasing usage of electronic health records and nursing informatics provide several benefits not only to patients, but also healthcare providers. By enhancing efficiency, reducing medical errors, promoting time management, and enhancing communication, nurses can focus on providing quality care to patients. Implementation according to constantly changing and improving technology will continue to shape the healthcare and nursing environment.
