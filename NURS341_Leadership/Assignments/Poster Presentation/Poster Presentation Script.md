@@ -1,5 +1,5 @@
 # Article 1 
-It is a general paper that talsk about nursing informatics and how it integrates into our workflow as a crucial component of nursing care over the last decade. And how it benefits us as nurses. 
+It is a general paper that talks about nursing informatics and how it integrates into our workflow as a crucial component of nursing care over the last decade. And how it benefits us as nurses. 
 
 Nursing informatics can be defined as the application of information technology in nursing responsibilities that encompass management, practice and education. It combines and integrates computer science, nursing science and information to supplement nursing care and help us in our daily tasks. 
 
@@ -19,7 +19,7 @@ EHRs reduce the likelihood of these errors by eliminating these factors.
 This ensures that every patient is receiving all the care that they need, and things aren't getting looked over. 
 
 The increasing usage of electronic health records and nursing informatics provide several benefits not only to patients, but also healthcare providers. By enhancing efficiency, reducing medical errors, promoting time management, and enhancing communication, nurses can focus on providing quality care to patients. Implementation according to constantly changing and improving technology will continue to shape the healthcare and nursing environment.
-## Concept Map
+# Concept Map
 As I mentioned before, informatics is an application of information technology in the healthcare setting, and it is most easily observed through EHRs. This is also the most directly related to nursing care, as the use of EHRs directly result in positive outcomes such as: reducing time spent on documentation and accessing information, which increases patient satisfaction. It also reduces medication errors caused by the number of factors I listed earlier. 
 
 It optimizes the nursing process and helps us focus on things that are important, like building trust and rapport with our patients and ensuring that they receive quality care. 
