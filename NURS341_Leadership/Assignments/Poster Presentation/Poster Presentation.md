@@ -1,5 +1,6 @@
 # My part
 ## Article 1 
+It is a general paper that talsk about nursing informatics and how it integrates into ou
 1. Nursing informatics has made its way as a crucial component of nursing care over the last decade. Nursing informatics can be defined as the application of information technology in nursing responsibilities encompassing management, practice and education. It combines and integrates computer science, nursing science and information to supplement nursing care.
     
 2. The usage of nursing informatics is directly correlated with improved patient outcomes. Electronic health record tools (EHRs) allow healthcare providers to access information quickly while allowing them to address patients' needs on time. The utilization of technology has optimized healthcare processes. By reducing time spent on charting, documentation and accessing information, patient satisfaction is also improved.
