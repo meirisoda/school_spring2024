@@ -1,5 +1,4 @@
-# My part
-## Article 1 
+# Article 1 
 It is a general paper that talsk about nursing informatics and how it integrates into our workflow as a crucial component of nursing care over the last decade. And how it benefits us as nurses. 
 
 Nursing informatics can be defined as the application of information technology in nursing responsibilities that encompass management, practice and education. It combines and integrates computer science, nursing science and information to supplement nursing care and help us in our daily tasks. 
