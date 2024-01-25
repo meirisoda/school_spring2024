@@ -6,7 +6,7 @@ Nursing informatics can be defined as the application of information technology 
 
 And we all know this already, but the usage of nursing informatics is directly correlated with improved patient outcomes. Electronic health record tools (EHRs) allow healthcare providers to access information quickly while allowing them to address patients' needs on time. The utilization of technology has optimized healthcare processes. By reducing time spent on charting, documentation and accessing information, patient satisfaction is also improved.
 
-Besides patient satisfaction, we also have medical duties to fulfill. And an important aspect of delivering quality patient care and fulfilling our medical duties is in medication administration. 
+Besides patient satisfaction, we also have medical duties to fulfill. Patients are here for a reason. And an important aspect of delivering quality patient care and fulfilling our medical duties is in medication administration. 
 EHRs play a crucial role in creating a more reliable healthcare system by detecting and preventing errors. 
 Quantitative research involving a comprehensive analysis of medication administration and ingestion history was conducted
 Findings indicate that medication errors occurred due to a number of reasons: 
