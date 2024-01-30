@@ -12,3 +12,4 @@ You may find using verbs from Bloom's Taxonomy helpful while writing your goals.
 
 Recommendations from the Ohio Board of Nursing re: writing behavioral objectives [can be found here.](https://canvas.case.edu/courses/40484/files/7154878?wrap=1 "Individual Clinical Behavioral Objectives OBN Recommendations.pdf")
 
+1. Specific to my nursing student journey: I took a year off and it's also been some time since I've worked as a nurses aide (due to v)
