@@ -7,5 +7,4 @@ Written guidelines that guide **behaviour**.
 Decided as a society, guided by profession and action. 
 - However, mostly first decided by someone else's sense of morals. 
 ## Law
-AAAAUUUUUUUUUGGGGGGGGGGHHHHHHHHHHHHh
 Exist to enforce ethical guidelines - enforcement. 
