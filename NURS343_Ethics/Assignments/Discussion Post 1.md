@@ -11,4 +11,4 @@ Following the first day of class, please reflect on the following and make your 
 
 Have a great week!
 ## Response
-The difference between morality and ethic lies in what it is relative to. Morals are relative to the person, your self, and ethics are relative to the society or d
+The difference between morality and ethic lies in what it is relative to. Morals are relative to the person, your self, and ethics are relative to the society or discipline that it applies to. Discussing the difference between morals and ethics are not very new to me, as 
