@@ -11,3 +11,4 @@ Decided as a society, guided by profession and action.
 Exist to enforce ethical guidelines - enforcement. 
 Lawmakers create the law often based on, again, their own sense of morals. 
 # Reading Notes
+## Article
