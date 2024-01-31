@@ -1,14 +1,16 @@
 # Lecture Notes
-## Morality
+## Definitions
+### Morality
 Something that is acceptable to the self or a smaller in-group.
 Typically instilled through religious traditions - regardless of whether you are religious or not. 
 Denote right from wrong and follow an internal compass/your gut.
-## Ethics
+### Ethics
 Written guidelines that guide **behaviour**.
 Decided as a society, guided by profession and action. 
 - However, mostly first decided by someone else's sense of morals. 
-## Law
+### Law
 Exist to enforce ethical guidelines - enforcement. 
 Lawmakers create the law often based on, again, their own sense of morals. 
 # Reading Notes
 ## Article
+Common differencec
