@@ -8,3 +8,4 @@ Decided as a society, guided by profession and action.
 - However, mostly first decided by someone else's sense of morals. 
 ## Law
 Exist to enforce ethical guidelines - enforcement. 
+Lawmakers create the law often based on, again, their own sense of morals. 
