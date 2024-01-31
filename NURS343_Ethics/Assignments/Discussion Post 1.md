@@ -1,5 +1,3 @@
-No unread replies. No replies.
-
 Following the first day of class, please reflect on the following and make your initial post about 400-600 words:
 
 1. What is the difference between morality and ethics? Is this new to you? Do you believe that these definitions might have new meaning in your life or career as a nurse after contemplating the differences in definitions?
@@ -13,3 +11,4 @@ Following the first day of class, please reflect on the following and make your 
 **In order to make this discussion successful, everyone will need to post their own written piece first and early to have time to respond adequately! You will not be able to see anyone else's post until you post your own.**
 
 Have a great week!
+
