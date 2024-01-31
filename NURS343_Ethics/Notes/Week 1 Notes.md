@@ -15,6 +15,7 @@ Lawmakers create the law often based on, again, their own sense of morals.
 ## Article
 Common differences between morals and ethics are: 
 1. Consistency
-	1. Since one's moral beliefs are personal and are ever-changing (like you!), 
+	1. Since one's moral beliefs are personal and are ever-changing (like you!), it is not consistent across neither time nor discipline. 
+	2. Ethics, on the other hand, as they are built as a system, remain consistent and may 
 2. Decision Making
 3. Governing Behaviours
