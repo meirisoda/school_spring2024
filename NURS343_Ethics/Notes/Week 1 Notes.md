@@ -20,4 +20,6 @@ Common differences between morals and ethics are:
 2. Decision-Making
 	1. Both affect decision-making processes. 
 3. Governing Behaviours
-	1. As mentioned above, morality is governed by persona
+	1. As mentioned above, morality is governed by personal beliefs, interactions and experiencs. 
+	2. Ethics are governed by the society and context in which they lie. 
+## Textbook
