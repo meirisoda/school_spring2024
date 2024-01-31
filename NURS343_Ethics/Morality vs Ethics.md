@@ -5,3 +5,4 @@ Denote right from wrong and follow an internal compass/your gut.
 ## Ethics
 Written guidelines that guide **behaviour**.
 Decided as a society, guided by profession and action. 
+- However, mostly first decided by someone else's sense of morals. 
