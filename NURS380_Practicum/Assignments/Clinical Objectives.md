@@ -14,4 +14,4 @@ Recommendations from the Ohio Board of Nursing re: writing behavioral objectives
 
 1. Specific to my nursing student journey: I took a year off, and it's also been some time since I've worked as a nurses' aide (due to various reasons). I wish to reacclimate myself to the nursing process and regain my confidence not only as a nursing student, but also as an upcoming nurse. 
 2. I've had several issues with my health (both mental and physical), so this semester I would like to solidify good management strategies. 
-3. 
+3. I run out of social battery fairly quickly and would like to strengthen 
