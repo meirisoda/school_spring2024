@@ -14,4 +14,4 @@ Recommendations from the Ohio Board of Nursing re: writing behavioral objectives
 
 1. Specific to my nursing student journey: I took a year off, and it's also been some time since I've worked as a nurses' aide (due to various reasons). I wish to reacclimate myself to the nursing process and regain my confidence not only as a nursing student, but also as an upcoming nurse. Would like to regain the confidence by the middle of the semester. 
 2. I've had several issues with my health (both mental and physical), so this semester I would like to solidify good management strategies. I would like to discuss with my preceptor and her coworkers regarding their strategies. I am hoping to begin development midway through the semester and test my strategies through the end of the semester. 
-3. I would like to review and internalize the values for electrolytes and therapeutic windows for common medications. I've lost a
+3. I would like to review and internalize the values for electrolytes and therapeutic windows for common medications. I've lost a lot of this knowledge and would like to take this semester to 
