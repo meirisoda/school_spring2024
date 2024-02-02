@@ -1,4 +1,4 @@
-### Jamie Lee Draft of Clinical Objectives
+### Jamie Lee_Draft of Clinical Objectives
 1. Within the first 4 weeks of practicum, I will develop a time management strategy to get morning assessments done and documented on 2 patients within the first 2 hours with minimal guidance from my preceptor. 
 2. By the middle of my clinical experience, I will be able to verbalize and teach back 2 commonly seen diagnoses (chronic disease processes) and explain the pathophysiology, commonly seen symptoms and alterations and briefly go over interventions. 
 3. By the end of my clinical experience, I will be able to verbalize and teach back 3 medications commonly given on my unit (digestive health), including (but not limited to) reason for use, administration routes, therapeutic windows, and mechanism of actions. 
