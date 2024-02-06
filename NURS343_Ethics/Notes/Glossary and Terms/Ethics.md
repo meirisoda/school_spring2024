@@ -7,3 +7,5 @@ Approaches have varied over time.
 
 >[!definition]
 Ethics is the systematic approach to understanding, analyzing and distinguishing matters of right and wrong, good and bad, and admirable and dishonorable as they relate to the well-being of and the relationships among sentient beings. 
+
+Need to support beliefs and assertions with **sound reasoning** rather than strong opinions. 
