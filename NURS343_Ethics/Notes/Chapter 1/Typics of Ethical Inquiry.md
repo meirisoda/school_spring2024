@@ -4,4 +4,5 @@
 
 Inquiries are typically made about how humans should behave, what ought to be done in certain situations, what type of character one should have, or the type of person one should be. 
 
-## Meta
+## Metaethics
+## Descriptive Ethics
