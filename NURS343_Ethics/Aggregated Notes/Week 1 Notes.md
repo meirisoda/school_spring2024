@@ -11,8 +11,7 @@ Decided as a society, guided by profession and action.
 ### Law
 Exist to enforce ethical guidelines - enforcement. 
 Lawmakers create the law often based on, again, their own sense of morals. 
-# Reading Notes
-## Article
+# Article Notes
 Common differences between morals and ethics are: 
 1. Consistency
 	1. Since one's moral beliefs are personal and are ever-changing (like you!), it is not consistent across neither time nor discipline. 
