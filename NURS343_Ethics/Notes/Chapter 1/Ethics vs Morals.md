@@ -12,3 +12,9 @@ Need to support beliefs and assertions with **sound reasoning** rather than stro
 
 Allowing emotions to play a large role does not provide a good foundation for ethical decisions. 
 Making good rational decisions require a balance of emotion and reason. 
+## Morals 
+>[!definition]
+>Morals are specific beliefs, behaviors, and ways of being derived from doing ethics. 
+>One's morals are judged to be good or bad through systematic, ethical analysis. 
+
+It is personal and relative to the *person* rather than to the globally accepted set of social, cultural or professional ethical standards and principles. 
