@@ -5,3 +5,5 @@
 - **Private morality does not exist.**
 # Types of Ethical Inquiry
 ## Normative Ethics
+>[!definition]
+>Normative ethics is the attempt to decide or presc
