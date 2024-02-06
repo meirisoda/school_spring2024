@@ -5,8 +5,10 @@
 Inquiries are typically made about how humans should behave, what ought to be done in certain situations, what type of character one should have, or the type of person one should be. 
 ### Common Morality
 Consists of normative beliefs and behaviors that members of a society generally agree about and are familiar to most members of the society. 
-Provides society wth a framework of ethical stability and contains: 
+Provides society with a framework of ethical stability and contains: 
 - rules of obligation
-- character 
+- character traits
+- common moral ideals
+
 ## Metaethics
 ## Descriptive Ethics
