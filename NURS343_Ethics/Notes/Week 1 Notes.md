@@ -26,4 +26,6 @@ Common differences between morals and ethics are:
 ### Ethics
 Branch of philosophy used to study ideal human behavior and ways of being. 
 Approaches have varied over time. 
-**Aristotle** believes that ideal behaviors are practices leading to the end goal of 
+**Aristotle** believes that ideal behaviors are practices leading to the end goal of [[Eudaimonia]]. 
+**Immanuel Kant** believed that ideal behavior is acting in accordance with one's duty. 
+	Well 
