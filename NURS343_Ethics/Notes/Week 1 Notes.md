@@ -24,3 +24,4 @@ Common differences between morals and ethics are:
 	2. Ethics are governed by the society and context in which they lie. 
 ## Textbook
 ![[Ethics#Ethics]]![[Morals#Morals]]
+## # 
