@@ -4,3 +4,4 @@
 - Other people are always directly or indirectly involved with one's ethical decisions. 
 - **Private morality does not exist.**
 # Types of Ethical Inquiry
+![[Typics of Ethical Inquiry]]
