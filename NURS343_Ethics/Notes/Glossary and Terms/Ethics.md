@@ -1,4 +1,4 @@
-### Ethics
+## Ethics
 Branch of philosophy used to study ideal human behavior and ways of being. 
 Approaches have varied over time. 
 **Aristotle** believes that ideal behaviors are practices leading to the end goal of [[Eudaimonia]]. 
