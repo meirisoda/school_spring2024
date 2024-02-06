@@ -5,5 +5,5 @@ Approaches have varied over time.
 **Immanuel Kant** believed that ideal behavior is acting in accordance with one's duty. 
 	Well-being means having the freedom to exercise autonomy (self-determination), not being used as a means to an end, being treated with dignity, and having the capability to think rationally. 
 
-```definition
-Ethics 
+>[!definition]
+Ethics is the systematic approach to understanding, analyzing and disti
