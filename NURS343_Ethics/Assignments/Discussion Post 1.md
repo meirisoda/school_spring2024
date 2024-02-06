@@ -17,4 +17,4 @@ Moral pluralism states that although there may be many conflicting ideas, they a
 Somebody who was raised in a more Western, Christian background will have different views than somebody who was raised with a more Eastern background. Culture plays a much larger role on morals than one may initially anticipate. 
 This is especially true in a healthcare setting, as providers are treating the whole of a population. As a population is diverse and are not monocultural (or in this case, monomoralistic(?)), it is important to consider all possibilities of personal morals and ethics. A provider from a western background will place a lot of importance on personal decision-making regarding their care (ie. that the patient's decision is the most important) and will respect the patient's decisions without question. But a provider from an eastern background may be more sensitive to the input of those surrounding the patient. 
 
-Something from T. Engelhardt's lecture that really stood out to me was 
+Something from T. Engelhardt's lecture that I found very interesting was 
