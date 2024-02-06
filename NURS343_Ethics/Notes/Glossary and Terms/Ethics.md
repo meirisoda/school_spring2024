@@ -11,3 +11,4 @@ Ethics is the systematic approach to understanding, analyzing and distinguishing
 Need to support beliefs and assertions with **sound reasoning** rather than strong opinions. 
 
 Allowing emotions to play a large role does not provide a good foundation for ethical decisions. 
+Making good rational decisions require a balance of emotion and reason. 
