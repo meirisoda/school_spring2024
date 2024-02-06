@@ -6,4 +6,4 @@ Approaches have varied over time.
 	Well-being means having the freedom to exercise autonomy (self-determination), not being used as a means to an end, being treated with dignity, and having the capability to think rationally. 
 
 >[!definition]
-Ethics is the systematic approach to understanding, analyzing and disti
+Ethics is the systematic approach to understanding, analyzing and distinguishing matters of right and wrong, good and bad, and admirable and dishonorable as they relate to the well-being of and the relationships among sentient beings. 
