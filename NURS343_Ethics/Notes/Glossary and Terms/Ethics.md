@@ -7,4 +7,3 @@ Approaches have varied over time.
 
 ```definition
 Ethics 
-```
