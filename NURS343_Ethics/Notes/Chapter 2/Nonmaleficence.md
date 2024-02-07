@@ -17,4 +17,4 @@ Healthcare professionals are not ethically bound to deliver futile treatments.
 
 The terms *killing* and *letting die* raise issues of legality, ethics, homicide, suicide, euthanasia, acts of commission and omission, and active-passive distinctions, which are beyond the scope of this chapter LMAO
 ## Slippery Slope Arguments
-A slippery slope situation is one that may be morally acceptable when the current, primary event is being discu
+A slippery slope situation is one that may be morally acceptable when the current, primary event is being discussed or practiced but later could hypothetically slip toward a morally unacceptable situation. 
