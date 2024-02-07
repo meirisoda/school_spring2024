@@ -9,4 +9,6 @@ Watch your actions; they become habits.
 Watch your habits; they become character.
 Watch your character; it becomes your destiny.*
 >[!definition]
->Emphasizes the role of one's character and the virtues that one's character embodies in order to determine and evaluate ethical beahavio
+>Emphasizes the role of one's character and the virtues that one's character embodies in order to determine and evaluate ethical behavior. 
+
+Example: the purpose of a knife is to cut, so a knife that ha
