@@ -17,4 +17,6 @@ Socrates, Plato and Aristotle.
 "The unexamined life is not worth living"
 Developed a method of reasoning called the Socratic questioning, or the Socratic method. 
 **Investigate the accuracy, clarity, and value of one's intellectual positions and beliefs.**
-
+#### Realms
+##### Forms
+Transcends time and space . 
