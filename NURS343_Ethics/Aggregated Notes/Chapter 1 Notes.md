@@ -20,7 +20,7 @@ Lawmakers create the law often based on, again, their own sense of morals.
 ![[Ethical Theories and Approaches#Feminist Theories]]
 ![[Ethical Theories and Approaches#Religious Ethics]]
 ![[Ethical Theories and Approaches#Natural (Moral) Law Theory]]
-![[Principlism]]
+
 # Article Notes
 Common differences between morals and ethics are: 
 1. Consistency
