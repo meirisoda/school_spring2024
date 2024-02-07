@@ -28,3 +28,4 @@ Only through dutiful actions can people be moral. Regardless of the consequences
 ### Consequentialism
 Contrary to deontology, consequentialists consider consequences to be an important indication of the moral value of one's actions. 
 ## Eastern Ethics
+In both Western and Eastern ethics, ethics is often intertwined with spiritual or religious thinking. Howeve,
