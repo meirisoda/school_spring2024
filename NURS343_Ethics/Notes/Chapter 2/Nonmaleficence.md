@@ -13,4 +13,5 @@ Healthcare professionals are not ethically bound to deliver futile treatments.
 ## Rule of Double Effect
 >[!definition]
 >A set of criteria used to determine the ethics of a decision that involves weighing the benefit of an action with its possible negative but foreseeable consequences or effects. 
->The action is only considered ethical if the action (in and of itself) is moral, the actor intends only 
+>The action is only considered ethical if the action (in and of itself) is moral, the actor intends *only* the positive outcome, or the good outcome greatly outweighs the possible negatives. 
+
