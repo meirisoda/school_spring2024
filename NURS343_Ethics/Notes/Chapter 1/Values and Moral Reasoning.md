@@ -13,3 +13,4 @@ Involves thinking for oneself to determine if one's conclusions are based on goo
 Focuses on moral or ethical issues. 
 ## Ancient Greece
 Socrates, Plato and Aristotle.
+### Socrates
