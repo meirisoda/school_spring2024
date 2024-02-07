@@ -1,3 +1,3 @@
 # Lecture Notes
 # Textbook Notes
-![[Week 2]]
+![[Chapter 2_Introduction to Bioethics and Ethical Decision Making]]
