@@ -20,3 +20,6 @@ Developed a method of reasoning called the Socratic questioning, or the Socratic
 #### Realms
 ##### Forms
 Transcends time and space. There exists an eternal, perfect, and unchanging ideal form of all phenomena, which is beyond everyday human access. 
+In the realm of forms, there exists the essence of good as an ideal Truth. 
+##### Appearances
+The everyday world of imperfect, de
