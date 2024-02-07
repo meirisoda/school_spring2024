@@ -47,7 +47,6 @@ The emphasis on emotions can be its downfall.
 
 Often provides peace and more ease in decision-making when the players are of the same faith. 
 Can create controversy even among the same faith. 
-### Pre
 ## Eastern Ethics
 In both Western and Eastern ethics, ethics is often intertwined with spiritual or religious thinking. However, from a traditional Eastern ethics perspective, societal and spiritual philosophies and beliefs are essentially seamless. 
 They may be spiritual, but are not necessarily religious in nature. 
