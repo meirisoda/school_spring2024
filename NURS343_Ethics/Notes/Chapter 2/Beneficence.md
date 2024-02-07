@@ -16,4 +16,4 @@ Only considered supererogation if and only if:
 >[!definition]
 >The deliberate overriding of a patient's opportunity to exercise autonomy because of a perceived obligation of beneficence. 
 
-One may experience ethical conflict when confronted with having to make a choice between respecting a patient's autonomy and doing what is good 
+One may experience ethical conflict when confronted with having to make a choice between respecting a patient's autonomy and doing what is good for a patient's well-being. 
