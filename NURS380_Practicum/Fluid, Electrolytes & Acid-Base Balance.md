@@ -8,8 +8,11 @@ Doing this for like the fifth fucking time
 ## Fluid Types & Shifts
 ### Hypertonic
 **Type** - Higher solute concentration than another solution. 
-**Shifts** 
+**Shifts** - Fluid shifts into higher solute solution/area 
+> 3% saline
+> D10
 ### Hypotonic
-Lower solute concentration than another solution.
+**Type** - Lower solute concentration than another solution.
+**Shits **
 ### Isotonic 
 Has the same sollute concentration as another solution
