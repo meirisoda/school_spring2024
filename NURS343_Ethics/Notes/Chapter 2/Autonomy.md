@@ -25,3 +25,5 @@ Some professionals tend to avoid telling patients about near-miss errors because
 >[!definition]
 >The right of physicians to withold information from patients from patients based on the potential for said information to harm the patient. 
 
+This exception in communication is controversial today. 
+## Patient Self-
