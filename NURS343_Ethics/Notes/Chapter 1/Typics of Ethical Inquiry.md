@@ -9,6 +9,6 @@ Provides society with a framework of ethical stability and contains:
 - rules of obligation
 - character traits
 - common moral ideals
-
+Abortion is not a common morality beccao
 ## Metaethics
 ## Descriptive Ethics
