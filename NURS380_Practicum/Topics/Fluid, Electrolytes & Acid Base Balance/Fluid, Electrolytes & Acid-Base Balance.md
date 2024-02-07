@@ -54,9 +54,9 @@ GFR
 4ml/kg/hr for the first 10 kg
 2ml/kg/hr for the second 10 kg
 1ml/kg/hr for remaining weight
-
-1560 
 ### Influencing Factors
 Weight
 Intake and Output/Nutritional Status
-### 
+## Fluid Labs
+### Serum Osmolarity/Osmolality
+Measures difference solutes in 
