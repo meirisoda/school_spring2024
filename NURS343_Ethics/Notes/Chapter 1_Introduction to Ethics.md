@@ -5,4 +5,5 @@
 - **Private morality does not exist.**
 # Types of Ethical Inquiry
 ![[Typics of Ethical Inquiry]]
+# Ethical Perspectives
 ![[Ethical Perspectives]]
