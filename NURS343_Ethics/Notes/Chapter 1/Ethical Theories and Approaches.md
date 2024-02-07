@@ -16,3 +16,5 @@ Emphasizes the role of one's character and the virtues that one's character embo
 Example: the purpose of a knife is to cut, so a knife that has a sharp and cuts very well exhibits virtue in excellence. 
 #### Virtues
 >[!definition]
+>Excellent character traits that persons develop through consistently good habits or education. 
+
