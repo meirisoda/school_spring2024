@@ -32,4 +32,10 @@ Movement through a semipermeable membrane
 ### Active Transport
 Energy used to move molecules from lesser concentration to higher concentration
 ### Filtration
-Transfer of fwater and dissolved substances through a permeable membrane from high pressure to low pressure 
+Transfer of water and dissolved substances through a permeable membrane from high pressure to low pressure 
+## Regulation (RAAS)
+Renal Regulation
+**Nephron function**
+- Filters blood plasma
+- Reabsorbs water and solutes as needed
+- M
