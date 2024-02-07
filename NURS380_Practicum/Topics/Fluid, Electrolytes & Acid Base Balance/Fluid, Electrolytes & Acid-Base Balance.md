@@ -43,11 +43,12 @@ GFR
 
 ## Assessments
 ### Intake and Output
-| Adult     | Pediatrics            |
-| --------- | --------------------- |
-| 30ml/hr   |                       |
-| 5ml/kg/hr | Infants - 0.5ml/kg/hr |
-|           | Children - 1ml/kg/hr                      |
+| Adult | Pediatrics |  |
+| ---- | ---- | ---- |
+| 30ml/hr |  |  |
+| 5ml/kg/hr | Infants - 0.5ml/kg/hr |  |
+|  | Children - 1ml/kg/hr |  |
 ### Influencing Factors
 Weight
+Intake and Output/Nutritional Status
 ### 
