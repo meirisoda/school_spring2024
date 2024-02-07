@@ -11,3 +11,5 @@ What people deem as *good* influence how personal character develops and people 
 Involves thinking for oneself to determine if one's conclusions are based on good or logical foundations. 
 ### Moral Reasoning
 Focuses on moral or ethical issues. 
+## Ancient Greece
+Socrates, Plato and Aristotle.
