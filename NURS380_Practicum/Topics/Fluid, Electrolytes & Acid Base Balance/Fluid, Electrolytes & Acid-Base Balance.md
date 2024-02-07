@@ -46,8 +46,11 @@ GFR
 | Adult | Pediatrics |  |
 | ---- | ---- | ---- |
 | 30ml/hr |  |  |
-| 5ml/kg/hr | Infants - 0.5ml/kg/hr |  |
+|  | Infants - 0.5ml/kg/hr |  |
 |  | Children - 1ml/kg/hr |  |
+100/50/20 rule
+4/2/1 Formula 
+
 ### Influencing Factors
 Weight
 Intake and Output/Nutritional Status
