@@ -35,3 +35,6 @@ Healthcare providers and organizations must provide written information to adult
 The Health Insurance Portability and Accountability Act of 1996
 Federal regulation designed to protect people from indiscriminate disclosure of their personal health information while supporting dissemination of information needed to achieve high quality health care. 
 Also gives patients the right to review their medical records. 
+>[!highlight]
+>Ensure privacy while facilitating the flow of finformation necessary to meet the needs of patients. 
+
