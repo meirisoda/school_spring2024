@@ -28,4 +28,6 @@ The goal is to emulate the associate essences and perfect forms.
 1. Faculty of Reason
 	1. associated with thought and Truth, which is in one's head
 2. Faculty of Spirit
+	1. expresses love, beauty, and the desire for eternal life and is in one's chest
 3. Faculty of Appetite
+	1. the expression of human desires and emotions and is in one's gut
