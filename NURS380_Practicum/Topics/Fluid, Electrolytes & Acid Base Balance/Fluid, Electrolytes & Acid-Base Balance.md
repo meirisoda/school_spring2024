@@ -39,3 +39,4 @@ Renal Regulation
 - Filters blood plasma
 - Reabsorbs water and solutes as needed
 - Maintain fluid and electrolyte balance
+GFR 
