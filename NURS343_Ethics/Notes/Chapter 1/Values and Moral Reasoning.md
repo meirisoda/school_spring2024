@@ -14,3 +14,6 @@ Focuses on moral or ethical issues.
 ## Ancient Greece
 Socrates, Plato and Aristotle.
 ### Socrates
+"The unexamined life is not worth living"
+Developed a method of reasoning called the Socratic questioning, or the Socratic method. 
+****
