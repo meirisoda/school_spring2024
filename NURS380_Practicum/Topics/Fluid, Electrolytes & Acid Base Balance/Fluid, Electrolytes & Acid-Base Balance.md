@@ -59,4 +59,8 @@ Weight
 Intake and Output/Nutritional Status
 ## Fluid Labs
 ### Serum Osmolarity/Osmolality
-Measures difference solutes in 
+Measures difference solutes in plasma
+Primarily determined by sodium, glucose and urea
+### Specific Gravity
+Measure of concentration of particles in urine and density of urine 
+### BUN & 
