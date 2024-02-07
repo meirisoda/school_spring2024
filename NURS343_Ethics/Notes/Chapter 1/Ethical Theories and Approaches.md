@@ -24,4 +24,5 @@ Different from divine command theroy in that according to divine command theory,
 >The study of duty.
 >An approach to ethics focused on duties and rules. 
 
-Only through mo
+Only through dutiful actions can people be moral. Regardless of the consequences of said actions, good actions alw
+### Consequentialism
