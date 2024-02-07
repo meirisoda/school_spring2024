@@ -1,5 +1,5 @@
 # Lecture Notes
-## Definitions
+## Definitions (1/31)
 ### Morality
 Something that is acceptable to the self or a smaller in-group.
 Typically instilled through religious traditions - regardless of whether you are religious or not. 
@@ -11,6 +11,8 @@ Decided as a society, guided by profession and action.
 ### Law
 Exist to enforce ethical guidelines - enforcement. 
 Lawmakers create the law often based on, again, their own sense of morals. 
+
+
 # Article Notes
 Common differences between morals and ethics are: 
 1. Consistency
