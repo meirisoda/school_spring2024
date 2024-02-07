@@ -9,3 +9,5 @@
 ![[Ethical Perspectives]]
 # Values and Moral Reasoning
 ![[Values and Moral Reasoning]]
+# Ethical Theories and Approaches
+![]
