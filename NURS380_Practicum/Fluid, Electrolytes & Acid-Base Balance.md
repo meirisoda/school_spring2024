@@ -5,9 +5,11 @@ Doing this for like the fifth fucking time
 | Potassium     | Sodium              |
 | Phosphate     | Chloride              |
 | Sulfate              | Bicarb               |
-## Fluid Types
+## Fluid Types & Shifts
 ### Hypertonic
-Higher solute concentration than another solution. 
+**Type** - Higher solute concentration than another solution. 
+**Shifts** 
 ### Hypotonic
 Lower solute concentration than another solution.
 ### Isotonic 
+Has the same sollute concentration as another solution
