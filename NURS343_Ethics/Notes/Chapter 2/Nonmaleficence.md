@@ -6,4 +6,4 @@ The norm that "one ought not to inflict evil or harm", whereas beneficience incl
 2. One ought to remove evil or harm
 3. One ought to do or promote good
 ## Futility
-Futile treatments are treatments a health
+Futile treatments are treatments a healthcare provider, when using good clinical judgment, does not believe will provide a beneficial outcome for a patient. 
