@@ -26,4 +26,5 @@ Some professionals tend to avoid telling patients about near-miss errors because
 >The right of physicians to withold information from patients from patients based on the potential for said information to harm the patient. 
 
 This exception in communication is controversial today. 
-## Patient Self-
+## Patient Self-Determination Act
+The first federal statute designed to facilitate a patient's autonomy through the knowledge and use of advance directive
