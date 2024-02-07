@@ -10,4 +10,4 @@
 # Values and Moral Reasoning
 ![[Values and Moral Reasoning]]
 # Ethical Theories and Approaches
-![]
+![[Ethical Theories and Approaches]]
