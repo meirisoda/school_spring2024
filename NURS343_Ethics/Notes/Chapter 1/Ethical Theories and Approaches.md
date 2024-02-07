@@ -18,3 +18,4 @@ Example: the purpose of a knife is to cut, so a knife that has a sharp and cuts 
 >[!definition]
 >Excellent character traits that persons develop through consistently good habits or education. 
 ### Natural Law Theory
+Different from divine command theroy in that according to divine command theory, an action is good because a divine being (such as God)
