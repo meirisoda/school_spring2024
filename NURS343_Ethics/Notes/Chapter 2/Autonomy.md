@@ -13,3 +13,6 @@ Three basic elements that are necessary for informed consent to occur:
 2. Consent for the treatment must be voluntary
 	1. A person should not be under any influence or coerced to provide consent. 
 3. Persons must be competent
+## Four Elements of Malpractice
+1. The professional must have a duty to the patient
+2. 
