@@ -47,6 +47,7 @@ GFR
 | --------- | --------------------- |
 | 30ml/hr   |                       |
 | 5ml/kg/hr | Infants - 0.5ml/kg/hr |
-|           |                       |
+|           | Children - 1ml/kg/hr                      |
 ### Influencing Factors
+Weight
 ### 
