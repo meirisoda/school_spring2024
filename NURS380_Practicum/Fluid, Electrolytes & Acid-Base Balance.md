@@ -30,4 +30,6 @@ Movement of molecules from area of higher concentration to an area of lower conc
 ### Osmosis 
 Movement through a semipermeable membrane
 ### Active Transport
-Energy used to move molecules from lesser concentratio
+Energy used to move molecules from lesser concentration to higher concentration
+### Filtration
+Transfer of fwater and dissolved substances through a permeable membrane from high pressure to low pressure 
