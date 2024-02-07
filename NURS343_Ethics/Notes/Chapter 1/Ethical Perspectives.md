@@ -5,5 +5,5 @@
 ### Ethical Subjectivism
 Individuals create their own morality and there are no objective moral truths, only individual opinions. 
 ### Cultural Relativism
-The ethical theory that moral evaluation is rooted in and cannot be separated from the e
+The ethical theory that moral evaluation is rooted in and cannot be separated from the experience, beliefs
 ## Ethical Objectivism
