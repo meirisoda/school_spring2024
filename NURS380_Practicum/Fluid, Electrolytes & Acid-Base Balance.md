@@ -1,6 +1,10 @@
-# Fluid Distribution
+## Fluid Distribution
 | Intracellular | Extracellular |
 | ------------- | ------------- |
-| Potassium     |               |
-| Phosphate     |               |
-|               |               |
+| Potassium     | Sodium              |
+| Phosphate     | Chloride              |
+| Sulfate              | Bicarb               |
+## Fluid Types
+### Hypertonic
+### Hypotonic
+### Isotonic 
