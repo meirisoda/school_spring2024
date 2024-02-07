@@ -35,7 +35,11 @@ Contrary to deontology, consequentialists consider consequences to be an importa
 >[!definition]
 >Focuses
 
-Came about when gender-bias in ethics was revealed in the 90
+Came about when gender-bias in ethics was revealed in the 90s. 
+> How does the ethical situation/dilemma affect women? 
+> How does the ethical situation/dilemma affect relationships? 
+
+The emphasis on emotions can be its downfall. 
 ## Eastern Ethics
 In both Western and Eastern ethics, ethics is often intertwined with spiritual or religious thinking. However, from a traditional Eastern ethics perspective, societal and spiritual philosophies and beliefs are essentially seamless. 
 They may be spiritual, but are not necessarily religious in nature. 
