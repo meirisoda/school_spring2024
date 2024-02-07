@@ -62,5 +62,9 @@ Intake and Output/Nutritional Status
 Measures difference solutes in plasma
 Primarily determined by sodium, glucose and urea
 ### Specific Gravity
-Measure of concentration of particles in urine and density of urine 
-### BUN & 
+Measure of concentration of particles in urine and density of urine compared to water
+Fair estimate of function of kidneys
+### BUN & Creatinine
+Used to determine kidney function
+Measures blood, urea and 
+### GR 
