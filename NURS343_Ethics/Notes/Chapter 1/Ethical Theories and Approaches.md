@@ -21,4 +21,7 @@ Example: the purpose of a knife is to cut, so a knife that has a sharp and cuts 
 Different from divine command theroy in that according to divine command theory, an action is good because a divine being (such as God) commands it, whereras with natural law theory, a divine being commands an action because it is moral agnostic of divine being. 
 ### Deontology
 >[!definition]
->
+>The study of duty.
+>An approach to ethics focused on duties and rules. 
+
+Only through mo
