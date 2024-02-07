@@ -23,3 +23,8 @@ Doing this for like the fifth fucking time
 > LR
 > D5W
 > 5% dextrose in 0.2% saline
+
+## Fluid Movement
+### Diffusion
+Movement of molecules from area of higher concentration to an area of lower concentration.
+### O
