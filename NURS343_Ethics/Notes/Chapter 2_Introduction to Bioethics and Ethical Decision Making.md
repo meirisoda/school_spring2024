@@ -5,3 +5,5 @@
 ![[Nonmaleficence]]
 # Beneficence
 ![[Beneficence]]
+# Justice
+![[Justice]]
