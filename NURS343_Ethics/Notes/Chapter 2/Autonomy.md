@@ -9,4 +9,4 @@ Plays a central role in Western healthcare ethics.
 
 Three basic elements that are necessary for informed consent to occur:
 1. Receipt of Information
-	1. receiving a description of the procedure, informatio
+	1. receiving a description of the procedure, information about the risks and benefits of having or not having the treatment, reasonable alternatives to the treatment, probabilities about outcomes, and "the credentials of the person who will perform the treatment."
