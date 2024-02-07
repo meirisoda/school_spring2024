@@ -3,3 +3,5 @@
 ![[Autonomy]]
 # Nonmaleficence
 ![[Nonmaleficence]]
+# Beneficence
+![[Beneficence]]
