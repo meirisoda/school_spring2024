@@ -12,4 +12,5 @@ These treatments may actually induce more harm unto patients.
 Healthcare professionals are not ethically bound to deliver futile treatments. 
 ## Rule of Double Effect
 >[!definition]
->A set of criteria used to det
+>A set of criteria used to determine the ethics of a decision that involves weighing the benefit of an action with its possible negative but forseeable consequences or effects. 
+>
