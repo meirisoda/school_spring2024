@@ -22,4 +22,6 @@ Three basic elements that are necessary for informed consent to occur:
 Errors involving serious, preventable adverse events must be reported to patients and through other organizational reporting systems on a mandatory basis. 
 Some professionals tend to avoid telling patients about near-miss errors because no harm was done to the patient. 
 ### Therapeutic privilege
->[!defi]
+>[!definition]
+>The right of physicians to withold information from patients from patients based on the potential for said information to harm the patient. 
+
