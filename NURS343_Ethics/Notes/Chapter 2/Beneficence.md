@@ -4,4 +4,8 @@
 
 People are obligated to act in a nonmaleficent manner towards all people, but are more likely to act with beneficence towards people whom they personally know or love. 
 ## Supererogation
->[!]
+>[!definition]
+>The act of paying out more than is required or demanded.
+
+Only considered supererogation
+1. It 
