@@ -11,4 +11,4 @@ Watch your character; it becomes your destiny.*
 >[!definition]
 >Emphasizes the role of one's character and the virtues that one's character embodies in order to determine and evaluate ethical behavior. 
 
-Example: the purpose of a knife is to cut, so a knife that ha
+Example: the purpose of a knife is to cut, so a knife that has a sharp and cuts very well exhibits virtue in excellence. 
