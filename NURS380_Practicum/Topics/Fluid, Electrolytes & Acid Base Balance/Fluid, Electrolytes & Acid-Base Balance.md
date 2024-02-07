@@ -55,7 +55,7 @@ GFR
 2ml/kg/hr for the second 10 kg
 1ml/kg/hr for remaining weight
 
-4
+1560 
 ### Influencing Factors
 Weight
 Intake and Output/Nutritional Status
