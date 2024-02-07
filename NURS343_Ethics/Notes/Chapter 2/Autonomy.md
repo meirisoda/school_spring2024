@@ -12,4 +12,4 @@ Three basic elements that are necessary for informed consent to occur:
 	1. Receiving a description of the procedure, information about the risks and benefits of having or not having the treatment, reasonable alternatives to the treatment, probabilities about outcomes, and "the credentials of the person who will perform the treatment".
 2. Consent for the treatment must be voluntary
 	1. A person should not be under any influence or coerced to provide consent. 
-3. Persons mus
+3. Persons must be competent
