@@ -13,6 +13,8 @@ Doing this for like the fifth fucking time
 > D10
 ### Hypotonic
 **Type** - Lower solute concentration than another solution.
-**Shits **
+**Shifts** - Fluid shifts from low solute solution to higher solute solution
+> 0.45% NS
+> dextrose solutions
 ### Isotonic 
-Has the same sollute concentration as another solution
+Type - Has the same sollute concentration as another solution
