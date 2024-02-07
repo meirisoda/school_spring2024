@@ -40,6 +40,11 @@ Came about when gender-bias in ethics was revealed in the 90s.
 > How does the ethical situation/dilemma affect relationships? 
 
 The emphasis on emotions can be its downfall. 
+### Religious Ethics
+>[!definition]
+>df
+
+Often provides peace and more ease in decision-making when the players are of the same 
 ## Eastern Ethics
 In both Western and Eastern ethics, ethics is often intertwined with spiritual or religious thinking. However, from a traditional Eastern ethics perspective, societal and spiritual philosophies and beliefs are essentially seamless. 
 They may be spiritual, but are not necessarily religious in nature. 
