@@ -9,4 +9,7 @@ The norm that "one ought not to inflict evil or harm", whereas beneficience incl
 Futile treatments are treatments a healthcare provider, when using good clinical judgment, does not believe will provide a beneficial outcome for a patient. 
 These treatments may actually induce more harm unto patients. 
 
-Healthcare professionals are 
+Healthcare professionals are not ethically bound to deliver futile treatments. 
+## Rule of Double Effect
+>[!definition]
+>A set of criteria used to det
