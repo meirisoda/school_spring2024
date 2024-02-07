@@ -24,4 +24,8 @@ In the realm of forms, there exists the essence of good as an ideal Truth.
 ##### Appearances
 The everyday world of imperfect, decaying and changing phenomena; the world in which humans live in. 
 The goal is to emulate the associate essences and perfect forms. 
-##### Trip
+##### Tripartite Soul
+1. Faculty of Reason
+	1. associated with thought and Truth, which is in one's head
+2. Faculty of Spirit
+3. Faculty of Appetite
