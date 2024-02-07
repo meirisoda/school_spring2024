@@ -14,5 +14,7 @@ Three basic elements that are necessary for informed consent to occur:
 	1. A person should not be under any influence or coerced to provide consent. 
 3. Persons must be competent
 ## Four Elements of Malpractice
-1. The professional must have a duty to the patient
-2. 
+1. The professional must have a duty to the patient.
+2. The professional must have breached that duty. 
+3. The patient must experience harm or damages.
+4. The patient's harm or damages must be directly connected to the professional's neglience. 
