@@ -9,6 +9,7 @@ Provides society with a framework of ethical stability and contains:
 - rules of obligation
 - character traits
 - common moral ideals
-Abortion is not a common morality beccao
+Ie. Telling the truth, exhibit loving kindness and be charitable. 
+Abortion is not a common morality because of the varying positions. 
 ## Metaethics
 ## Descriptive Ethics
