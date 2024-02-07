@@ -10,7 +10,9 @@ Watch your habits; they become character.
 Watch your character; it becomes your destiny.*
 >[!definition]
 >An approach to ethics concerned with *being* good and having moral character rather than *doing* good and following rules or focusing on duties.
->The normative question should be "How should "
->Emphasizes the role of one's character and the virtues that one's character embodies in order to determine and evaluate ethical behavior. 
+>The normative question should be "How should I be?" rather than "What should I do?"
 
+Emphasizes the role of one's character and the virtues that one's character embodies in order to determine and evaluate ethical behavior. 
 Example: the purpose of a knife is to cut, so a knife that has a sharp and cuts very well exhibits virtue in excellence. 
+#### Virtues
+>[!definition]
