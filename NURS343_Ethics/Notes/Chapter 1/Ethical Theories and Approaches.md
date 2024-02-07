@@ -31,6 +31,11 @@ Only through dutiful actions can people be moral. Regardless of the consequences
 Contrary to deontology, consequentialists consider consequences to be an important indication of the moral value of one's actions. 
 - Utilitarianism is an aspect of Consequentialism. 
 - Actions are judged as moral or immoral by their usefulness to meet a moral goal. 
+### Feminist Theories
+>[!definition]
+>Focuses
+
+Came about when gender-bias in ethics was revealed in the 90
 ## Eastern Ethics
 In both Western and Eastern ethics, ethics is often intertwined with spiritual or religious thinking. However, from a traditional Eastern ethics perspective, societal and spiritual philosophies and beliefs are essentially seamless. 
 They may be spiritual, but are not necessarily religious in nature. 
