@@ -4,7 +4,7 @@
 It represents the right of a rational person to express personal decisions independent of outside interference and to have these decisions honored. 
 Plays a central role in Western healthcare ethics. 
 ## Informed Consent 
->![definition]
+>[!definition]
 >Respecting a person's autonomy to make personal choices based on the appropriate appraisal of information about the actual or potential circumstances of a situation. 
 
 Three basic elements that are necessary for informed consent to occur:
@@ -17,4 +17,5 @@ Three basic elements that are necessary for informed consent to occur:
 1. The professional must have a duty to the patient.
 2. The professional must have breached that duty. 
 3. The patient must experience harm or damages.
-4. The patient's harm or damages must be directly connected to the professional's neglience. 
+4. The patient's harm or damages must be directly connected to the professional's negligence.
+## Intentional Nondisclosure
