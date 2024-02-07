@@ -5,7 +5,6 @@ Today, the line between sacred and secular text is blurred, however, this must b
 ### Virtue Ethics
 *Watch your thoughts; they become words.
 Watch your words; they become actions.
-### Religious Ethics
 Watch your actions; they become habits.
 Watch your habits; they become character.
 Watch your character; it becomes your destiny.*
@@ -41,6 +40,7 @@ Came about when gender-bias in ethics was revealed in the 90s.
 > How does the ethical situation/dilemma affect relationships? 
 
 The emphasis on emotions can be its downfall. 
+### Religious Ethics
 >[!definition]
 >df
 
