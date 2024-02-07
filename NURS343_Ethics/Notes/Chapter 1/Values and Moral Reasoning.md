@@ -19,4 +19,4 @@ Developed a method of reasoning called the Socratic questioning, or the Socratic
 **Investigate the accuracy, clarity, and value of one's intellectual positions and beliefs.**
 #### Realms
 ##### Forms
-Transcends time and space . 
+Transcends time and space. There exists an eternal, perfect, and unchanging ideal form of all phenomena, which is beyond everyday human access. 
