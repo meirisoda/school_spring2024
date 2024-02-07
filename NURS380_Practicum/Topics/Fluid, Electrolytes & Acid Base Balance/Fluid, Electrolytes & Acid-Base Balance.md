@@ -60,12 +60,15 @@ Intake and Output/Nutritional Status
 ## Fluid Labs
 ### Serum Osmolarity/Osmolality
 >[!values]
->275-300 mOsm/L
->270-290 mOsm/L (pediatric)
+>275 - 300 mOsm/L
+>270 - 290 mOsm/L (pediatric)
 
 Measures difference solutes in plasma
 Primarily determined by sodium, glucose and urea
 ### Specific Gravity
+>[!values]
+>1.010 - 1.025
+
 Measure of concentration of particles in urine and density of urine compared to water
 Fair estimate of function of kidneys
 
