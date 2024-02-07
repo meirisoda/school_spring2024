@@ -12,7 +12,7 @@ Decided as a society, guided by profession and action.
 Exist to enforce ethical guidelines - enforcement. 
 Lawmakers create the law often based on, again, their own sense of morals. 
 ## 2/7
-Talked about ethical theories: [[Ethical Theories and Approaches#Deontology]]
+Talked about ethical theories: [[Ethical Theories and Approaches#Deontology]] and [[Ethical Theories and Approaches#Consequentialism]]
 
 # Article Notes
 Common differences between morals and ethics are: 
