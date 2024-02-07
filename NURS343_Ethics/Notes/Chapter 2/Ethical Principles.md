@@ -3,3 +3,4 @@
 2. Beneficience
 	1. The rule to do good
 3. Justice
+![[Principlism]]
