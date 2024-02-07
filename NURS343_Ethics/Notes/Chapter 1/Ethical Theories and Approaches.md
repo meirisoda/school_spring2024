@@ -17,4 +17,3 @@ Example: the purpose of a knife is to cut, so a knife that has a sharp and cuts 
 #### Virtues
 >[!definition]
 >Excellent character traits that persons develop through consistently good habits or education. 
-
