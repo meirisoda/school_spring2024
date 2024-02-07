@@ -17,4 +17,9 @@ Doing this for like the fifth fucking time
 > 0.45% NS
 > dextrose solutions
 ### Isotonic 
-Type - Has the same sollute concentration as another solution
+**Type** - Has the same solute concentration as another solution
+**Shifts** - No net change in fluid movement
+> 0.9% NS
+> LR
+> D5W
+> 5% dextrose in 0.2% saline
