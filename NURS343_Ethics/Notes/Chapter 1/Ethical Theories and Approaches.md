@@ -24,8 +24,8 @@ Different from divine command theroy in that according to divine command theory,
 >The study of duty.
 >An approach to ethics focused on duties and rules. 
 
-Also known as Kantianism. 
-- Only through dutiful actions can people be moral. Regardless of the consequences of said actions, good actions always denote morality. 
+- Also known as Kantianism. 
+- The ends do not justify the means. Only through dutiful actions can people be moral. Regardless of the consequences of said actions, good actions always denote morality. 
 ### Consequentialism
 Contrary to deontology, consequentialists consider consequences to be an important indication of the moral value of one's actions. 
 ## Eastern Ethics
