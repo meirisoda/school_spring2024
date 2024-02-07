@@ -16,3 +16,5 @@ Healthcare professionals are not ethically bound to deliver futile treatments.
 >The action is only considered ethical if the action (in and of itself) is moral, the actor intends *only* the positive outcome, or the good outcome greatly outweighs the possible negatives. 
 
 The terms *killing* and *letting die* raise issues of legality, ethics, homicide, suicide, euthanasia, acts of commission and omission, and active-passive distinctions, which are beyond the scope of this chapter LMAO
+## Slippery Slope Arguments
+A slippery slope situation is one that may be morally acceptable when the current, primary event is being discu
