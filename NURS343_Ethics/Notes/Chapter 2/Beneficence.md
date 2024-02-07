@@ -7,5 +7,7 @@ People are obligated to act in a nonmaleficent manner towards all people, but ar
 >[!definition]
 >The act of paying out more than is required or demanded.
 
-Only considered supererogation
-1. It 
+Only considered supererogation if and only if:
+1. It is neither obligatory nor forbidden.
+2. Its omission is not wrong.
+3. It is morally good, both by virtue of its (intended) consequencces and by virtu
