@@ -12,4 +12,6 @@ Only considered supererogation if and only if:
 2. Its omission is not wrong.
 3. It is morally good, both by virtue of its (intended) consequencces and by virtue of its intrinsic value.
 4. It is done voluntarily for the sake of someone else's good and is thus meritorious. 
-## Paternalism 
+## Paternalism
+>[!definition]
+>The deliberate overriding of a patient's opportunity to exercise autonomy because of a perceived o
