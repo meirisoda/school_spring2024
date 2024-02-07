@@ -59,11 +59,12 @@ Weight
 Intake and Output/Nutritional Status
 ## Fluid Labs
 ### Serum Osmolarity/Osmolality
-Measures difference solutes in plasma
-Primarily determined by sodium, glucose and urea
 >[!values]
 >275-300 mOsm/L
->270-290 mOsm/L (pe)
+>270-290 mOsm/L (pediatric)
+
+Measures difference solutes in plasma
+Primarily determined by sodium, glucose and urea
 ### Specific Gravity
 Measure of concentration of particles in urine and density of urine compared to water
 Fair estimate of function of kidneys
@@ -73,7 +74,7 @@ icnreased specific gravity is caused by SIADH, CHF
 ### BUN & Creatinine
 Used to determine kidney function
 Measures blood, urea and nitrogen
-Creatinine - breakdown product of muscle metabolism 
+Creatinine - breakdown product of muscle metabolism // best indicator of kidney function
 ### GFR 
 Glomular filtration rate
 Measure of flow rate filtered fluid through the glomeruli in kidney
