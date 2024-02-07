@@ -33,7 +33,7 @@ Contrary to deontology, consequentialists consider consequences to be an importa
 - Actions are judged as moral or immoral by their usefulness to meet a moral goal. 
 ### Feminist Theories
 >[!definition]
->Focuses
+>Specifically focused on evaluating ethically related situations in terms of how these situations affect women.
 
 Came about when gender-bias in ethics was revealed in the 90s. 
 > How does the ethical situation/dilemma affect women? 
