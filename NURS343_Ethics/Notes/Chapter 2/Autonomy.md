@@ -31,4 +31,6 @@ The first federal statute designed to facilitate a patient's autonomy through th
 Healthcare providers and organizations must provide written information to adult patients regarding state laws and covering the right to make healthcare decisions, refuse or withdraw treatments and write advance directives. 
 
 Goal was to increase meaningful dialogue about patients' rights to make autonomous choices about receiving or not receiving health care. 
-## 
+## HIPAA
+The Health Insurance Portability and Accountability Act of 1996
+Federal regulation designed to protect people from indiscriminate 
