@@ -12,4 +12,6 @@ Provides society with a framework of ethical stability and contains:
 Ie. Telling the truth, exhibit loving kindness and be charitable. 
 Abortion is not a common morality because of the varying positions. 
 ## Metaethics
+>[!definition]
+>Not concer
 ## Descriptive Ethics
