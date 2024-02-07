@@ -15,3 +15,6 @@ Abortion is not a common morality because of the varying positions.
 >[!definition]
 >Not an inquiry about what ought to be done or which behaviors should be prescribed, but instead concerned with understanding the language of morality thorugh an analysis of the meaning of ethically related concepts and theories. 
 ## Descriptive Ethics
+>[!definition]
+>Scientific rather than a philosophical ethical inquiry. 
+>Often done with researchers or ethicists want to describe what people think about mor
