@@ -14,7 +14,8 @@ Lawmakers create the law often based on, again, their own sense of morals.
 ## 2/7
 Talked about ethical theories: ![[Ethical Theories and Approaches#Deontology|Deontology]]![[Ethical Theories and Approaches#Consequentialism|Consequentialism]]
 ![[Ethical Theories and Approaches#Virtue Ethics|Virtue Ethics]]
-dd
+### Causitry
+
 # Article Notes
 Common differences between morals and ethics are: 
 1. Consistency
