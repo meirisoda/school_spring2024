@@ -73,10 +73,8 @@ Measure of concentration of particles in urine and density of urine compared to 
 Fair estimate of function of kidneys
 | Decreased specific gravity | Increased Specific Gravity |
 | -------------------------- | -------------------------- |
-|                            |                            |
-|                            |                            |
-decreased specific gravity is caused by Excessive fluid intake, diabetes insipidous
-icnreased specific gravity is caused by SIADH, CHF 
+|                 caused by Excessive fluid intake, diabetes insipidous           |         caused by SIADH, CHF                    |
+
 ### BUN & Creatinine
 Used to determine kidney function
 Measures blood, urea and nitrogen
