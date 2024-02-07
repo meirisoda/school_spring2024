@@ -5,4 +5,8 @@ It represents the right of a rational person to express personal decisions indep
 Plays a central role in Western healthcare ethics. 
 ## Informed Consent 
 >![definition]
->Respecting a person's autonomy to make personal choices based on the appropriate appraisal of information about the actual or potential circumstances of a
+>Respecting a person's autonomy to make personal choices based on the appropriate appraisal of information about the actual or potential circumstances of a situation. 
+
+Three basic elements that are necessary for informed consent to occur:
+1. Receipt of Information
+	1. receiving a description of the procedure, informatio
