@@ -62,12 +62,14 @@ Intake and Output/Nutritional Status
 Measures difference solutes in plasma
 Primarily determined by sodium, glucose and urea
 >[!values]
->275-300 mO
+>275-300 mOsm/L
+>270-290 mOsm/L (pe)
 ### Specific Gravity
 Measure of concentration of particles in urine and density of urine compared to water
 Fair estimate of function of kidneys
 
-Excessive fluid intake, diabetes insipidous
+decreased specific gravity is caused by Excessive fluid intake, diabetes insipidous
+icnreased specific gravity is caused by SIADH, CHF 
 ### BUN & Creatinine
 Used to determine kidney function
 Measures blood, urea and nitrogen
