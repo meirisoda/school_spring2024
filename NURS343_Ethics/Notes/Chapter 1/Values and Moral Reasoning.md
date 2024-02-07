@@ -22,4 +22,6 @@ Developed a method of reasoning called the Socratic questioning, or the Socratic
 Transcends time and space. There exists an eternal, perfect, and unchanging ideal form of all phenomena, which is beyond everyday human access. 
 In the realm of forms, there exists the essence of good as an ideal Truth. 
 ##### Appearances
-The everyday world of imperfect, de
+The everyday world of imperfect, decaying and changing phenomena; the world in which humans live in. 
+The goal is to emulate the associate essences and perfect forms. 
+##### Trip
