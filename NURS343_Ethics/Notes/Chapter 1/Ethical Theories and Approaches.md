@@ -17,7 +17,8 @@ Example: the purpose of a knife is to cut, so a knife that has a sharp and cuts 
 #### Virtues
 >[!definition]
 >Excellent character traits that persons develop through consistently good habits or education. 
-### Natural Law Theory
+### Natural (Moral) Law Theory
+Relies on 'common morality'
 Different from divine command theory in that according to divine command theory, an action is good because a divine being (such as God) commands it, whereas with natural law theory, a divine being commands an action because it is moral agnostic of divine being. 
 ### Deontology
 >[!definition]

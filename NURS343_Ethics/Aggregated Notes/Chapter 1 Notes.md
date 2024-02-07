@@ -19,7 +19,7 @@ Lawmakers create the law often based on, again, their own sense of morals.
 **Narrative** - Story-based/much like case-based; focuses on the human experience and usually includes some aspect of other theories mixed in
 ![[Ethical Theories and Approaches#Feminist Theories]]
 ![[Ethical Theories and Approaches#Religious Ethics]]
-dd
+![[Ethical Theor]]
 # Article Notes
 Common differences between morals and ethics are: 
 1. Consistency
