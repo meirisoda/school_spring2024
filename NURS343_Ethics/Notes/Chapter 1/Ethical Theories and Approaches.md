@@ -9,4 +9,4 @@ Watch your actions; they become habits.
 Watch your habits; they become character.
 Watch your character; it becomes your destiny.*
 >[!definition]
->
+>T
