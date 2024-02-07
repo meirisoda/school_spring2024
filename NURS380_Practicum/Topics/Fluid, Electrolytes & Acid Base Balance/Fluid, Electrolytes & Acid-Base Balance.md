@@ -66,5 +66,9 @@ Measure of concentration of particles in urine and density of urine compared to 
 Fair estimate of function of kidneys
 ### BUN & Creatinine
 Used to determine kidney function
-Measures blood, urea and 
-### GR 
+Measures blood, urea and nitrogen
+Creatinine - breakdown product of muscle metabolism 
+### GFR 
+Glomular filtration rate
+Measure of flow rate filtered fluid through the glomeruli in kidney
+Can meas
