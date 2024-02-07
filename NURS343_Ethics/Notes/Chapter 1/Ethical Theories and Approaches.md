@@ -6,4 +6,5 @@ Today, the line between sacred and secular text is blurred, however, this must b
 *Watch your thoughts; they become words.
 Watch your words; they become actions.
 Watch your actions; they become habits.
-Watch your *
+Watch your habits; they become character.
+Watch your character; it becomes your destiny.*
