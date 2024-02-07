@@ -11,8 +11,8 @@ Decided as a society, guided by profession and action.
 ### Law
 Exist to enforce ethical guidelines - enforcement. 
 Lawmakers create the law often based on, again, their own sense of morals. 
-## 2/7
-Talked about ethical theories: ![[Ethical Theories and Approaches#Deontology|Deontology]]![[Ethical Theories and Approaches#Consequentialism|Consequentialism]]
+## Ethical Theories
+![[Ethical Theories and Approaches#Deontology|Deontology]]![[Ethical Theories and Approaches#Consequentialism|Consequentialism]]
 ![[Ethical Theories and Approaches#Virtue Ethics|Virtue Ethics]]
 
 **Casuistry** - Individual case-based, and can set a standard of reference for a community. 
