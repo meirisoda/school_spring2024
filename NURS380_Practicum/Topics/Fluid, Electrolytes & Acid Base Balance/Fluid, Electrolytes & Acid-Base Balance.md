@@ -42,4 +42,8 @@ Renal Regulation
 GFR 
 
 ## Assessments
-Intake and O
+### Intake and Output
+30ml/hr
+0.5ml/kg/hr
+### Influencing Factors
+### 
