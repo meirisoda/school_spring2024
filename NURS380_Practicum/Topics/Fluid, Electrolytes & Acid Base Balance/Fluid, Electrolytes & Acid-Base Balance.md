@@ -51,6 +51,11 @@ GFR
 100/50/20 rule
 4/2/1 Formula 
 
+4ml/kg/hr for the first 10 kg
+2ml/kg/hr for the second 10 kg
+1ml/kg/hr for remaining weight
+
+
 ### Influencing Factors
 Weight
 Intake and Output/Nutritional Status
