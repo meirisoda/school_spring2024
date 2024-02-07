@@ -19,3 +19,4 @@ Three basic elements that are necessary for informed consent to occur:
 3. The patient must experience harm or damages.
 4. The patient's harm or damages must be directly connected to the professional's negligence.
 ## Intentional Nondisclosure
+Errors involving serious, preventable adverse events must be reported to patients and through 
