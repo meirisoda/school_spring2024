@@ -33,4 +33,5 @@ Healthcare providers and organizations must provide written information to adult
 Goal was to increase meaningful dialogue about patients' rights to make autonomous choices about receiving or not receiving health care. 
 ## HIPAA
 The Health Insurance Portability and Accountability Act of 1996
-Federal regulation designed to protect people from indiscriminate 
+Federal regulation designed to protect people from indiscriminate disclosure of their personal health information while supporting dissemination of information needed to achieve high quality health care. 
+Also gives patients the right to review their medical records. 
