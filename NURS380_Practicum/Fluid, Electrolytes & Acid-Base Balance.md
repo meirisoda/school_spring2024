@@ -27,4 +27,7 @@ Doing this for like the fifth fucking time
 ## Fluid Movement
 ### Diffusion
 Movement of molecules from area of higher concentration to an area of lower concentration.
-### O
+### Osmosis 
+Movement through a semipermeable membrane
+### Active Transport
+Energy used to move molecules from lesser concentratio
