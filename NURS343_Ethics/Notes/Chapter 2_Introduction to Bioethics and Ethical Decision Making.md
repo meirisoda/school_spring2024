@@ -1,1 +1,2 @@
 # Ethical Principles
+![[Ethical Principles]]
