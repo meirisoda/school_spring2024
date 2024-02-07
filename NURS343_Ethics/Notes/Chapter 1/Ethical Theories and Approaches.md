@@ -42,7 +42,7 @@ Came about when gender-bias in ethics was revealed in the 90s.
 The emphasis on emotions can be its downfall. 
 ### Religious Ethics
 >[!definition]
->df
+>Basing moral/ethical decisions on religious beliefs and tenets. 
 
 Often provides peace and more ease in decision-making when the players are of the same faith. 
 Can create controversy even among the same faith. 

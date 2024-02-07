@@ -18,6 +18,8 @@ Talked about ethical theories: ![[Ethical Theories and Approaches#Deontology|Deo
 **Casuistry** - Individual case-based, and can set a standard of reference for a community. 
 **Narrative** - Story-based/much like case-based; focuses on the human experience and usually includes some aspect of other theories mixed in
 ![[Ethical Theories and Approaches#Feminist Theories]]
+![[Ethical Theories and Approaches#Religious Ethics]]
+dd
 # Article Notes
 Common differences between morals and ethics are: 
 1. Consistency
