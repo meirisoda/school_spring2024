@@ -7,4 +7,5 @@
 ![[Typics of Ethical Inquiry]]
 # Ethical Perspectives
 ![[Ethical Perspectives]]
-# Values and Moral Reaso
+# Values and Moral Reasoning
+![[Values and Moral Reasoning]]
