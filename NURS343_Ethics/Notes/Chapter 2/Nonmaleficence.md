@@ -5,4 +5,5 @@ The norm that "one ought not to inflict evil or harm", whereas beneficience incl
 1. One ought to prevent evil or harm
 2. One ought to remove evil or harm
 3. One ought to do or promote good
-4. 
+## Futility
+Futile treatments are treatments a health
