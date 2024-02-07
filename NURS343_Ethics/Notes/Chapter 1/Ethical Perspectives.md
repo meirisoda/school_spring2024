@@ -9,3 +9,5 @@ The ethical theory that moral evaluation is rooted in and cannot be separated fr
 People who oppose this think that this type of thinking is dangerous because it theoretically supports relativists' exploitative or hurtful actions. 
 ## Ethical Objectivism
 >[!definition]
+>The belief that universal, or objective, moral principles exist.
+
