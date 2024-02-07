@@ -61,9 +61,13 @@ Intake and Output/Nutritional Status
 ### Serum Osmolarity/Osmolality
 Measures difference solutes in plasma
 Primarily determined by sodium, glucose and urea
+>[!values]
+>275-300 mO
 ### Specific Gravity
 Measure of concentration of particles in urine and density of urine compared to water
 Fair estimate of function of kidneys
+
+Excessive fluid intake, diabetes insipidous
 ### BUN & Creatinine
 Used to determine kidney function
 Measures blood, urea and nitrogen
@@ -71,4 +75,4 @@ Creatinine - breakdown product of muscle metabolism
 ### GFR 
 Glomular filtration rate
 Measure of flow rate filtered fluid through the glomeruli in kidney
-Can meas
+Can measure CKD stages 
