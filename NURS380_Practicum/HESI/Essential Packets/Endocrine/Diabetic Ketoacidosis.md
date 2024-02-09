@@ -38,7 +38,6 @@ Administration of low-dose insulin to decrease glucose levels.
 Fluids are administered to replace lost fluid volume, and electrolytes—particularly sodium, potassium, and phosphorus—are administered as needed. 
 > Fluids and electrolytes should be monitored closely. Electrolyte deficits become apparent as fluid volume is replaced.
 ## Reversing Ketoacidosis
-
 Replacement of fluid volume and insulin interrupts the ketotic cycle and reverses the metabolic acidosis. In the presence of insulin, glucose enters the cells, and the body ceases to convert fats into glucose.
 
 Adequate hydration and insulin replacement usually correct the acidosis, and this treatment is sufficient for many patients with DKA. As shown in Figure 24-3, replacement of bicarbonate is no longer routine except for the severely acidotic patient with a serum pH value lower than 7.0.[24] An indwelling arterial line provides access for hourly sampling of arterial blood gases (ABGs) to evaluate pH, bicarbonate, and other laboratory values in the patient with severe DKA.
