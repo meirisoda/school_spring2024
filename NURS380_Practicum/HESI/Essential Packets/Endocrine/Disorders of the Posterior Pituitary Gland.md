@@ -36,4 +36,10 @@ Parenteral: 1-2 mcg IV or subcutaneously every 12 hr
 | Teach the patient to weigh himself or herself daily and to notify the health care provider if 2 lbs or more is gained in 24 hours. | A rapid increase in weight is an indicator of excessive fluid retention and may require a change in drug dosage. |
 | Tell the patient to notify the health care provider if he or she experiences a persistent headache or acute confusion. | These are manifestations of water toxicity, which must be treated before seizure activity occurs. |
 ### Chlorpropamide 
-2250-500mg o
+2250-500mg orally daily
+> The drug is an antidiabetic agent that also has some antidiuretic activity through an unknown mechanism. It decreases urine output.
+
+| Interventions                                                                                                | Rationale                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ask whether the patient has any allergies to sulfa-based drugs.                                              | Drug contains sulfa, and a person who is hypersensitive to sulfa drugs is likely to also be hypersensitive to this drug.                           |
+| Teach patients the manifestations of hypoglycemia and to always carry candy or concentrated sugar with them. | The main action of the drug is to lower blood glucose levels. When taken by a person whose blood glucose level is normal, hypoglycemia can result. |
