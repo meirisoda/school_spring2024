@@ -11,4 +11,4 @@ Risk factors include acidic or hypertonic IV solutions; rapid IV rate; irritatin
 ### Signs and Symptoms 
 - redness
 - tenderness
-- warmth along the v
+- warmth along the vein
