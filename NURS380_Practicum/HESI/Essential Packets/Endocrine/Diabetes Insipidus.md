@@ -41,3 +41,10 @@ Parenteral: 1-2 mcg IV or subcutaneously every 12 hr
 | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Ask whether the patient has any allergies to sulfa-based drugs.                                              | Drug contains sulfa, and a person who is hypersensitive to sulfa drugs is likely to also be hypersensitive to this drug.                           |
 | Teach patients the manifestations of hypoglycemia and to always carry candy or concentrated sugar with them. | The main action of the drug is to lower blood glucose levels. When taken by a person whose blood glucose level is normal, hypoglycemia can result. |
+## Labs
+| Lab                | Critical Value | Explanation                                                                                                                                                         |
+| ------------------ | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sodium (serum)     | >145 mEq/L     | Free water loss due to absent or diminished release of ADH or lack of response by the kidneys results in hemoconcentration of sodium                     |
+| Osmolality (serum) | >295 mOsm/kg   | Free water loss due to absent or diminished release of ADH or lack of response by the kidneys increases serum osmolality; will be normal in secondary DI |
+| Osmolality (urine) | <100 mOsm/kg   | Free water loss into urine decreases urine osmolality                                                                                                    |
+| Sodium (urine)     | 40-200 mEq/L   | Urine sodium is not affected                                                                                                                             |
