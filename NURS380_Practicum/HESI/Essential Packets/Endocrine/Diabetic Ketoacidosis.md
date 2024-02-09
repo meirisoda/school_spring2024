@@ -19,7 +19,8 @@ Profound insulin deficiency results in decreased glucose uptake, increased fat m
 
 ## Clinical Manifestations
 Polyuria and dehydration result from the osmotic diuresis associated with hyperglycemia. 
-Glucose present in Sodium, phosphorus, and magnesium deficits are common. The most important electrolyte disturbance, however, is a marked deficiency in total body potassium. Although the serum potassium may appear normal or elevated because of volume contraction and a shift of potassium out of the cell and into the blood caused by metabolic acidosis, the total body deficiency of potassium may reach 3 to 5 mEq/kg. Symptoms of diabetic ketoacidosis include Kussmaul respirations (hyperventilation in an attempt to compensate for the acidosis), postural dizziness, central nervous system depression, ketonuria, anorexia, nausea, abdominal pain, thirst, and polyuria.
+Glucose present in urine. 
+Sodium, phosphorus, and magnesium deficits are common. The most important electrolyte disturbance, however, is a **marked deficiency in total body potassium.** (Total body deficiency of potassium may reach 3 to 5 mEq/kg). Symptoms of diabetic ketoacidosis include Kussmaul respirations (hyperventilation in an attempt to compensate for the acidosis), postural dizziness, central nervous system depression, ketonuria, anorexia, nausea, abdominal pain, thirst, and polyuria.
 ## Evaluation and Treatment
 ### Evaluation
 #### Symptoms 
