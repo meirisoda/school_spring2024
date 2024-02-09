@@ -19,10 +19,10 @@ Profound insulin deficiency results in decreased glucose uptake, increased fat m
 
 ## Clinical Manifestations
 The signs and symptoms of DKA are fairly nonspecific. Polyuria and dehydration result from the osmotic diuresis associated with hyperglycemia. Here the plasma glucose level is higher than the individual’s renal threshold, allowing much glucose to be lost in the urine. Sodium, phosphorus, and magnesium deficits are common. The most important electrolyte disturbance, however, is a marked deficiency in total body potassium. Although the serum potassium may appear normal or elevated because of volume contraction and a shift of potassium out of the cell and into the blood caused by metabolic acidosis, the total body deficiency of potassium may reach 3 to 5 mEq/kg. Symptoms of diabetic ketoacidosis include Kussmaul respirations (hyperventilation in an attempt to compensate for the acidosis), postural dizziness, central nervous system depression, ketonuria, anorexia, nausea, abdominal pain, thirst, and polyuria.
-
 ## Evaluation and Treatment
+### Evaluation
 The diagnosis of ketoacidosis is suggested when individuals have symptoms of vomiting, abdominal pain, dehydration, an acetone odor on the breath, and change in sensorium. The ADA criteria for diagnosis of DKA include a serum glucose of more than 250 mg/dl, a serum bicarbonate of less than 18 mg/dl, a serum pH of less than 7.30, presence of an anion gap, and presence of urine and serum ketones.[176]
-
+### Treatment
 Treatment of DKA involves continual administration of low-dose insulin to decrease glucose levels.[60,172] Fluids are administered to replace lost fluid volume, and electrolytes—particularly sodium, potassium, and phosphorus—are administered as needed. Fluids and electrolytes should be monitored closely. Electrolyte deficits become apparent as fluid volume is replaced. After the administration of insulin, the concentration of β-hydroxybutyrate promptly begins to decrease and after a slight increase, acetoacetate also begins to decrease. A persistent ketonuria may be observed for several days after treatment. Continuous monitoring of the individual is essential to ensure an uncomplicated recovery from DKA. Cerebral edema is the most common cause of morbidity and mortality during the first day of treatment for DKA in children. The mechanisms are poorly understood.[177] Health teaching emphasizes predisposing factors and strategies for avoiding DKA.
 
 ## Reversing Ketoacidosis
