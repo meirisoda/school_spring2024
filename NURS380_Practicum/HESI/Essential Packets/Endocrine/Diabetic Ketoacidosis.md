@@ -20,7 +20,8 @@ Profound insulin deficiency results in decreased glucose uptake, increased fat m
 ## Clinical Manifestations
 Polyuria and dehydration result from the osmotic diuresis associated with hyperglycemia. 
 Glucose present in urine. 
-Sodium, phosphorus, and magnesium deficits are common. The most important electrolyte disturbance, however, is a **marked deficiency in total body potassium.** (Total body deficiency of potassium may reach 3 to 5 mEq/kg). Symptoms of diabetic ketoacidosis include Kussmaul respirations (hyperventilation in an attempt to compensate for the acidosis), postural dizziness, central nervous system depression, ketonuria, anorexia, nausea, abdominal pain, thirst, and polyuria.
+Sodium, phosphorus, and magnesium deficits are common. The most important electrolyte disturbance, however, is a **marked deficiency in total body potassium.** (Total body deficiency of potassium may reach 3 to 5 mEq/kg). 
+Symptoms of diabetic ketoacidosis include Kussmaul respirations (hyperventilation in an attempt to compensate for the acidosis), postural dizziness, central nervous system depression, ketonuria, anorexia, nausea, abdominal pain, thirst, and polyuria.
 ## Evaluation and Treatment
 ### Evaluation
 #### Symptoms 
@@ -42,6 +43,4 @@ Fluids are administered to replace lost fluid volume, and electrolytes—particu
 ## Reversing Ketoacidosis
 Replacement of fluid volume and insulin interrupts the ketotic cycle and reverses the metabolic acidosis. In the presence of insulin, glucose enters the cells, and the body ceases to convert fats into glucose.
 
-Adequate hydration and insulin replacement usually correct the acidosis, and this treatment is sufficient for many patients with DKA. As shown in Figure 24-3, replacement of bicarbonate is no longer routine except for the severely acidotic patient with a serum pH value lower than 7.0.[24] An indwelling arterial line provides access for hourly sampling of arterial blood gases (ABGs) to evaluate pH, bicarbonate, and other laboratory values in the patient with severe DKA.
-
-Hyperglycemia usually resolves before the ketoacidemia does.[24] Type 1 diabetes patients with DKA can require 6 L of IV fluid replacement even for mild DKA.[25] In one clinical report, patients with previously diagnosed type 1 diabetes in DKA took an average of 21 hours after being started on an IV insulin protocol to clear ketones from the urine. The insulin infusion was continued for 36 hours until the patients could tolerate an oral diet; during this time, the patients received a total of 9.5 L of normal saline for rehydration.[26] Patients who are newly diagnosed with type 1 diabetes take longer to clear urine ketones and require more insulin to achieve normal glycemic control, compared with long-term diabetics.[26]
+Hyperglycemia usually resolves before the ketoacidemia does.[24] Type 1 diabetes patients with DKA can require 6 L of IV fluid replacement even for mild DKA.[25] 
