@@ -1,6 +1,4 @@
 Related to a deficiency or excess of the hormone _vasopressin_ (antidiuretic hormone [ADH]). Diabetes insipidus occurs with ADH deficiency, and the syndrome of inappropriate antidiuretic hormone (SIADH) occurs with ADH excess.
-
-# Diabetes Insipidus
 ## Pathophysiology
 
 >[!definition]
