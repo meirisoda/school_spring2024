@@ -9,5 +9,6 @@ Related to a deficiency or excess of the hormone _vasopressin_ (antidiuretic hor
 Dehydration caused by this massive water loss $\big\uparrow$ plasma osmolarity, increasing thirst. Thirst promotes increased fluid intake and aids in maintaining water homeostasis. 
 ## Clinical Manifestations
 | Cardiovascular | Skin | Neurologic | Kidney/Urinary |
-| ---- | ---- | ---- | ---- |
-|  |  |  |  |
+| -------------- | ---- | ---------- | -------------- |
+| Hypotension<br>Decreased pulse pressure<br>Tachycardia<br>Weak peripheral pulses<br>Hemoconcentration<br>> $\big\uparrow$     |      |            |                |
+|                |      |            |                |
