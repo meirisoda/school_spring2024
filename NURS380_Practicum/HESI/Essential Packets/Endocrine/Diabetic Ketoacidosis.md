@@ -28,12 +28,15 @@ The signs and symptoms of DKA are fairly nonspecific. Polyuria and dehydration r
 - an acetone odor on the breath
 - change in sensorium
 #### Labs
-Serum glucose >250 mg/dl
-Serum bicarbonate <18 mg/dl
-Serum pH <7.30
-Presence of an anion gap, and presence of urine and serum ketones.[176]
+- Serum glucose >250 mg/dl
+- Serum bicarbonate <18 mg/dl
+- Serum pH <7.30
+- Presence of an anion gap
+- Presence of urine and serum ketones.[176]
 ### Treatment
-Treatment of DKA involves continual administration of low-dose insulin to decrease glucose levels.[60,172] Fluids are administered to replace lost fluid volume, and electrolytes—particularly sodium, potassium, and phosphorus—are administered as needed. Fluids and electrolytes should be monitored closely. Electrolyte deficits become apparent as fluid volume is replaced. After the administration of insulin, the concentration of β-hydroxybutyrate promptly begins to decrease and after a slight increase, acetoacetate also begins to decrease. A persistent ketonuria may be observed for several days after treatment. Continuous monitoring of the individual is essential to ensure an uncomplicated recovery from DKA. Cerebral edema is the most common cause of morbidity and mortality during the first day of treatment for DKA in children. The mechanisms are poorly understood.[177] Health teaching emphasizes predisposing factors and strategies for avoiding DKA.
+Administration of low-dose insulin to decrease glucose levels.
+Fluids are administered to replace lost fluid volume, and electrolytes—particularly sodium, potassium, and phosphorus—are administered as needed. 
+> Fluids and electrolytes should be monitored closely. Electrolyte deficits become apparent as fluid volume is replaced. After the administration of insulin, the concentration of β-hydroxybutyrate promptly begins to decrease and after a slight increase, acetoacetate also begins to decrease. A persistent ketonuria may be observed for several days after treatment. Continuous monitoring of the individual is essential to ensure an uncomplicated recovery from DKA. Cerebral edema is the most common cause of morbidity and mortality during the first day of treatment for DKA in children. The mechanisms are poorly understood.[177] Health teaching emphasizes predisposing factors and strategies for avoiding DKA.
 
 ## Reversing Ketoacidosis
 
