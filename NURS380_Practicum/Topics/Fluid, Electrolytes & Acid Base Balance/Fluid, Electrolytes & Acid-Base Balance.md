@@ -71,6 +71,7 @@ Primarily determined by sodium, glucose and urea
 
 Measure of concentration of particles in urine and density of urine compared to water
 Fair estimate of function of kidneys
+
 | Decreased specific gravity | Increased Specific Gravity |
 | -------------------------- | -------------------------- |
 |                 caused by Excessive fluid intake, diabetes insipidous           |         caused by SIADH, CHF                    |
