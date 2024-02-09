@@ -1,0 +1,2 @@
+## Infiltration
+An **infiltration** occurs when IV fluids leak into the subcutaneous tissue around the venipuncture site because the catheter tip no longer is in the vein. Infiltration causes swelling (from increased interstitial fluid), paleness, and coolness (from decreased circulation) around the venipuncture site. The IV infusion may slow or stop. Pain may occur, increasing as the infiltration progresses. The INS recommends using an infiltration scale for assessment (INS, 2011).
