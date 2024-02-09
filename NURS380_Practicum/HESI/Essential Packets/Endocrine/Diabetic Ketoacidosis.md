@@ -36,8 +36,7 @@ The signs and symptoms of DKA are fairly nonspecific. Polyuria and dehydration r
 ### Treatment
 Administration of low-dose insulin to decrease glucose levels.
 Fluids are administered to replace lost fluid volume, and electrolytes—particularly sodium, potassium, and phosphorus—are administered as needed. 
-> Fluids and electrolytes should be monitored closely. Electrolyte deficits become apparent as fluid volume is replaced. After the administration of insulin, the concentration of β-hydroxybutyrate promptly begins to decrease and after a slight increase, acetoacetate also begins to decrease. A persistent ketonuria may be observed for several days after treatment. Continuous monitoring of the individual is essential to ensure an uncomplicated recovery from DKA. Cerebral edema is the most common cause of morbidity and mortality during the first day of treatment for DKA in children. The mechanisms are poorly understood.[177] Health teaching emphasizes predisposing factors and strategies for avoiding DKA.
-
+> Fluids and electrolytes should be monitored closely. Electrolyte deficits become apparent as fluid volume is replaced.
 ## Reversing Ketoacidosis
 
 Replacement of fluid volume and insulin interrupts the ketotic cycle and reverses the metabolic acidosis. In the presence of insulin, glucose enters the cells, and the body ceases to convert fats into glucose.
