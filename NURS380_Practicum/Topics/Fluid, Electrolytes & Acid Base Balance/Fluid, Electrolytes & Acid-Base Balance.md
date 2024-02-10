@@ -85,4 +85,4 @@ Glomular filtration rate
 Measure of flow rate filtered fluid through the glomeruli in kidney
 Can measure CKD stages 
 
-We ordered this albumin for you because you've lost some bloo
+We ordered this albumin for you because you've lost some blood during surgery. That is completely normal, but we want to replace whatever you've lost. Albumin is pretty important because it helps you keep your blood 
