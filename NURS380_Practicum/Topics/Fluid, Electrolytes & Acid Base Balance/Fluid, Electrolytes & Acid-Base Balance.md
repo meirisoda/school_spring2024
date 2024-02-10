@@ -85,4 +85,4 @@ Glomular filtration rate
 Measure of flow rate filtered fluid through the glomeruli in kidney
 Can measure CKD stages 
 
-We ordered this albumin for you because you've lost some blood during surgery. That is completely normal, but we want to replace whatever you've lost. Albumin is a pretty important protein in your blood that helps keep it inside of your veins. Sometimes though, we don't like to give it when it's contraindicated. In your case, having the albumin is very beneficial, but if you have severe anemia or really bad heart failure, it could hur
+We ordered this albumin for you because you've lost some blood during surgery. That is completely normal, but we want to replace whatever you've lost. Albumin is a pretty important protein in your blood that helps keep it inside of your veins. Sometimes though, we don't like to give it when it's contraindicated. In your case, having the albumin is very beneficial, but if you have severe anemia or really bad heart failure, it could hurt more. 
