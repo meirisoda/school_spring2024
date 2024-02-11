@@ -47,7 +47,8 @@ GFR
 | ---- | ---- | ---- |
 | 30ml/hr | Infants - 0.5ml/kg/hr |  |
 |  | Children - 1ml/kg/hr |  |
-#### p100/50/20 rule
+#### Pediatrics
+**100/50/20 rule**
 4/2/1 Formula 
 
 4ml/kg/hr for the first 10 kg
