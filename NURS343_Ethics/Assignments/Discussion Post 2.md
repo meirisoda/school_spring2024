@@ -7,4 +7,4 @@
 
 **In order to make this discussion successful, everyone will need to post their own written piece first and early to have time to respond adequately! You will not be able to see anyone else's post until you post your own.**
 ## Response
-I will try to be vague about this situation as it is quite personal (I couldn't think of anything else) but I have been involved in a personal situation, but one of the parties involved who had much higher authority than I did would discuss my personal situation with outside parties not involved in said situation. These outside parties do not have direct relationships with me, but are connected indirectly. 
+I will try to be vague about this situation as it is quite personal (I couldn't think of anything else to write about) but a couple years ag, but one of the parties involved who had much higher authority than I did would discuss my personal situation with outside parties not involved in said situation. These outside parties do not have direct relationships with me, but are connected indirectly. 
