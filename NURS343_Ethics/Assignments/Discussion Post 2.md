@@ -7,3 +7,4 @@
 
 **In order to make this discussion successful, everyone will need to post their own written piece first and early to have time to respond adequately! You will not be able to see anyone else's post until you post your own.**
 ## Response
+I will be very vague about this situation as it is quite
