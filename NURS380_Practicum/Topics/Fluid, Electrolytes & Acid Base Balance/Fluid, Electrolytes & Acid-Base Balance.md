@@ -113,4 +113,8 @@ low BP
 # Fluid Maintenance & Replacement
 ## Crystalloids
 >[!definition]
->Solutions with small molecules that flow easily from the bl
+>
+>Solutions with small molecules that flow easily from the bloodstream into cells and tissues
+
+
+### Isotonic
