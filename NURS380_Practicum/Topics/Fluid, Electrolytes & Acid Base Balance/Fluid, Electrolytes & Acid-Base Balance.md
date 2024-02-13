@@ -113,8 +113,8 @@ low BP
 # Fluid Maintenance & Replacement
 ## Crystalloids
 >[!definition]
->
+>Mainly used to increase intravascular volume. 
 >Solutions with small molecules that flow easily from the bloodstream into cells and tissues
 
-
+ie. NS, LR, D5W, D10W, 0.45% 
 ### Isotonic
