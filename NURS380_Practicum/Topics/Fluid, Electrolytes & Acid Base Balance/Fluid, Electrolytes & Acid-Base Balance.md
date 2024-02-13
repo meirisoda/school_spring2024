@@ -110,4 +110,7 @@ low BP
 >[!tx]
 >administer fluids
 
-# Fluid Maintenance & Rep
+# Fluid Maintenance & Replacement
+## Crystalloids
+>[!definition]
+>Solutions with small molecules that flow easily from the bl
