@@ -114,7 +114,7 @@ low BP
 ## Crystalloids
 >[!definition]
 >Mainly used to increase intravascular volume. 
->Solutions with small molecules that flow easily from the bloodstream into cells and tissues
-
-ie. NS, LR, D5W, D10W, 0.45% 
+>Solutions with small molecules that flow easily from the bloodstream into cells and tissues 
 ### Isotonic
+0.9% NaCl and LR (has more electrolytes than NS)
+### Hypotonic 
