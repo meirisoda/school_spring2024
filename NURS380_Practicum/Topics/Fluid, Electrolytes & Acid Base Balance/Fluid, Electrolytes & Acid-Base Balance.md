@@ -86,9 +86,11 @@ Measures blood, urea and nitrogen
 Creatinine - breakdown product of muscle metabolism // best indicator of kidney function
 ### GFR 
 >[!values]
->>90 (adult)
->>40-
+>greater than 90 (adult)
+>40-60 (newborn)
+
+
 Glomular filtration rate
 Measure of flow rate filtered fluid through the glomeruli in kidney
 Can measure CKD stages 
-
+## Vol
