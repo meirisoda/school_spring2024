@@ -76,9 +76,11 @@ Fair estimate of function of kidneys
 | -------------------------- | -------------------------- |
 |                 caused by Excessive fluid intake, diabetes insipidous           |         caused by SIADH, CHF                    |
 ### BUN & Creatinine
->[!definition]
+>[!values]
 >**BUN:** 6-20 mg/dL
->**Creatinine:** 0.6-1.2 mg/dL (M), 0.
+>**Creatinine:** 0.6-1.2 mg/dL (M), 0.5-1.1 mg/dL (W)
+
+
 Used to determine kidney function
 Measures blood, urea and nitrogen
 Creatinine - breakdown product of muscle metabolism // best indicator of kidney function
