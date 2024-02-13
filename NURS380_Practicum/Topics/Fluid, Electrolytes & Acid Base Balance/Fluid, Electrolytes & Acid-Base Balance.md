@@ -95,3 +95,9 @@ Measure of flow rate filtered fluid through the glomeruli in kidney
 Can measure CKD stages 
 ## Volume 
 ### Volume Excess
+>[!treatm]
+>fluid restriction
+>diuretics
+>dialysis (ultra filitration)
+>positioning
+>thoracentesis or 
