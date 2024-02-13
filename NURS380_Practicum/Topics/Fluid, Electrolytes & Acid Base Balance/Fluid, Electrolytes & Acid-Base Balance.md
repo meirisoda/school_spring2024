@@ -118,3 +118,5 @@ low BP
 ### Isotonic
 0.9% NaCl and LR (has more electrolytes than NS)
 ### Hypotonic 
+- contains less solute
+- helpful for intracellular dehydration
