@@ -102,6 +102,12 @@ Can measure CKD stages
 >positioning
 >thoracentesis or paraccentesis (if ECF)
 ### Volume Depletion
+>[!sx]
+>change in mental status
+tachycardia 
+low BP
+
+
 >[!treatm]
 >administer fluids
 
