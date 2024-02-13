@@ -93,4 +93,9 @@ Creatinine - breakdown product of muscle metabolism // best indicator of kidney 
 Glomular filtration rate
 Measure of flow rate filtered fluid through the glomeruli in kidney
 Can measure CKD stages 
-## Vol
+## Volume 
+### Volume Excess
+#### Treatment
+- fluid restriction
+- diuretics
+- 
