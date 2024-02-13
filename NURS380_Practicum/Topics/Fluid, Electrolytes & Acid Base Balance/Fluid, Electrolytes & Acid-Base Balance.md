@@ -76,6 +76,8 @@ Fair estimate of function of kidneys
 | -------------------------- | -------------------------- |
 |                 caused by Excessive fluid intake, diabetes insipidous           |         caused by SIADH, CHF                    |
 ### BUN & Creatinine
+>[!definition]
+>BUN: 6-
 Used to determine kidney function
 Measures blood, urea and nitrogen
 Creatinine - breakdown product of muscle metabolism // best indicator of kidney function
