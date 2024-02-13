@@ -100,4 +100,9 @@ Can measure CKD stages
 >diuretics
 >dialysis (ultra filitration)
 >positioning
->thoracentesis or 
+>thoracentesis or paraccentesis (if ECF)
+### Volume Depletion
+>[!treatm]
+>administer fluids
+
+
