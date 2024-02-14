@@ -21,4 +21,3 @@ Under the scope of Principlism, this case would be unfit to meet the four criter
 I'm so sorry that happened, it sounds so horrible. Unfortunately, I have seen this kind of thing happen so often in hospitals, where there are breaks in communication and little consideration or empathy for parties involved. Teamwork and clear communication are so important, especially in cases where a patient's wishes and comfort are at stake.
 I think principalism is a valid application of ethical theory in this case. It's important to recognize where the principles of autonomy, beneficence, non-maleficence, and justice weren't fully followed, as this can help improve care in the future.
 
-Despite the challenges, your commitment to being there for the patient's final moments shows your compassion and dedication to your work. Reflecting on this experience can help you grow as a healthcare professional, ensuring that in future situations, patients receive the best care possible.
