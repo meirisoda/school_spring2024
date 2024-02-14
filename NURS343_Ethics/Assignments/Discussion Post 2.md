@@ -18,7 +18,7 @@ Having officially learned healthcare ethics, I feel severe discomfort about all 
 
 Under the scope of Principlism, this case would be unfit to meet the four criteria of autonomy, beneficence, non-maleficence, and justice. In terms of autonomy, the patient had stated already that the patient wanted to pass away peacefully, which was the original reason the hospice consult had been put in. The patient should have been adequately supported until hospice consult could weigh-in, which damaged the patient's right to autonomy. The care team failed to exercise beneficence in the same way, failing to adequately support patient to keep them comfortable The criteria of justice was failed as the care team was failing to treat each other with respect. The only criteria I could argue for in this situation may be non-maleficence, as I try to believe that there was no ill will embodied by anyone in this situation.
 ### My response
-I'm so sorry that happened, it sounds so horrible. Unfortunately I have seen this kind of thing happen so often in hospitals,  
+I'm so sorry that happened, it sounds so horrible. Unfortunately I have seen this kind of thing happen so often in hospitals, where there are breaks  
 It's clear you've been deeply affected by this patient's experience, and it's no wonder why. Your care and concern for the patient's well-being and dignity really come through in your description.
 
 The breakdown in communication and decision-making you described sadly happens too often in healthcare settings. Teamwork and clear communication are so important, especially in cases where a patient's wishes and comfort are at stake.
