@@ -1,5 +1,5 @@
 ## Sinus Tachycardia
-![[Pasted image 20240215161525.png]]
+![[Premature Atrial Contraction.png]]
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ------ | ---- | ------- | ----------- | ----------- |
