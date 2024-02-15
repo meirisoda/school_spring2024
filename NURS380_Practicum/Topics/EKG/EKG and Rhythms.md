@@ -7,6 +7,6 @@
 ## Premature Atrial Contraction (PAC)
 ![[Pasted image 20240215161604.png]]
 
-|  |  |  |
-| ---- | ---- | ---- |
-|  |  |  |
+| Rhythm | Rate | P Waves | PR Interval | QRS Complex |
+| ---- | ---- | ---- | ---- | ---- |
+| single beat |  |  |  |  |
