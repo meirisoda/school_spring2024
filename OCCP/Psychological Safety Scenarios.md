@@ -3,35 +3,20 @@ The following three scenarios are examples of situations where the teams lack ps
 As you generate a team response for each scenario, please keep in mind Edmondson's three strategies for enhancing psychological safety (references in the assigned video):
 
 - Frame the work. This is a learning problem, not an execution problem.
-    
 - Acknowledge your own fallibility. I may miss something, and I need to hear from you.
-    
 - Model curiosity. Ask a lot of genuine questions so people feel free to speak up
-    
 
 Steps for completing this assignment: 
-
 1. Copy and past the scenarios below into a Word document in your team's OneDrive folder.
-    
 2. As a team, for each scenarios:
-    
-
 - Define the problem(s)
-    
 - Generate potential solutions to the challenges with psychological safety. Your team's response should reflect the perspectives of all of the members in your team. You should incorporate content from Edmondson's strategies (listed above) as well as from the other preparation material.
-    
 - For this step, don't divide the scenarios among yourselves and have just one or two people weigh in on each scenario. This "divide and conquer" approach is group work, not interdendent team work. 
-    
-
 4. Once completed, you can submit your team's response by simply designating one member of your team to paste the link to your OneDrive document in this assignment. We will provide feedback in the OneDrive document itself, so do NOT upload the document as a PDF or other file. 
-    
 
 Suggestion for Efficient and Effective Teamwork in an Online Course
-
 Based on our experience completing online Master's program while working full time and raising a family, we know how hectic it can be to participate in an online course. To help improve our effectiveness and efficiency while maintain the interdependence of teamwork, we strongly recommend you:
-
 - Plan out the following process with assigned roles and interim deadlines early in the first week of the module so everyone knows what is expected of them and when they need to complete the task.
-    
 - Identify a team leader for this module. You can rotate team leaders for each module. 
     
 - Identify three people on your team to create the first responses to each scenario. Each person drafts a response to one scenario. Set an interim deadline for these initial drafts. 
