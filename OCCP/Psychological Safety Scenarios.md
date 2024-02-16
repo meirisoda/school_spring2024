@@ -30,7 +30,7 @@ At a team meeting, the team discusses plans to discharge Sam’s patient back to
 
 A week later, Sam’s manager received a report that the patient had been readmitted for falling at home and lacerating his forehead.
 
-> The problem was that Sam feels pressure and the inability to speak up during meetings. He fears voicing his opinions as he doesn't trust them (indicated by his intimidation of his colleagues/seniors), so in this situation wh
+> The problem was that Sam feels pressure and the inability to speak up during meetings. He fears voicing his opinions as he doesn't trust them (indicated by his intimidation of his colleagues/seniors). In this situation where his opinions differed from his colleagues, 
 
 ## Scenario 2
 
