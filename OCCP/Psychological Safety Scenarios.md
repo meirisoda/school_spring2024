@@ -18,16 +18,10 @@ Suggestion for Efficient and Effective Teamwork in an Online Course
 Based on our experience completing online Master's program while working full time and raising a family, we know how hectic it can be to participate in an online course. To help improve our effectiveness and efficiency while maintain the interdependence of teamwork, we strongly recommend you:
 - Plan out the following process with assigned roles and interim deadlines early in the first week of the module so everyone knows what is expected of them and when they need to complete the task.
 - Identify a team leader for this module. You can rotate team leaders for each module. 
-    
 - Identify three people on your team to create the first responses to each scenario. Each person drafts a response to one scenario. Set an interim deadline for these initial drafts. 
-    
 - Next, have two different members of the team review and edit each draft. For example, if Person A drafted a response to scenario 1, then they could review the draft for scenario 2. If Person B did not draft an initial response to a scenario, then they could review TWO drafts in this step. This approach should equalize the work among your team members. Set an interim deadline for when the review of the drafts should be completed. 
-    
 - Finally, have everyone review and revise all of the responses to the scenarios. This demonstrates interdependence among your team because each person is contributing to each response. Set an interim deadline for when everyone should have read through and edited all of the responses. 
-    
 - Finally, in this assignment the team leader can submit the link to the Word document. The final team document is due by February 25 at 11:59 PM.
-    
-
 ## Scenario 1
 
 Sam, a new occupational therapist, struggles with speaking up during interprofessional team meetings. He’s new to the profession, so he’s intimidated by the expertise of the clinicians around him. The few times he’s tried, his colleagues have mostly ignored his input while focusing on the more vocal team members. Lately, he feels safer just staying quiet and waiting on instructions from the rest of the group.
