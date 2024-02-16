@@ -2,20 +2,17 @@
 The following three scenarios are examples of situations where the teams lack psychological safety. We would like your team to work through these scenarios to generate ways to address the team's concern and improve their psychological safety.
 
 As you generate a team response for each scenario, please keep in mind Edmondson's three strategies for enhancing psychological safety (references in the assigned video):
-
 - Frame the work. This is a learning problem, not an execution problem.
 - Acknowledge your own fallibility. I may miss something, and I need to hear from you.
 - Model curiosity. Ask a lot of genuine questions so people feel free to speak up
-
-Steps for completing this assignment: 
+### Steps for completing this assignment: 
 1. Copy and past the scenarios below into a Word document in your team's OneDrive folder.
 2. As a team, for each scenarios:
 - Define the problem(s)
 - Generate potential solutions to the challenges with psychological safety. Your team's response should reflect the perspectives of all of the members in your team. You should incorporate content from Edmondson's strategies (listed above) as well as from the other preparation material.
 - For this step, don't divide the scenarios among yourselves and have just one or two people weigh in on each scenario. This "divide and conquer" approach is group work, not interdendent team work. 
 4. Once completed, you can submit your team's response by simply designating one member of your team to paste the link to your OneDrive document in this assignment. We will provide feedback in the OneDrive document itself, so do NOT upload the document as a PDF or other file. 
-
-Suggestion for Efficient and Effective Teamwork in an Online Course
+### Suggestion for Efficient and Effective Teamwork in an Online Course
 Based on our experience completing online Master's program while working full time and raising a family, we know how hectic it can be to participate in an online course. To help improve our effectiveness and efficiency while maintain the interdependence of teamwork, we strongly recommend you:
 - Plan out the following process with assigned roles and interim deadlines early in the first week of the module so everyone knows what is expected of them and when they need to complete the task.
 - Identify a team leader for this module. You can rotate team leaders for each module. 
@@ -32,6 +29,7 @@ A week later, Sam’s manager received a report that the patient had been readmi
 
 > [!highlight]
 > The problem was that Sam feels pressure and the inability to speak up during meetings. He fears voicing his opinions as he doesn't trust them (indicated by his intimidation of his colleagues/seniors). In this situation where his opinions differed from his colleagues, he believed that his judgements were misinformed and stayed quiet. 
+> A 
 
 ## Scenario 2
 A care management team in a local adolescent inpatient behavioral health treatment facility meets daily to review patients for possible discharge. In her role as lead social worker for the unit, Adrian is responsible for presenting a review of patient treatment progress and working with families to plan for discharge and aftercare. She recommends that a 13-year-old patient be discharged the following day as he has met his short-term treatment goals and has demonstrated consistent progress throughout his 10-day admission. The care management team also agrees with the patient's overall readiness to go home.
