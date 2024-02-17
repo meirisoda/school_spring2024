@@ -29,7 +29,7 @@ A week later, Sam’s manager received a report that the patient had been readmi
 
 > [!highlight]
 > The problem was that Sam feels pressure and the inability to speak up during meetings. He fears voicing his opinions as he doesn't trust them (indicated by his intimidation of his colleagues/seniors). In this situation where his opinions differed from his colleagues, he believed that his judgements were misinformed and stayed quiet. 
-> First, Sam must overcome his lack of trust in his own judgements. As he is new to the professional career, he believes that he lacks the experience needed to make sound evaluations and trea
+> First, Sam must overcome his lack of trust in his own judgements. As he is new to the professional career, he believes that he lacks the experience needed to make sound evaluations and treatment plans for his patients. 
 
 ## Scenario 2
 A care management team in a local adolescent inpatient behavioral health treatment facility meets daily to review patients for possible discharge. In her role as lead social worker for the unit, Adrian is responsible for presenting a review of patient treatment progress and working with families to plan for discharge and aftercare. She recommends that a 13-year-old patient be discharged the following day as he has met his short-term treatment goals and has demonstrated consistent progress throughout his 10-day admission. The care management team also agrees with the patient's overall readiness to go home.
