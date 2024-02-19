@@ -9,4 +9,4 @@
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
-| single beat |  |  |  |  |
+| single beat | - | - premature<br>- abnormal in size, shape and direction |  |  |
