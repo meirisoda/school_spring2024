@@ -187,6 +187,7 @@ digraph G {
 
 	subgraph cluster_1 {
 		label="Left Atrium";
+		node [style=filled, color=lightgrey];
 		C [label="Purkinje fibers", shape=box];
 	}
 	
