@@ -209,8 +209,6 @@ digraph G {
 ```dot
 digraph g{
 	rankdir = LR;
-	node [shape = none]
-	
 	node [shape = ellipse]
 	
 	A->A2->A3;
@@ -233,8 +231,8 @@ digraph g{
 		label="C";
 	}
 	
-	{ rank=same; 1; A;}
-	{ rank=same;  A3;}
+	{ rank=same; A;}
+	{ rank=same; A3;}
 }
 ```
 
