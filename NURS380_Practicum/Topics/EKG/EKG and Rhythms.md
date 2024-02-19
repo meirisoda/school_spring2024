@@ -175,6 +175,7 @@
 ```dot
 digraph G {
 	subgraph cluster_0{
+		ranke=
 		label="Right Atrium";
 		style=filled;
 		color=lightgrey;
