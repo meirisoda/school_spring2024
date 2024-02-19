@@ -53,4 +53,5 @@ digraph G {
 ### Adverse Effects
 May cause bradycardia and hypotension
 (Not as common) bronchospasm, reduced circulation
-#### Increased Risk
+### Contraindications
+Patients with asthma, or chronic bradycardia or hypotension
