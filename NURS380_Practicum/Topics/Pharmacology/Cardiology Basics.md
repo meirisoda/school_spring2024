@@ -43,6 +43,8 @@ digraph G {
 	D [label="renin"];
 	E [label="lowers BP, HR, CO, renin, and oxygen demand"];
 
-	{B,C} -> A
+	B -> A [label="binds to"];
+	C -> A
+	A ->
 }
 ```
