@@ -162,9 +162,6 @@
 
 >[!tx]
 >First step is to determine hemodynamic stability. 
->
->| | |
->
 >**Stable**
 >- IV $\beta$-blockers or CCBs
 >
