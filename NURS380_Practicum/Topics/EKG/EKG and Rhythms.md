@@ -138,7 +138,11 @@
 >Hypocalcemia and hypomagnesemia
 
 >[!sx]
->Usually asymptomatic but can include va
+>Usually asymptomatic but can include vagal sx
+
+>[!tx]
+>If asymptomatic, usually no need for treatment
+>If frequent and symptomatic, antiarrhythmics and $\beta$-blockers, 
 ## Paroxysmal Atrial Tachycardia (PAT)/Supraventricular Tachycardia (SVT)
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
