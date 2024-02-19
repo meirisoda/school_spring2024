@@ -200,7 +200,8 @@ Typically have to have chronic hypertensive heart disease
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
 | Regular | IVR slow (30-40bpm)<br>AIVR (>50bpm) | Absent | Not measurable | Wide (>12ms) |
-
+>[!path]
+>SA or AV node doesn't send a signal in a rate high enough (due to suppression with structural damage or functional dysfunction)
 ## Junctional Rhythm
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
