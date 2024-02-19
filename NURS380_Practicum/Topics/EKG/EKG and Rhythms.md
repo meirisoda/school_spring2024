@@ -225,6 +225,7 @@ digraph g{
 		rank=same;
 		A [label="SA node"];
 		B [label="AV node"];
+		label="Right Atrium";
 	}
 	
 	subgraph cluster1{
