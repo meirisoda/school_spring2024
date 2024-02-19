@@ -130,7 +130,9 @@
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
 | Not a rhythm, but a single beat | Underyling rhythm | None associated with PVC | Underlying rhythm | Premature and wide (>12ms) |
->[!]
+>[!cause]
+>Heartbeat is initiated by Purkinje fibers rather than the SA node
+>MI,
 ## Paroxysmal Atrial Tachycardia (PAT)/Supraventricular Tachycardia (SVT)
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
