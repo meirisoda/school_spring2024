@@ -187,10 +187,11 @@ digraph G {
 	}
 	
 	subgraph cluster_1 {
+		D0 [label="His bundle"];
 		D1 [label="Left Bundle Branch"];
 		D2 [label="Right Bundle Branch"];
 
-		D1 -> D2
+		D0 -> D1 -> D2
 	}
 	
 	subgraph cluster_2 {
