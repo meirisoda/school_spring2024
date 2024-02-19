@@ -1,24 +1,12 @@
 # Pathophysiology
 ``` dot
 digraph G {
-	node = [style=filled];
-	a0 -> a1
-}
-```
-``` dot
-digraph G {
 	subgraph cluster_0 {
 		style=filled;
 		color=lightgrey;
 		node [style=filled,color=white];
-		a0 -> a1 -> a2 -> a3;
+		hello -> a1 -> a2 -> a3;
 		label = "process #1";
-	}
-	subgraph cluster_1 {
-		node [style=filled];
-		b0 -> b1 -> b2 -> b3;
-		label = "process #2";
-		color=blue
 	}
 	start -> a0;
 	start -> b0;
