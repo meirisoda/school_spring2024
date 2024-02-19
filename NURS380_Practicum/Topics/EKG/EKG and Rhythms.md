@@ -178,12 +178,11 @@ digraph G {
 		label="Right Atrium";
 		style=filled;
 		color=lightgrey;
-		forcelabels=true;
 		node=[style=filled,color=white];
-		A [label="SA Node", label="heart's pacemaker"];
+		A [label="SA Node"];
 		B [label="AV Node"];
 		
-		A -> B [label]
+		A -> B [label="blah"];
 	}
 
 	subgraph cluster_1 {
