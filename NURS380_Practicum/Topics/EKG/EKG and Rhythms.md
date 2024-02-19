@@ -186,9 +186,13 @@ Can be seen in healthy patients; can be temp or chronic
 ### Left BBB
 Typically have to have chronic hypertensive heart disease
 >[!path]
->Takes longer than normal for the left ventricle to fu
-## Junctional Rhythm
+>Takes longer than normal for the left ventricle to fully depolarize
 
+>[!tx]
+>LBBB + syncope $\rightarrow$ 
+ 
+ 
+## Junctional Rhythm
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
 |  |  |  |  |  |
