@@ -206,3 +206,30 @@ digraph G {
 	B -> D0
 }
 ```
+```dot
+digraph g{
+ rankdir = LR;
+ node [shape = none]
+
+ 1->2->3->4[arrowhead=none]
+
+ node [shape = ellipse]
+
+ A->A2->A3;
+
+ subgraph clusterCG{
+  shape = rect;
+  rank=same;
+  A2;
+  B;
+  C;
+  color=blue;
+  label="C";
+ }
+
+ { rank=same; 1; A;}
+ { rank=same; 3; CG;}
+ { rank=same; 4; A3;}
+}
+```
+
