@@ -210,9 +210,11 @@ digraph G {
 digraph g{
 	rankdir = LR;
 	node [shape = none]
-	1 [label="Right Atrium"]
+	1 [label="Right Atrium"];
+	2 [label="x"];
+	3 [label="Left Atrium"];
 	
-	1->2->3->4[arrowhead=none]
+	1->2->3[arrowhead=none]
 	
 	node [shape = ellipse]
 	
