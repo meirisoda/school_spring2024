@@ -237,6 +237,7 @@ digraph g{
 		A3;
 		B3;
 		color=blue;
+		label="Left Atrium";
 	}
 	
 }
