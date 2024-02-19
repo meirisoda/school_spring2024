@@ -231,7 +231,8 @@ digraph g{
 		label="C";
 	}
 	
-	{ rank=same; A;}
+	{ rank=same; A; }
+	{rank=same; }
 	{ rank=same; A3;}
 }
 ```
