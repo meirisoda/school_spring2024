@@ -5,7 +5,10 @@ subgraph cluster_0 {
 	color=lightgrey;
 	node=[style=filled, color=white];
 	A [label="right atrium"]
-	B [label="SA node" -> conduct an electrical signal to AV node -> His & Purkinge fibers -> ventricles -> ventricular contraction;
+	B [label="SA node"]
+	C [label="conduct an electrical signal to AV node"]
+	D [label="His & Purkinge fibers"]
+	E [label=ventricles -> ventricular contraction;
 	label=Contraction
 }
 ```
