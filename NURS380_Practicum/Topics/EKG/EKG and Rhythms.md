@@ -10,3 +10,6 @@
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
 | single beat | - | - premature<br>- abnormal in size, shape and direction | - | - Premature<br>- normal duration (6-10ms) |
+>[!definition]
+>- Triggered by atrial myocardium not originating in the SA node
+>- 
