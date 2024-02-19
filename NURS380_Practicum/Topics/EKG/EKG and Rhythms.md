@@ -219,15 +219,19 @@ digraph g{
 	node [shape = ellipse]
 	
 	A->A2->A3;
+
+	subgraph cluster0{
+		shape=rect
+	}
 	
 	subgraph cluster1{
-	shape = rect;
-	rank=same;
-	A2;
-	B;
-	C;
-	color=blue;
-	label="C";
+		shape = rect;
+		rank=same;
+		A2;
+		B;
+		C;
+		color=blue;
+		label="C";
 	}
 	
 	{ rank=same; 1; A;}
