@@ -175,10 +175,8 @@
 ```dot
 digraph G {
 	rankdir=LR;
-	newrank=true;
 	subgraph cluster_0{
 		rank=same;
-		rankdir=TB;
 		label="Right Atrium";
 		style=filled;
 		color=lightgrey;
