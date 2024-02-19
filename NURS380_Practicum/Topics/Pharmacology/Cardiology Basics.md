@@ -34,3 +34,4 @@ $\uparrow$ action potential duration, prolonged effective refractory period.
 # $\beta$-blockers
 (-lol)
 Typically treats CV diseases, but also more uncommon things like long QT syndrome, hypertophic obstructive cardiomyopathy. 
+### Mechanism of Action
