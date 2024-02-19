@@ -49,10 +49,11 @@
 >- $\beta$-blockers
 >- cardioversion
 ## Ventricular Tachycardia
+![[Pasted image 20240218224945.png]]
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
-|  |  |  |  |  |
+| Regular or slightly irregular |  |  |  |  |
 ## Atrial Fibrillation
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
