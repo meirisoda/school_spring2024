@@ -161,7 +161,11 @@
 >- adenosine
 
 >[!tx]
->First steap is to determine hemodynamic stability. 
+>First step is to determine hemodynamic stability. 
 >**Stable**
->- IV $\beta$-blockers or CCB
+>- IV $\beta$-blockers or CCBs
+>- Cardioversion
+>- Vagal maneuvers
+>**Unstable**
+>- IV adenosine
 >- Cardioversion
