@@ -29,6 +29,5 @@ $\uparrow$ action potential duration, prolonged effective refractory period.
 | ---- | ---- |
 | 150mg/10min<br>1mg/min/6hrs<br>0.5mg/min/18hrs | 800-1600mg/daily |
 ### Considerations
-- Contraindicate2nd/3rd degree blocks w/out pacemakers
-- Concurrent afib
+- Contraindicated in patients with: 2nd/3rd degree blocks w/out pacemakers, concurrent afib
 - Make sure to monitor electrolytes
