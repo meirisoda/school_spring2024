@@ -1,9 +1,7 @@
 # Pathophysiology
 ``` dot
 digraph G {
-	style=filled;
-	color=lightgrey;
-	node=[style=filled, color=white];
+	node = [style=filled];
 	A [label="right atrium"]
 	B [label="SA node"]
 	C [label="conduct an electrical signal to AV node"]
