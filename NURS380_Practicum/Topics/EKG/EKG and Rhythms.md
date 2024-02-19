@@ -212,7 +212,7 @@ digraph g{
 	node [shape = ellipse]
 	
 	A1->B
-	B2->C [constraint=false]
+	B2->C 
 
 	subgraph cluster0{
 		shape=rect;
