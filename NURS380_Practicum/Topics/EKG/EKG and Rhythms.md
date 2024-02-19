@@ -179,7 +179,7 @@ digraph G {
 		style=filled;
 		color=lightgrey;
 		node=[style=filled, color=white];
-		A [label="SA Node"];
+		A [label="SA Node", xlabel="heart];
 		B [label="AV Node"];
 		
 		A -> B [label]
