@@ -5,8 +5,6 @@ digraph G {
 	a0 -> a1
 }
 ```
-# Antiarrhythmics
-## Amiodarone
 ``` dot
 digraph G {
 	subgraph cluster_0 {
@@ -33,3 +31,5 @@ digraph G {
 	end [shape=Msquare];
 }
 ```
+# Antiarrhythmics
+## Amiodarone
