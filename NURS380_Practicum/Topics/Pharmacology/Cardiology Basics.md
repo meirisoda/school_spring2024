@@ -8,16 +8,12 @@ digraph G {
 		A [label="Right atrium"];
 		B [label="SA node"];
 		C [label="AV node"];
-		D [label="His&Purkinje fibers];
+		D [label="His&Purkinje fibers"];
 		E [label="ventricles"];
-		A -> B -> C -> D -> E -> F;
+		A -> B -> C -> D -> E;
 	}
 	start -> A;
-	a1 -> b3;
-	b2 -> a3;
-	a3 -> a0;
-	a3 -> end;
-	b3 -> end;
+	E -> end;
 	start [label=Contraction, shape=diamond];
 	end [shape=Msquare];
 }
