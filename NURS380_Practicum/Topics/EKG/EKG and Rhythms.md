@@ -79,9 +79,12 @@
 >Abnormal electrical activity within the atria (irregular) $\rightarrow$ leads to turbulent and abnormal flow of blood through heart $\rightarrow$ decreased effeciveness in pumping blood & increased thrombus formation
 
 >[!cause]
->**atrial** ischemia
+>- **atrial** ischemia
 >- inflammation
->- ch
+>- chronic alcohol and drug use
+>- **Risk Factors**: age, HTN, congenital heart disease
+
+>[]
 ## Ventricular Fibrillation
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
