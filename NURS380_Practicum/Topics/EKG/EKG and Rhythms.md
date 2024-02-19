@@ -55,7 +55,11 @@
 | ---- | ---- | ---- | ---- | ---- |
 | Regular or slightly irregular | 140-250bpm (135-155 if vtach w/ pulse) | None | Not measurable | Wide (>12ms) |
 >[!path]
->Coordinated ventricular contractions are replaced by very rapid but ineffective contractions $\rightarrow$ decreased ventricular filling $\rightarrow$ dramatic decrease in CO $\rightarrow$ absent pulse 
+>Coordinated ventricular contractions are replaced by very rapid but ineffective contractions $\rightarrow$ decreased ventricular filling $\rightarrow$ dramatic decrease in CO $\rightarrow$ absent pulse $\rightarrow$ leads to decreased oxygenation
+>also AV dissociation
+
+>[!Causes]
+>- Cardiac scarring
 ## Atrial Fibrillation
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
