@@ -162,4 +162,6 @@
 
 >[!tx]
 >First steap is to determine hemodynamic stability. 
->**Stab**
+>**Stable**
+>- IV $\beta$-blockers or CCB
+>- Cardioversion
