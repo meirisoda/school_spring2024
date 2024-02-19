@@ -22,7 +22,7 @@
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
 | single beat | Of underlying rhythm | - premature<br>- abnormal in size, shape and direction | Of underlying rhythm | - Premature<br>- normal duration (6-10ms) |
->[!causes]
+>[!cause]
 >- Triggered by atrial myocardium not originating in the SA node
 >- Can also be caused by $\beta$-agonists, digoxin, tricyclics, and potentially $\beta$-blockers
 >- CAD and hypertrophic cardiomyopathy
