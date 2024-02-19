@@ -178,11 +178,14 @@ digraph G {
 		label="Right Atrium";
 		style=filled;
 		color=lightgrey;
+		node=[style=filled, col]
 		A [label="SA Node"];
 		B [label="AV Node"];
 	}
 
-
+	subgraph cluster_1 {
+		label="Left Atrium";
+	}
 	
 }
 ```
