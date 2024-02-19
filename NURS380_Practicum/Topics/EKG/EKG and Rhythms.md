@@ -185,9 +185,14 @@ digraph G {
 		
 		A -> B [label="blah"];
 	}
+	
 	subgraph cluster_1 {
-		D1 [label="Left Bundle Branch"]
+		D1 [label="Left Bundle Branch"];
+		D2 [label="Right Bundle Branch"];
+
+		D1 -> D2
 	}
+	
 	subgraph cluster_2 {
 		label="Left Atrium";
 		node [style=filled, color=lightgrey];
