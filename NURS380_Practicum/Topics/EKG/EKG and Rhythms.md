@@ -172,5 +172,6 @@
 
 # Advanced Rhythms
 ## Bundle Branch Block
+![[Pasted image 20240219180454.png]]
 SA node $\rightarrow$ AV node $\rightarrow$ bundle of His $\rightarrow$ left & right bundles
-> If one is blocked, the not blocked one will depolarize first, cus
+> If one is blocked, the not blocked one will depolarize first, causing a delay which causes a **wide QRS complex**
