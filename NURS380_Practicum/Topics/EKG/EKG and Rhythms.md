@@ -211,7 +211,7 @@ digraph g{
 	rankdir = LR;
 	node [shape = ellipse]
 	
-	A->A2->A3;
+	A->B->C;
 
 	subgraph cluster0{
 		shape=rect;
@@ -220,16 +220,16 @@ digraph g{
 		label="Right Atrium";
 		
 		A [label="SA node"];
-		B [label="AV node"];
-		A -> B
+		A1 [label="AV node"];
+		A -> A1
 	}
 	
 	subgraph cluster1{
 		shape = rect;
 		rank=same;
-		A2;
+		B;
+		B1;
 		B2;
-		C;
 	}
 
 	subgraph cluster2 {
@@ -238,8 +238,8 @@ digraph g{
 		color=red;
 		label="Left Atrium";
 		
-		A3;
-		B3;
+		C;
+		C1;
 	}
 {rank=same; A; B;}
 }
