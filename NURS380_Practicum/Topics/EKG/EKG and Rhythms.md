@@ -192,4 +192,4 @@
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
 |  |  |  |  |  |
-### Second Degree AV Block
+### Second Degree AV Block 
