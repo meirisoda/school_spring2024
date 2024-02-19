@@ -96,6 +96,7 @@
 >- if episodic and tachycardic, amiodarone (not first line)
 ## Ventricular Fibrillation
 ![[Pasted image 20240219000913.png]]
+![[Pasted image 20240219001018.png]]
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
