@@ -142,7 +142,7 @@
 
 >[!tx]
 >If asymptomatic, usually no need for treatment
->If frequent and symptomatic, antiarrhythmics and $\beta$-blockers, 
+>If frequent and symptomatic, antiarrhythmics and $\beta$-blockers, and CCBs
 ## Paroxysmal Atrial Tachycardia (PAT)/Supraventricular Tachycardia (SVT)
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
