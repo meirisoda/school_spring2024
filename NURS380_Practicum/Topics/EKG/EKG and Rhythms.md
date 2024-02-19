@@ -232,8 +232,11 @@ digraph g{
 	}
 
 	subgraph cluster2 {
-		shape 
-	
+		shape=rect;
+		rank=same;
+		A3;
+		B3;
+		color=blue;
 	}
 	
 	{ rank=same; A; }
