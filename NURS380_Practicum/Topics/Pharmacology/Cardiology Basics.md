@@ -6,8 +6,9 @@ digraph G {
 		color=lightgrey;
 		node [style=filled,color=white];
 		A [label="Right atrium"];
-		A -> a1 -> a2 -> a3;
-		label = "Contraction";
+		B [label="SA node"];
+		C
+		A -> B -> C -> D -> F -> G;
 	}
 	start -> A;
 	a1 -> b3;
