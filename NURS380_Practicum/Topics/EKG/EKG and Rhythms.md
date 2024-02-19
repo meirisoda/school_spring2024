@@ -179,6 +179,7 @@ digraph G {
 		style=filled;
 		color=lightgrey;
 		node [style=filled,color=white];
+		orientation=L;
 		A [label="SA Node", xlabel="heart's\npacemaker", shape=box];
 		B [label="AV Node", shape=box];
 		
