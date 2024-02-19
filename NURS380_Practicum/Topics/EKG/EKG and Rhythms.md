@@ -172,4 +172,4 @@
 
 # Advanced Rhythms
 ## Bundle Branch Block
-SA node 
+SA node $\rightarrow$ AV nod
