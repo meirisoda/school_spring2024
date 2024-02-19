@@ -239,8 +239,6 @@ digraph g{
 		color=blue;
 	}
 	
-	{ rank=same; A; }
-	{ rank=same; A3;}
 }
 ```
 
