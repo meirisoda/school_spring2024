@@ -19,4 +19,9 @@
 >[!tx]
 >- $\beta$-adrenergic blockers
 >- Type IA, IC, III anti-arrythmic agents
+## Atrial Flutter
+![[Pasted image 20240218224039.png]]
 
+|     |     |
+| --- | --- |
+|     |     |
