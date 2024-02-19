@@ -211,7 +211,8 @@ digraph g{
 	rankdir = LR;
 	node [shape = ellipse]
 	
-
+	A1->B
+	B2->C
 
 	subgraph cluster0{
 		shape=rect;
