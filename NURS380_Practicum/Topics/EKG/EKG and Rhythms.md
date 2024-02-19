@@ -221,7 +221,10 @@ digraph g{
 	A->A2->A3;
 
 	subgraph cluster0{
-		shape=rect
+		shape=rect;
+		rank=same;
+		A [label="SA node"];
+		A1 [label="]
 	}
 	
 	subgraph cluster1{
