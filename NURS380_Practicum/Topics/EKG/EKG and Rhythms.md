@@ -70,10 +70,11 @@
 >Cardioversion if pulseless
 >IV vasopressors & antiarrythmics (such as amiodarone)
 ## Atrial Fibrillation
+![[Pasted image 20240219000413.png]]
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
-|  |  |  |  |  |
+| Irregular |  |  |  |  |
 ## Ventricular Fibrillation
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
