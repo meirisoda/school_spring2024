@@ -19,7 +19,9 @@ digraph G {
 ```
 # Antiarrhythmics
 ## Amiodarone
-**Type:** "Class III Antiarrhythmic"
-> inhibits potassium receptor responsible for repolarizing the heart $\rightarrow$ $K+$
+### Type
+Class III Antiarrhythmic
+> inhibits potassium receptor responsible for repolarizing the heart $\rightarrow$ $K^+$ CCB effect
 
-**Results:** $\uparrow$ action potential duration
+**Results:** $\uparrow$ action potential duration, prolonged effective refractory period.
+
