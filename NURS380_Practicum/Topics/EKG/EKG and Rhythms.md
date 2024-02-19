@@ -179,15 +179,15 @@ digraph G {
 		style=filled;
 		color=lightgrey;
 		node [style=filled,color=white];
-		A [label="SA Node", xlabel="heart's\npacemaker"];
-		B [label="AV Node"];
+		A [label="SA Node", xlabel="heart's\npacemaker", shape=box];
+		B [label="AV Node", shape=box];
 		
 		A -> B [label="blah"];
 	}
 
 	subgraph cluster_1 {
 		label="Left Atrium";
-		C [label="]
+		C [label="Purkinje fibers", shape=box];
 	}
 	
 }
