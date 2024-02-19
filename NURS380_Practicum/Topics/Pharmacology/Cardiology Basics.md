@@ -20,5 +20,6 @@ digraph G {
 # Antiarrhythmics
 ## Amiodarone
 ```json
+Type
 
 ```
