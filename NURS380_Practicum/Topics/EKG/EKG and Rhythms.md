@@ -36,7 +36,7 @@
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
-| Regular or irregular (depends on AV conduction ratios) |  |  |  |  |
+| Regular or irregular (depends on AV conduction ratios) | - **Atrial Rate**: 250-400bpm<br>- **Ventricular Rate**: less | Sawtooth waves ("flutter waves") on  |  |  |
 ## Ventricular Tachycardia
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
