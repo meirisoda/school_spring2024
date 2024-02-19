@@ -36,7 +36,7 @@
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
-|  |  |  |  |  |
+| Regular or irregular (depends on AV conduction ratios) |  |  |  |  |
 ## Ventricular Tachycardia
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
@@ -62,4 +62,8 @@
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
 |  |  |  |  |  |
-## Paroxysmal Atrial Tachycardia (PAT)/
+## Paroxysmal Atrial Tachycardia (PAT)/Supraventricular Tachycardia (SVT)
+
+| Rhythm | Rate | P Waves | PR Interval | QRS Complex |
+| ---- | ---- | ---- | ---- | ---- |
+|  |  |  |  |  |
