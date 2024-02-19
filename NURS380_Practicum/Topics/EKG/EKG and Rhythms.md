@@ -178,6 +178,7 @@ digraph G {
 	newrank=true;
 	subgraph cluster_0{
 		rank=same;
+		rankdir=TB;
 		label="Right Atrium";
 		style=filled;
 		color=lightgrey;
