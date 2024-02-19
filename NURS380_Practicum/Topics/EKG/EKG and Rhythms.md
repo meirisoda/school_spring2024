@@ -1,3 +1,15 @@
+## NSR 
+
+| Rhythm | Rate | P Waves | PR Interval | QRS Complex |
+| ---- | ---- | ---- | ---- | ---- |
+|  |  |  |  |  |
+
+## Sinus Bradycardia
+
+| Rhythm | Rate | P Waves | PR Interval | QRS Complex |
+| ---- | ---- | ---- | ---- | ---- |
+|  |  |  |  |  |
+
 ## Sinus Tachycardia
 ![[Premature Atrial Contraction.png]]
 
@@ -36,6 +48,11 @@
 | ---- | ---- | ---- | ---- | ---- |
 |  |  |  |  |  |
 ## Ventricular Fibrillation
+
+| Rhythm | Rate | P Waves | PR Interval | QRS Complex |
+| ---- | ---- | ---- | ---- | ---- |
+|  |  |  |  |  |
+## Asystole
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
