@@ -7,7 +7,8 @@ digraph G {
 		node [style=filled,color=white];
 		A [label="Right atrium"];
 		B [label="SA node"];
-		C
+		C [label="AV node"];
+		D [label="]
 		A -> B -> C -> D -> F -> G;
 	}
 	start -> A;
