@@ -8,7 +8,9 @@ subgraph cluster_0 {
 	B [label="SA node"]
 	C [label="conduct an electrical signal to AV node"]
 	D [label="His & Purkinge fibers"]
-	E [label=ventricles -> ventricular contraction;
+	E [label="ventricles"]
+	F [label="ventricular contraction"]
+	A -> B -> C
 	label=Contraction
 }
 ```
