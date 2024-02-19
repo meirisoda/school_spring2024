@@ -145,7 +145,8 @@
 >If asymptomatic, usually no need for treatment
 >If frequent and symptomatic, antiarrhythmics and $\beta$-blockers, and CCBs
 ## Paroxysmal Atrial Tachycardia (PAT)/Supraventricular Tachycardia (SVT)
+![[Pasted image 20240219151550.png]]
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
-|  |  |  |  |  |
+| Regular | 140-250bpm | Abnormal (usually pointed), can be hidden in preceding T wiave |  |  |
