@@ -16,4 +16,5 @@
 >- CAD and hypertrophic cardiomyopathy
 >- Increased risk in px w/ MI, CHF, DM, COPD
 
-dd
+>[!tx]
+>- $\beta$-adrenergic block
