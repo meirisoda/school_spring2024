@@ -210,6 +210,11 @@ digraph G {
 digraph g{
 	rankdir = LR;
 	node [shape = none]
+	1 [label="Right Atrium"];
+	2 [label="x"];
+	3 [label="Left Atrium"];
+	
+	1->2->3[arrowhead=none]
 	
 	node [shape = ellipse]
 	
@@ -234,7 +239,6 @@ digraph g{
 	}
 	
 	{ rank=same; 1; A;}
-	{ rank=same; A2;}
 	{ rank=same; 4; A3;}
 }
 ```
