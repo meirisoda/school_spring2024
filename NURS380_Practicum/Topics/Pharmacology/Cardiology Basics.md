@@ -19,7 +19,5 @@ digraph G {
 ```
 # Antiarrhythmics
 ## Amiodarone
-```JSON
-Type: "Class III Anti"
-
-```
+**Type:** "Class III Antiarrhythmic"
+Results: 
