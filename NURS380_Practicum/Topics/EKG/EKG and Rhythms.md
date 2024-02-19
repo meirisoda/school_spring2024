@@ -187,6 +187,7 @@ digraph G {
 
 	subgraph cluster_1 {
 		label="Left Atrium";
+		C [label="]
 	}
 	
 }
