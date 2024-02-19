@@ -175,9 +175,9 @@
 ```dot
 digraph G {
 	subgraph_0{
+		label="Right Atrium";
 		style=filled;
 		color=lightgrey;
-		node=[style]
 		A [label="SA Node"];
 		B [label="AV Node"];
 	}
