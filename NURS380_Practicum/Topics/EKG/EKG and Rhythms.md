@@ -92,7 +92,9 @@
 >[!tx]
 >- control the rate (using CCBs or $\beta$-blockers)
 >- anticoagulation
->- 
+>- if unstable afib, cardioversion
+>- if episodic and tachycardic, amiodarone (not first line)
+
 ## Ventricular Fibrillation
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
