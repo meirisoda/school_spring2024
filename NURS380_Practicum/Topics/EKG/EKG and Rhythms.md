@@ -185,12 +185,13 @@ digraph G {
 		
 		A -> B [label="blah"];
 	}
-
+	subgraph cluster_1
 	subgraph cluster_1 {
 		label="Left Atrium";
 		node [style=filled, color=lightgrey];
 		C [label="Purkinje fibers", shape=box];
 	}
+
 	
 }
 ```
