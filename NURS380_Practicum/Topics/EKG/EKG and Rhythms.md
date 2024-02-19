@@ -36,12 +36,15 @@
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
-| Regular or irregular (depends on AV conduction ratios) | - **Atrial Rate**: 250-400bpm<br>- **Ventricular Rate**: less | Sawtooth waves ("flutter waves") on baseline | Not measurable | Normal |
+| Regular or irregular (depends on AV conduction ratios) | - **Atrial Rate**: 250-400bpm<br>- **Ventricular Rate**: less (counting QRS complexes) | Sawtooth waves ("flutter waves") on baseline | Not measurable | Normal |
 >[!Causes]
 >- HF
 >- Cardiac ischemia, myopathy
 >- Surgery
 >- Excessive drinking and stimulants
+
+>[!tx]
+>
 ## Ventricular Tachycardia
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
