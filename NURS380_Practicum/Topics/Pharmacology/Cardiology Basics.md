@@ -20,4 +20,5 @@ digraph G {
 # Antiarrhythmics
 ## Amiodarone
 **Type:** "Class III Antiarrhythmic"
-Results: 
+> inhibits
+**Results:** $\uparrow$ action potential duration
