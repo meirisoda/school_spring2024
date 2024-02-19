@@ -35,12 +35,12 @@ Typically treats CV diseases, but also more uncommon things like long QT syndrom
 ### Mechanism of Action
 ```dot
 digraph G {
-	A [label="beta-receptors", style=filled, color=lightgrey];
+	A [label="beta-receptors", style=filled, color=lightgrey, shape=diamond];
 	B [label="epinephrine"];
 	C [label="norepinephrine"];
 	D [label="renin"];
 	D1 [label="raises BP", shape=box];
-	E [label="lowers BP, HR, CO, renin, and oxygen demand", shape=box];
+	E [label="lowers BP, HR, CO, renin, and oxygen demand", style=filled, color=yellow, shape=box];
 	F [label="also lowers melatonin secretion", shape=box];
 
 	B -> A [label="binds to"];
