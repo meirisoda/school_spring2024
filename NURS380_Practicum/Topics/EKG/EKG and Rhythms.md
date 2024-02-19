@@ -185,7 +185,7 @@
 Can be seen in healthy patients; can be temp or chronic
 >[!tx]
 >Control HTN or DM 
->C
+>Coronary angioplasty if coronary arteries are blocked
 ### Left BBB
 Typically have to have chronic hypertensive heart disease
 >[!path]
@@ -193,9 +193,7 @@ Typically have to have chronic hypertensive heart disease
 
 >[!tx]
 >LBBB + syncope $\rightarrow$ pacemaker
->LBBB + prolonged QRS $\rightarrow$ biventricular pacemaker
- 
- 
+>LBBB + prolonged QRS $\rightarrow$ biventricular pacemaker 
 ## Junctional Rhythm
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
