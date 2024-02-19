@@ -14,4 +14,6 @@
 >- Triggered by atrial myocardium not originating in the SA node
 >- Can also be caused by $\beta$-agonists, digoxin, tricyclics, and potentially $\beta$-blockers
 >- CAD and hypertrophic cardiomyopathy
->- Increased risk in px w/ MI, C
+>- Increased risk in px w/ MI, CHF, DM, COPD
+
+dd
