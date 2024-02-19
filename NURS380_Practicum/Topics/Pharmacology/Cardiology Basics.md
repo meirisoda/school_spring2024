@@ -41,7 +41,7 @@ digraph G {
 	B [label="epinephrine"];
 	C [label="norepinephrine"];
 	D [label="renin"];
-	E [label="lowers BP, HR, CO, renin, and oxygen demand"];
+	E [label="lowers BP, HR, CO, renin, and oxygen demand", shape=box];
 
 	B -> A [label="binds to"];
 	C -> A
