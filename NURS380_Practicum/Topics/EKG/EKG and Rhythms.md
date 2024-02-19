@@ -187,7 +187,9 @@
 | ---- | ---- | ---- | ---- | ---- |
 |  |  |  |  |  |
 ## AV Heart Blocks
+### First Degree AV Block
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
 |  |  |  |  |  |
+### Second Degree AV Block
