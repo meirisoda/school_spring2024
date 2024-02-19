@@ -55,7 +55,7 @@
 | ---- | ---- | ---- | ---- | ---- |
 | Regular or slightly irregular | 140-250bpm (135-155 if vtach w/ pulse) | None | Not measurable | Wide (>12ms) |
 >[!path]
->Ca
+>Coordinated ventricular contractions are replaced by very rapid but ineffective contractions 
 ## Atrial Fibrillation
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
