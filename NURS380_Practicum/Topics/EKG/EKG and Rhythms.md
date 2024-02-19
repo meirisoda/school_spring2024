@@ -75,7 +75,8 @@
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
 | Irregular | - **Atrial Rate**: ~400bpm<br>- **Ventricular Rate**: Varies, but less than atrial rate | Irregular wave deflections on baseline | Not measurable | Normal |
-
+>[!path]
+>Abnormal electrical activity within the atria (irregular) $\rightarrow$ leads to turbulent and abnormal flow of blood through heart $$
 ## Ventricular Fibrillation
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
