@@ -74,7 +74,8 @@
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
-| Irregular | - **Atrial Rate**: ~400bpm<br>- **Ventricular Rate**: Varies, but less than atrial rate | Irregular wave deflections on basel |  |  |
+| Irregular | - **Atrial Rate**: ~400bpm<br>- **Ventricular Rate**: Varies, but less than atrial rate | Irregular wave deflections on baseline | Not measurable | Normal |
+
 ## Ventricular Fibrillation
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
