@@ -175,14 +175,12 @@
 ```dot
 digraph G {
 	rankdir=LR;
-	newrank=true;
 	subgraph cluster_0{
 		rank=same;
 		label="Right Atrium";
 		style=filled;
 		color=lightgrey;
 		node [style=filled,color=white];
-		orientation=L;
 		A [label="SA Node", xlabel="heart's\npacemaker", shape=box];
 		B [label="AV Node", shape=box];
 		
