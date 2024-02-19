@@ -50,3 +50,7 @@ digraph G {
 	A -> E -> F 
 }
 ```
+### Adverse Effects
+May cause bradycardia and hypotension
+(Not as common) bronchospasm, reduced circulation
+#### Increased Risk
