@@ -2,8 +2,8 @@
 ``` dot
 digraph G {
 	subgraph cluster_0 {
+		graph [center=true, linelength=50];
 		node [style=filled,color=grey];
-		center=true;
 		label="Contraction"
 		A [label="Right atrium"];
 		B [label="SA node"];
