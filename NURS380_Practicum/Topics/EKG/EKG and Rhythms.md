@@ -194,6 +194,12 @@ Typically have to have chronic hypertensive heart disease
 >[!tx]
 >LBBB + syncope $\rightarrow$ pacemaker
 >LBBB + prolonged QRS $\rightarrow$ biventricular pacemaker 
+## Idioventricular Rhythm (IVR)
+
+| Rhythm | Rate | P Waves | PR Interval | QRS Complex |
+| ---- | ---- | ---- | ---- | ---- |
+|  |  |  |  |  |
+
 ## Junctional Rhythm
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
