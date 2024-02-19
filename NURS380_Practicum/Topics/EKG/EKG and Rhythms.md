@@ -53,7 +53,9 @@
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
-| Regular or slightly irregular | 140-250bpm (135-155 if vtach w/) | None | Not measurable |  |
+| Regular or slightly irregular | 140-250bpm (135-155 if vtach w/ pulse) | None | Not measurable | Wide (>12ms) |
+>[!path]
+>Ca
 ## Atrial Fibrillation
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
