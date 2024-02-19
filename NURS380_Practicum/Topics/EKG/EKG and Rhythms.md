@@ -216,14 +216,12 @@ digraph g{
 	subgraph cluster0{
 		shape=rect;
 		rank=same;
-		rankdir=TB;
 		color=blue;
 		label="Right Atrium";
 		
 		A [label="SA node"];
 		B [label="AV node"];
 
-		A -> B
 	}
 	
 	subgraph cluster1{
@@ -243,7 +241,7 @@ digraph g{
 		A3;
 		B3;
 	}
-	
+{rank=same; A; B;}
 }
 ```
 
