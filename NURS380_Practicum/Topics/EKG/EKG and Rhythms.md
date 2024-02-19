@@ -211,7 +211,7 @@ digraph g{
 	rankdir = LR;
 	node [shape = ellipse]
 	
-	A->B->C;
+
 
 	subgraph cluster0{
 		shape=rect;
@@ -221,7 +221,8 @@ digraph g{
 		
 		A [label="SA node"];
 		A1 [label="AV node"];
-		A -> A1
+		
+		
 	}
 	
 	subgraph cluster1{
@@ -241,7 +242,6 @@ digraph g{
 		C;
 		C1;
 	}
-{rank=same; A; B;}
 }
 ```
 
