@@ -174,9 +174,9 @@
 ## Bundle Branch Block
 ```dot
 digraph G {
-	rank=same;
+	subgraph [rank=same];
 	subgraph cluster_0{
-		clusterrank=1;
+		rank=1;
 		label="Right Atrium";
 		style=filled;
 		color=lightgrey;
@@ -189,7 +189,7 @@ digraph G {
 	}
 	
 	subgraph cluster_1 {
-		clusterrank=1;
+		rank=1;
 		D0 [label="His bundle"];
 		D1 [label="Left Bundle Branch"];
 		D2 [label="Right Bundle Branch"];
