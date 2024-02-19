@@ -151,4 +151,5 @@
 | ---- | ---- | ---- | ---- | ---- |
 | Regular | 140-250bpm | Abnormal (usually pointed), can be hidden in preceding T wave | Usually not measurable | Normal |
 >[!path]
->Results from an electrolyte imbalance after
+>Results from an electrolyte imbalance after an action potential. 
+>Error occurs by a calcium influex (origins from another action potential) which causes depolarization. 
