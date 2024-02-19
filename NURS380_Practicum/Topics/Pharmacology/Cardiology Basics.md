@@ -32,3 +32,4 @@ $\uparrow$ action potential duration, prolonged effective refractory period.
 - Contraindicated in patients with: 2nd/3rd degree blocks w/out pacemakers, concurrent afib
 - Make sure to monitor electrolytes
 # $\beta$-blockers
+(-lol)
