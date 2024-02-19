@@ -174,9 +174,10 @@
 ## Bundle Branch Block
 ```dot
 digraph G {
-	rank=same;
+	rankdir=LR;
+	newrank=true;
 	subgraph cluster_0{
-		clusterrank=1;
+		rank=same;
 		label="Right Atrium";
 		style=filled;
 		color=lightgrey;
@@ -189,7 +190,7 @@ digraph G {
 	}
 	
 	subgraph cluster_1 {
-		clusterrank=1;
+		rank=same;
 		D0 [label="His bundle"];
 		D1 [label="Left Bundle Branch"];
 		D2 [label="Right Bundle Branch"];
@@ -198,6 +199,7 @@ digraph G {
 	}
 	
 	subgraph cluster_2 {
+		
 		label="Left Atrium";
 		node [style=filled, color=lightgrey];
 		C [label="Purkinje fibers", shape=box];
