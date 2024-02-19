@@ -58,4 +58,4 @@ Patients with asthma, or chronic bradycardia or hypotension
 ### Considerations
 >[!note]
 >Monitor BP and QT intervals
->Overdose antidote is gl
+>Overdose antidote is glucagon.
