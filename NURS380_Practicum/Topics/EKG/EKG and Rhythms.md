@@ -207,6 +207,10 @@ Typically have to have chronic hypertensive heart disease
 >[!tx]
 >Chronic IVR usually leads to asystole, so treat the asystole. 
 ## Junctional Rhythm
+![[Pasted image 20240219185013.png]]
+>[!path]
+
+
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
 |  |  |  |  |  |
