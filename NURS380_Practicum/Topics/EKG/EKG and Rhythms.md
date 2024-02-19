@@ -40,7 +40,7 @@
 >[!path]
 >Originates in the right atria
 
->[!Causes]
+>[!cause]
 >- HF, Cardiac ischemia, myopathy
 >- Surgery
 >- Excessive drinking and stimulants
@@ -59,7 +59,7 @@
 >Coordinated ventricular contractions are replaced by very rapid but ineffective contractions $\rightarrow$ decreased ventricular filling $\rightarrow$ dramatic decrease in CO $\rightarrow$ absent pulse $\rightarrow$ leads to decreased oxygenation
 >also AV dissociation
 
->[!Causes]
+>[!cause]
 >- Cardiac scarring
 >- Too many PVCs
 >- Electrolyte imbalances (hypokalemia, hypomagnesemia, hypocalcemia, hyperkalemia)
