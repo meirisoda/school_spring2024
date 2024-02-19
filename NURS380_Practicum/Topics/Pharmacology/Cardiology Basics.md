@@ -55,3 +55,7 @@ May cause bradycardia and hypotension
 (Not as common) bronchospasm, reduced circulation
 ### Contraindications
 Patients with asthma, or chronic bradycardia or hypotension
+### Considerations
+>[!note]
+>Monitor BP and QT intervals
+>Overdose antidote is gl
