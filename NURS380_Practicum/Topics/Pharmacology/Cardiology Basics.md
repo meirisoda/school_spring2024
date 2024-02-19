@@ -20,5 +20,6 @@ digraph G {
 # Antiarrhythmics
 ## Amiodarone
 **Type:** "Class III Antiarrhythmic"
-> inhibits
+> inhibits potassium receptor responsible 
+
 **Results:** $\uparrow$ action potential duration
