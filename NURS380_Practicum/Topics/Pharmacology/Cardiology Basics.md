@@ -39,8 +39,9 @@ digraph G {
 	B [label="epinephrine"];
 	C [label="norepinephrine"];
 	D [label="renin"];
+	D1 [label="raises BP]
 	E [label="lowers BP, HR, CO, renin, and oxygen demand", shape=box];
-	F [label="also lowers melatonin secretion"];
+	F [label="also lowers melatonin secretion", shape=box];
 
 	B -> A [label="binds to"];
 	C -> A
