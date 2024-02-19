@@ -37,7 +37,7 @@ Typically treats CV diseases, but also more uncommon things like long QT syndrom
 ### Mechanism of Action
 ```dot
 digraph G {
-	A [label="beta-receptors"];
+	A [label="beta-receptors", style=filled, color=li];
 	B [label="epinephrine"];
 	C [label="norepinephrine"];
 	D [label="renin"];
