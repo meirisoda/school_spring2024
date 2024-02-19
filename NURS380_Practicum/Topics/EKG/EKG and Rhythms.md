@@ -37,6 +37,9 @@
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
 | Regular or irregular (depends on AV conduction ratios) | - **Atrial Rate**: 250-400bpm<br>- **Ventricular Rate**: less (counting QRS complexes) | Sawtooth waves ("flutter waves") on baseline | Not measurable | Normal |
+>[!path]
+>Originates in the right atria
+
 >[!Causes]
 >- HF, Cardiac ischemia, myopathy
 >- Surgery
