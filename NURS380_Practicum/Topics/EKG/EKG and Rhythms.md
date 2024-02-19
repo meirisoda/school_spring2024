@@ -84,7 +84,12 @@
 >- chronic alcohol and drug use
 >- **Risk Factors**: age, HTN, congenital heart disease
 
->[]
+>[!sx]
+>- SOB and lightheadedness
+>- diaphoresis
+>- palpitations and tachycardia
+
+>[!tx]
 ## Ventricular Fibrillation
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
