@@ -129,7 +129,8 @@
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
-| Not a rhythm, but a single beat | Th |  |  |  |
+| Not a rhythm, but a single beat | Underyling rhythm | None associated with PVC | Underlying rhythm | Premature and wide (>12ms) |
+>[!]
 ## Paroxysmal Atrial Tachycardia (PAT)/Supraventricular Tachycardia (SVT)
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
