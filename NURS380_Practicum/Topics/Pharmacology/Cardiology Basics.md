@@ -38,6 +38,8 @@ Typically treats CV diseases, but also more uncommon things like long QT syndrom
 ```dot
 digraph G {
 	A [label="$beta$-receptors"];
-	B [label="]
+	B [label="epinephrine"];
+	C [label="norepinephrine"];
+	D [label="renin"];
 }
 ```
