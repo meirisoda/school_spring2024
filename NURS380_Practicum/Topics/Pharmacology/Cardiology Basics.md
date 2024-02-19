@@ -45,6 +45,7 @@ digraph G {
 
 	B -> A [label="binds to"];
 	C -> A
-	A ->
+	A -> D [label="also releases"];
+	A -> E 
 }
 ```
