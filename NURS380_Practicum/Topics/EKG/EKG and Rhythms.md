@@ -224,14 +224,14 @@ digraph g{
 		shape=rect;
 		rank=same;
 		A [label="SA node"];
-		A1 [label="]
+		B [label="AV node"];
 	}
 	
 	subgraph cluster1{
 		shape = rect;
 		rank=same;
 		A2;
-		B;
+		B2;
 		C;
 		color=blue;
 		label="C";
