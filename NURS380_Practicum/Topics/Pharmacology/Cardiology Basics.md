@@ -25,6 +25,8 @@ Inhibits potassium receptor responsible for repolarizing the heart $\rightarrow$
 ### Results
 $\uparrow$ action potential duration, prolonged effective refractory period.
 ### Administration
-| IV     | Oral    |
-| --- | --- |
-|     |     |
+| IV | Oral |
+| ---- | ---- |
+| 150mg/10min<br>1mg/min/6hrs |  |
+|  |  |
+
