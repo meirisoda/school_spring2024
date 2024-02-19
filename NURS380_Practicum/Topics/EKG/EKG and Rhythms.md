@@ -66,7 +66,8 @@
 >- SWAN placement, post CABG
 
 >[!tx]
->
+>Cardioversion if pulseless
+>IV vasopressors & antiarrythmics (such as amiodarone)
 ## Atrial Fibrillation
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
