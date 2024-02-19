@@ -149,4 +149,6 @@
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
-| Regular | 140-250bpm | Abnormal (usually pointed), can be hidden in preceding T wiave |  |  |
+| Regular | 140-250bpm | Abnormal (usually pointed), can be hidden in preceding T wave | Usually not measurable | Normal |
+>[!path]
+>Results from an electrolyte imbalance after
