@@ -220,7 +220,7 @@ digraph g{
 	
 	A->A2->A3;
 	
-	subgraph clusterCG{
+	subgraph cluster1{
 	shape = rect;
 	rank=same;
 	A2;
@@ -231,7 +231,7 @@ digraph g{
 	}
 	
 	{ rank=same; 1; A;}
-	{ rank=same; 3; CG;}
+	{ rank=same; 3;}
 	{ rank=same; 4; A3;}
 }
 ```
