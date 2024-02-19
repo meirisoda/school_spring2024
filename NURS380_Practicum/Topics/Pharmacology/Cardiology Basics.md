@@ -3,6 +3,7 @@
 digraph G {
 	subgraph cluster_0 {
 		graph [linelength=5];
+		orientation=
 		node [style=filled,color=grey];
 		label="Contraction"
 		A [label="Right atrium"];
@@ -12,7 +13,7 @@ digraph G {
 		E [label="Ventricles"];
 		F [label="Ventricular contraction", color="white"];
 		A -> B
-		B -> C [label="conducts an electrical signal"];
+		B -> C [label="conducts an\n electrical signal"];
 		C -> D -> E -> F;
 	}
 }
