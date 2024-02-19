@@ -174,6 +174,9 @@
 ## Bundle Branch Block
 ```dot
 digraph G {
-	A 
+	subgraph_0
+	A [label="SA Node"];
+	B [label="AV Node"];
+	
 }
 ```
