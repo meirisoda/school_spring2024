@@ -8,8 +8,9 @@ digraph G {
 		A [label="Right atrium"];
 		B [label="SA node"];
 		C [label="AV node"];
-		D [label="]
-		A -> B -> C -> D -> F -> G;
+		D [label="His&Purkinje fibers];
+		E [label="ventricles"];
+		A -> B -> C -> D -> E -> F;
 	}
 	start -> A;
 	a1 -> b3;
