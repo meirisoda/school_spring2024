@@ -62,6 +62,11 @@
 >- Cardiac scarring
 >- Too many PVCs
 >- Electrolyte imbalances (hypokalemia, hypomagnesemia, hypocalcemia, hyperkalemia)
+>- Cardiomyopathy
+>- SWAN placement, post CABG
+
+>[!tx]
+>
 ## Atrial Fibrillation
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
