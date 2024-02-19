@@ -22,6 +22,6 @@
 ## Atrial Flutter
 ![[Pasted image 20240218224039.png]]
 
-|     |     |
-| --- | --- |
-|     |     |
+| Rhythm | Rate | P Waves | PR Interval | QRS Complex |
+| ---- | ---- | ---- | ---- | ---- |
+|  |  |  |  |  |
