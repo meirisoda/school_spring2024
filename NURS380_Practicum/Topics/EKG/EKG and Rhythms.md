@@ -208,8 +208,11 @@ Typically have to have chronic hypertensive heart disease
 >Chronic IVR usually leads to asystole, so treat the asystole. 
 ## Junctional Rhythm
 ![[Pasted image 20240219185013.png]]
+
 >[!path]
->If SA node < AV node
+>If SA node < AV node, then the AV node becomes the pacemaker
+
+
 
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
