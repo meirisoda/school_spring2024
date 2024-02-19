@@ -44,7 +44,8 @@
 >- Excessive drinking and stimulants
 
 >[!tx]
->
+>- $\beta$-blockers
+>- cardioversion
 ## Ventricular Tachycardia
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
