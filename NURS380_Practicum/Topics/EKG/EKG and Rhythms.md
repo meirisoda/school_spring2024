@@ -120,7 +120,10 @@
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
-| If P waves are present, will have atrial rhythm | None | Will either have a P wave with no associated QRS complex or a straight one | Not measurable |  |
+| If P waves are present, will have atrial rhythm | None | Will either have a P wave with no associated QRS complex or a straight one | Not measurable | Absent |
+>[tx]
+>CPR
+>Epinephrine (check if fine vfib)
 ## Premature Ventricular Contraction (PVC)
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
