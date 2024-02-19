@@ -181,6 +181,7 @@
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
 | Regular | Rate of underlying rhythm | Sinus | Normal | Wide (>12ms) |
+### Right BBB
 ## Junctional Rhythm
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
