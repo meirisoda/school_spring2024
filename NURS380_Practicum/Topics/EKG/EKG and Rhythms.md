@@ -175,6 +175,7 @@
 ```dot
 digraph G {
 	rankdir=LR;
+	newrank=true;
 	subgraph cluster_0{
 		rank=same;
 		label="Right Atrium";
