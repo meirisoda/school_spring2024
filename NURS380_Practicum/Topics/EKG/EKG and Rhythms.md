@@ -182,7 +182,7 @@
 | ---- | ---- | ---- | ---- | ---- |
 | Regular | Rate of underlying rhythm | Sinus | Normal | Wide (>12ms) |
 ### Right BBB 
-Can be seen in healthy patients
+Can be seen in healthy patients; can be temp or chronic
 ## Junctional Rhythm
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
