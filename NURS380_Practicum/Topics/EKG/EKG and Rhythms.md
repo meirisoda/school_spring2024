@@ -106,7 +106,11 @@
 
 >[!cause]
 >- **Myocardial Ischemia**
->- Cardiac my
+>- Cardiac myopathy
+>- Electrolyte imbalances (hyper and hypokalemia, hypomagnesemia)
+>- Electricution accidents
+>- Actual physical injury to the heart
+>Can occur sy
 ## Asystole
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
