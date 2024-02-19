@@ -221,7 +221,7 @@ digraph g{
 		
 		A [label="SA node"];
 		B [label="AV node"];
-
+		A -> B
 	}
 	
 	subgraph cluster1{
