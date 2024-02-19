@@ -212,12 +212,9 @@ Typically have to have chronic hypertensive heart disease
 >[!path]
 >If SA node < AV node, then the AV node becomes the pacemaker
 
-
-
-
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
-|  |  |  |  |  |
+| Regular | 40bpm<br>Accelerated 60-100bpm | Inverted before QRS |  |  |
 ## AV Heart Blocks
 ### First Degree AV Block
 
