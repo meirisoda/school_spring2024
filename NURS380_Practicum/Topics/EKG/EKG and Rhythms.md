@@ -199,7 +199,7 @@ digraph G {
 	}
 	
 	subgraph cluster_2 {
-		
+		rank=same;
 		label="Left Atrium";
 		node [style=filled, color=lightgrey];
 		C [label="Purkinje fibers", shape=box];
