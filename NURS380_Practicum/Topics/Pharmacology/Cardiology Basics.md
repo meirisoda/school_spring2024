@@ -2,9 +2,7 @@
 ``` dot
 digraph G {
 	subgraph cluster_0 {
-		style=filled;
-		color=lightgrey;
-		node [style=filled,color=white];
+		node [style=filled,color=grey];
 		A [label="Right atrium"];
 		B [label="SA node"];
 		C [label="AV node"];
@@ -12,10 +10,6 @@ digraph G {
 		E [label="ventricles"];
 		A -> B -> C -> D -> E;
 	}
-	start -> A;
-	E -> end;
-	start [label=Contraction, shape=diamond];
-	end [label="Ventricular contraction", shape=diamond];
 }
 ```
 # Antiarrhythmics
