@@ -200,6 +200,6 @@ digraph G {
 		C [label="Purkinje fibers", shape=box];
 	}
 
-	
+	B -> D0
 }
 ```
