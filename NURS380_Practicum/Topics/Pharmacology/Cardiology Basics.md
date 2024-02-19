@@ -15,7 +15,7 @@ digraph G {
 	a3 -> a0;
 	a3 -> end;
 	b3 -> end;
-	start [label=Contraction, shape=];
+	start [label=Contraction, shape=diamond];
 	end [shape=Msquare];
 }
 ```
