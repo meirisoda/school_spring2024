@@ -99,7 +99,7 @@
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
-| Irregular |  |  |  |  |
+| Irregular | Not measurable (anywhere between 150 and 500) | Absent | Not measurable | Absent |
 ## Asystole
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
