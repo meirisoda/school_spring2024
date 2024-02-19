@@ -57,3 +57,9 @@
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
 |  |  |  |  |  |
+## Premature Ventricular Contraction (PVC)
+
+| Rhythm | Rate | P Waves | PR Interval | QRS Complex |
+| ---- | ---- | ---- | ---- | ---- |
+|  |  |  |  |  |
+## Paroxysmal Atrial Tachycardia (PAT)/
