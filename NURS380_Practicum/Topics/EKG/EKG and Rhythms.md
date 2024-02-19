@@ -114,6 +114,9 @@
 
 >[!tx]
 >CPR
+>epinephrine
+>defribrilation (if no effect, administer epinephrine and amiodarone)
+
 ## Asystole
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
