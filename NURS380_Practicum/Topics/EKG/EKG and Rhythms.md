@@ -25,3 +25,18 @@
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
 |  |  |  |  |  |
+## Ventricular Tachycardia
+
+| Rhythm | Rate | P Waves | PR Interval | QRS Complex |
+| ---- | ---- | ---- | ---- | ---- |
+|  |  |  |  |  |
+## Atrial Fibrillation
+
+| Rhythm | Rate | P Waves | PR Interval | QRS Complex |
+| ---- | ---- | ---- | ---- | ---- |
+|  |  |  |  |  |
+## Ventricular Fibrillation
+
+| Rhythm | Rate | P Waves | PR Interval | QRS Complex |
+| ---- | ---- | ---- | ---- | ---- |
+|  |  |  |  |  |
