@@ -172,4 +172,5 @@
 
 # Advanced Rhythms
 ## Bundle Branch Block
-SA node $\rightarrow$ AV nod
+SA node $\rightarrow$ AV node $\rightarrow$ bundle of His $\rightarrow$ left & right bundles
+> If one is blocked, the not blocked one will depolarize first, cus
