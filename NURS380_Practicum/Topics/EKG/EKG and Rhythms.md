@@ -174,7 +174,7 @@
 ## Bundle Branch Block
 ```dot
 digraph G {
-	subgraph [rank=same
+	rank=same;
 	subgraph cluster_0{
 		label="Right Atrium";
 		style=filled;
