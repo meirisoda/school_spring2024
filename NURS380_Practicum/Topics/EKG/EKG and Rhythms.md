@@ -102,7 +102,11 @@
 | ---- | ---- | ---- | ---- | ---- |
 | Irregular | Not measurable (anywhere between 150 and 500) | Absent | Not measurable | Absent |
 >[!path]
->When ventricular myocardium depolarizes
+>When ventricular myocardium depolarizes erratically
+
+>[!cause]
+>- **Myocardial Ischemia**
+>- Cardiac my
 ## Asystole
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
