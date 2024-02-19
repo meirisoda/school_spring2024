@@ -21,7 +21,7 @@
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
-| single beat | - | - premature<br>- abnormal in size, shape and direction | - | - Premature<br>- normal duration (6-10ms) |
+| single beat | Of underlying rhythm | - premature<br>- abnormal in size, shape and direction | Of underlying rhythm | - Premature<br>- normal duration (6-10ms) |
 >[!causes]
 >- Triggered by atrial myocardium not originating in the SA node
 >- Can also be caused by $\beta$-agonists, digoxin, tricyclics, and potentially $\beta$-blockers
@@ -36,7 +36,7 @@
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
-| Regular or irregular (depends on AV conduction ratios) | - **Atrial Rate**: 250-400bpm<br>- **Ventricular Rate**: less | Sawtooth waves ("flutter waves") on  |  |  |
+| Regular or irregular (depends on AV conduction ratios) | - **Atrial Rate**: 250-400bpm<br>- **Ventricular Rate**: less | Sawtooth waves ("flutter waves") on baseline | Not measurable | Normal |
 ## Ventricular Tachycardia
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
