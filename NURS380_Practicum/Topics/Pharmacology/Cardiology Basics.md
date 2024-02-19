@@ -35,3 +35,8 @@ $\uparrow$ action potential duration, prolonged effective refractory period.
 (-lol)
 Typically treats CV diseases, but also more uncommon things like long QT syndrome, hypertophic obstructive cardiomyopathy. 
 ### Mechanism of Action
+```dot
+digraph G {
+	graph
+}
+```
