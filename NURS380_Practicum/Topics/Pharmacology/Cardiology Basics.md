@@ -15,7 +15,7 @@ digraph G {
 	start -> A;
 	E -> end;
 	start [label=Contraction, shape=diamond];
-	end [shape=Msquare];
+	end [label="Ventricular contraction", shape=diamond];
 }
 ```
 # Antiarrhythmics
