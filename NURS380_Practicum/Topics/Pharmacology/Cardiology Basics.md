@@ -3,7 +3,6 @@
 digraph G {
 	subgraph cluster_0 {
 		graph [linelength=5];
-		orientation=
 		node [style=filled,color=grey];
 		label="Contraction"
 		A [label="Right atrium"];
