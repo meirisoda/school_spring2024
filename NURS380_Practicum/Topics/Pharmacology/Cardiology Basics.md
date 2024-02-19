@@ -5,7 +5,7 @@ digraph G {
 		style=filled;
 		color=lightgrey;
 		node [style=filled,color=white];
-		A [label=Right atrium];
+		A [label="Right atrium"];
 		A -> a1 -> a2 -> a3;
 		label = "process #1";
 	}
