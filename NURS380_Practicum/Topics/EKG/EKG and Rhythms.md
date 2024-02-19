@@ -90,6 +90,9 @@
 >- palpitations and tachycardia
 
 >[!tx]
+>- control the rate (using CCBs or $\beta$-blockers)
+>- anticoagulation
+>- 
 ## Ventricular Fibrillation
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
