@@ -5,11 +5,11 @@
 |  |  |  |  |  |
 
 ## Sinus Bradycardia
+![[Pasted image 20240219001339.png]]
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
-|  |  |  |  |  |
-
+| Regular |  |  |  |  |
 ## Sinus Tachycardia
 ![[Premature Atrial Contraction.png]]
 
