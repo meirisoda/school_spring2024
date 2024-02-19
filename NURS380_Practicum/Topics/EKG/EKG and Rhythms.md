@@ -178,8 +178,9 @@ digraph G {
 		label="Right Atrium";
 		style=filled;
 		color=lightgrey;
-		node=[style=filled, color=white];
-		A [label="SA Node", xlabel="heart];
+		forcelabels=true;
+		node=[style=filled,color=white];
+		A [label="SA Node", label="heart's pacemaker"];
 		B [label="AV Node"];
 		
 		A -> B [label]
