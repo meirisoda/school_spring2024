@@ -41,6 +41,8 @@ digraph G {
 	B [label="epinephrine"];
 	C [label="norepinephrine"];
 	D [label="renin"];
-	E [label="l]
+	E [label="lowers BP, HR, CO, renin, and oxygen demand"];
+
+	A 
 }
 ```
