@@ -60,6 +60,8 @@
 
 >[!Causes]
 >- Cardiac scarring
+>- Too many PVCs
+>- Electrolyte imbalances (hypokalemia, hypomagnesemia, hypocalcemia, hyperkalemia)
 ## Atrial Fibrillation
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
