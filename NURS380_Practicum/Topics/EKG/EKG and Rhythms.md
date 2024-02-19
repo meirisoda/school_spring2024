@@ -175,6 +175,7 @@
 ```dot
 digraph G {
 	rankdir=LR;
+	newrank=true;
 	subgraph cluster_0{
 		rank=same;
 		label="Right Atrium";
@@ -212,7 +213,7 @@ digraph g{
 	node [shape = ellipse]
 	
 	A1->B
-	B2->C 
+	B2->C
 
 	subgraph cluster0{
 		shape=rect;
