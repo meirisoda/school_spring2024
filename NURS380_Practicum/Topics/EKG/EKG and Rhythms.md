@@ -1,3 +1,4 @@
+![[Cardiology Basics#Pathophysiology]]
 ## NSR 
 ![[Pasted image 20240219003045.png]]
 
