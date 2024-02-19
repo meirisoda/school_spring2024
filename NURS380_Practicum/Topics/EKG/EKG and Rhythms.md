@@ -174,13 +174,15 @@
 ## Bundle Branch Block
 ```dot
 digraph G {
-	subgraph_0{
+	subgraph cluster_0{
 		label="Right Atrium";
 		style=filled;
 		color=lightgrey;
 		A [label="SA Node"];
 		B [label="AV Node"];
 	}
+
+
 	
 }
 ```
