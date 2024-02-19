@@ -9,8 +9,10 @@ digraph G {
 		C [label="AV node"];
 		D [label="His&Purkinje fibers"];
 		E [label="Ventricles"];
-		F [label="Ventricular contraction", color="white"]
-		A -> B -> C -> D -> E -> F;
+		F [label="Ventricular contraction", color="white"];
+		A -> B
+		B -> C [label="conducts an electrical signal"];
+		C -> D -> E -> F;
 	}
 }
 ```
