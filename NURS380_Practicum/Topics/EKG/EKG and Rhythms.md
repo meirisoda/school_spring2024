@@ -228,11 +228,15 @@ digraph g{
 		B2;
 		C;
 		color=blue;
-		label="C";
+		label="";
+	}
+
+	subgraph cluster2 {
+		shape 
+	
 	}
 	
 	{ rank=same; A; }
-	{rank=same; }
 	{ rank=same; A3;}
 }
 ```
