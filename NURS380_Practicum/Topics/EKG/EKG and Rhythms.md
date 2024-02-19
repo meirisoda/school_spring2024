@@ -125,10 +125,11 @@
 >CPR
 >Epinephrine (check if fine vfib)
 ## Premature Ventricular Contraction (PVC)
+![[Pasted image 20240219003148.png]]
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
 | ---- | ---- | ---- | ---- | ---- |
-|  |  |  |  |  |
+| Not a rhythm, but a single beat | Th |  |  |  |
 ## Paroxysmal Atrial Tachycardia (PAT)/Supraventricular Tachycardia (SVT)
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
