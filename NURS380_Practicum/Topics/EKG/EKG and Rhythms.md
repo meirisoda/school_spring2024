@@ -209,6 +209,7 @@ Typically have to have chronic hypertensive heart disease
 ## Junctional Rhythm
 ![[Pasted image 20240219185013.png]]
 >[!path]
+>If SA node < AV node
 
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
