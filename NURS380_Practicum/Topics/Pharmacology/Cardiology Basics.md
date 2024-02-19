@@ -10,7 +10,7 @@ subgraph cluster_0 {
 	D [label="His & Purkinge fibers"]
 	E [label="ventricles"]
 	F [label="ventricular contraction"]
-	A -> B -> C
+	A -> B -> C -> D -> E -> F
 	label=Contraction
 }
 ```
