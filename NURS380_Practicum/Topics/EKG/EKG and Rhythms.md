@@ -183,13 +183,17 @@
 | Regular | Rate of underlying rhythm | Sinus | Normal | Wide (>12ms) |
 ### Right BBB 
 Can be seen in healthy patients; can be temp or chronic
+>[!tx]
+>Control HTN or DM 
+>C
 ### Left BBB
 Typically have to have chronic hypertensive heart disease
 >[!path]
 >Takes longer than normal for the left ventricle to fully depolarize
 
 >[!tx]
->LBBB + syncope $\rightarrow$ 
+>LBBB + syncope $\rightarrow$ pacemaker
+>LBBB + prolonged QRS $\rightarrow$ biventricular pacemaker
  
  
 ## Junctional Rhythm
