@@ -38,8 +38,7 @@
 | ---- | ---- | ---- | ---- | ---- |
 | Regular or irregular (depends on AV conduction ratios) | - **Atrial Rate**: 250-400bpm<br>- **Ventricular Rate**: less (counting QRS complexes) | Sawtooth waves ("flutter waves") on baseline | Not measurable | Normal |
 >[!Causes]
->- HF
->- Cardiac ischemia, myopathy
+>- HF, Cardiac ischemia, myopathy
 >- Surgery
 >- Excessive drinking and stimulants
 
