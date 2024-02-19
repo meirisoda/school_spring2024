@@ -3,6 +3,7 @@
 digraph G {
 	subgraph cluster_0 {
 		node [style=filled,color=grey];
+		center=
 		label="Contraction"
 		A [label="Right atrium"];
 		B [label="SA node"];
