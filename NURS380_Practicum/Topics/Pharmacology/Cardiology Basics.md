@@ -1,6 +1,6 @@
 # Pathophysiology
-Right 
->>> import graphviz
->>> 
+``` dot
+
+```
 # Antiarrhythmics
 ## Amiodarone
