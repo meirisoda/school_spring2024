@@ -1,5 +1,7 @@
 # Fibrinolytics
 -ace 
+Promotes fibrin dissolution
+## Uses
 
 # Antiarrhythmics
 ## Amiodarone
