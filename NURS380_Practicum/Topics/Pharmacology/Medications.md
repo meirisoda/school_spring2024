@@ -23,7 +23,9 @@ Prevent clot formation
 ### Unfractionated heparin (UFH)
 - Can only be given IV
 - Indicated for ACS, venous thromboembolism, PCIs and patients who have received fibrinolytic therapy
-- Narrow therapeutic range, increased bleeding ris
+- Narrow therapeutic range, increased bleeding risk, HIT and monitoring.
+### Low Molecular Weight Heparin (LMWH)
+- ie. 
 # Antiarrhythmics
 ### Amiodarone
 #### Type
