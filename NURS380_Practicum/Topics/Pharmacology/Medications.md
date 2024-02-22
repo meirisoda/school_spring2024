@@ -37,7 +37,7 @@ Prevent clot formation
 - Dosage based on aPTT results or ACT (activated clotting time)
 ## Important Medications
 ### Warfarin
-Oral chronic anti
+Oral chronic anticoagulation therapy
 # Antiarrhythmics
 ### Amiodarone
 #### Type
