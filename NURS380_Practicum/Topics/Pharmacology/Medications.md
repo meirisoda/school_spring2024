@@ -38,6 +38,8 @@ Prevent clot formation
 ## Important Medications
 ### Warfarin
 Oral chronic anticoagulation therapy
+Interferes with Vitamin K synthesis (vitamin)
+
 # Antiarrhythmics
 ### Amiodarone
 #### Type
