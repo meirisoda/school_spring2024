@@ -7,7 +7,8 @@ Promotes fibrin dissolution
 - Pulmonary embolism
 - Occlusioin of indwelling catheters, intracardiac thrombus formation
 ## Contraindications
-Hemorrhage, low 
+- Hemorrhage
+- Low platelet count
 # Antiarrhythmics
 ### Amiodarone
 #### Type
