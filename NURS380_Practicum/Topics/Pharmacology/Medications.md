@@ -2,7 +2,7 @@
 -ace 
 Promotes fibrin dissolution
 **Alteplase** - short half-life -- give over IV
-**Tenecteplase, Reteplase**
+**Tenecteplase, Reteplase** - longer half-lives, so can give as bolus over 5 min
 ## Uses
 - STEMI/AMI
 - DVT
