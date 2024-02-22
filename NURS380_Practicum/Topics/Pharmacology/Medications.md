@@ -27,6 +27,7 @@ Prevent clot formation
 - **Contraindications:** if there is a noticable decrease in platelet count after receiving heparin
 ### Low Molecular Weight Heparin (LMWH)
 - ie. Lovenox
+- Derived from UFH; indicated for **unstable angina**
 # Antiarrhythmics
 ### Amiodarone
 #### Type
