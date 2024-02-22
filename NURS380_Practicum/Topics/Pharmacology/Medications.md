@@ -9,17 +9,17 @@ Promotes fibrin dissolution
 ## Contraindications
 
 # Antiarrhythmics
-## Amiodarone
-### Type
+### Examples
+#### Type
 Class III Antiarrhythmic
 Inhibits potassium receptor responsible for repolarizing the heart $\rightarrow$ $K^+$ CCB effect
-### Results
+#### Results
 $\uparrow$ action potential duration, prolonged effective refractory period.
-### Administration
+#### Administration
 | IV | Oral |
 | ---- | ---- |
 | 150mg/10min<br>1mg/min/6hrs<br>0.5mg/min/18hrs | 800-1600mg/daily |
-### Considerations
+#### Considerations
 - Contraindicated in patients with: 2nd/3rd degree blocks w/out pacemakers, concurrent afib
 - Make sure to monitor electrolytes
 # $\beta$-blockers
