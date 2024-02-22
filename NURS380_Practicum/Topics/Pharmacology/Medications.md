@@ -24,7 +24,7 @@ Prevent clot formation
 - Can only be given IV
 - Indicated for ACS, venous thromboembolism, PCIs and patients who have received fibrinolytic therapy
 - **Risks:** Narrow therapeutic range, increased bleeding risk, HIT and monitoring.
-- **Contraindications:** if there is a noticable decrease in platelet count
+- **Contraindications:** if there is a noticable decrease in platelet count after receiving heparin
 ### Low Molecular Weight Heparin (LMWH)
 - ie. Lovenox
 # Antiarrhythmics
