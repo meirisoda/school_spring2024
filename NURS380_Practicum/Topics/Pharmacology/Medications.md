@@ -1,6 +1,8 @@
 # Fibrinolytics
 -ace 
 Promotes fibrin dissolution
+**Alteplase** - short half-life -- give over IV
+**Tenecteplase, Reteplase**
 ## Uses
 - STEMI/AMI
 - DVT
