@@ -5,7 +5,7 @@ Promotes fibrin dissolution
 - STEMI/AMI
 - DVT
 - Pulmonary embolism
-- Occlusioin of indwelling catheters, intra
+- Occlusioin of indwelling catheters, intracardiac thrombus formation
 # Antiarrhythmics
 ## Amiodarone
 ### Type
