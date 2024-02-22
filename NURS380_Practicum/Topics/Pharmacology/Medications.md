@@ -9,6 +9,9 @@ Promotes fibrin dissolution
 ## Contraindications
 - Hemorrhage
 - Low platelet count
+- Recent surgical procedure or trauma
+## Nursing Management
+- Check baseline labs (platelets, )
 # Antiarrhythmics
 ### Amiodarone
 #### Type
