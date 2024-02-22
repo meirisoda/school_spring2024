@@ -42,7 +42,8 @@ Interferes with Vitamin K synthesis (vitamin K becomes the reversal agent)
 #### Indications
 Heart failure, prosthetic valves, post AMI anticoagulation, VTE, cardiomyopathy
 #### Contraindications
-Uncontrolled hypertension, severe hepati
+Uncontrolled hypertension, severe hepatic or renal impairment
+
 
 # Antiarrhythmics
 ### Amiodarone
