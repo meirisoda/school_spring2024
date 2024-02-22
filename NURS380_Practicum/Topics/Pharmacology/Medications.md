@@ -29,7 +29,8 @@ Prevent clot formation
 - ie. Lovenox
 - Derived from UFH; indicated for **unstable angina, NSTEMI, DVT**
 - Longer half-life, predictable effects, administered subQ
-- **Adverse Effects:** bleeding, thrombocytopenia, elev
+- **Adverse Effects:** bleeding, thrombocytopenia, elevated liver enzymes, injection site complications
+- Usually given when needing heparin therapy to take home
 # Antiarrhythmics
 ### Amiodarone
 #### Type
