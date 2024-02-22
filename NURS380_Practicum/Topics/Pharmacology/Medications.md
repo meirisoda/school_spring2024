@@ -41,6 +41,8 @@ Oral chronic anticoagulation therapy
 Interferes with Vitamin K synthesis (vitamin K becomes the reversal agent)
 #### Indications
 Heart failure, prosthetic valves, post AMI anticoagulation, VTE, cardiomyopathy
+#### Contraindications
+Uncontrolled hypertension, severe hepati
 
 # Antiarrhythmics
 ### Amiodarone
