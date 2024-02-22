@@ -17,6 +17,9 @@ Promotes fibrin dissolution
 - Vitals q15/2hrs $\rightarrow$ q30/2hrs
 - Frequent neuro checks
 - Watch for s/s of bleeding (check skin integrity)
+# Anticoagulants
+## Types
+### Unfractionated heparin ()
 # Antiarrhythmics
 ### Amiodarone
 #### Type
