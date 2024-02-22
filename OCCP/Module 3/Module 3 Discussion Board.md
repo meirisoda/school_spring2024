@@ -5,4 +5,4 @@ Each team member should first individually describe a situation where you person
 ### B
 Next, each student on your team should respond to at least one other student's post. In your response, you should offer potential strategies to address one or more of the issues raised in the situation. You should use at least one strategy from Greer’s work and explain why you think your strategy would be an appropriate approach.
 ## Response
-During my clinicals my freshman year, I was in a group in whi
+During my clinicals my freshman year, I was in a clinical group of which majority were friends and very close to each other. 
