@@ -7,3 +7,5 @@ Next, each student on your team should respond to at least one other student's p
 ## Response
 During my clinicals my freshman year, I was in a clinical group of which majority were friends and very close to each other. Those students were also quite close with the clinical instructor, whereas a couple of the group members were not [close with the group nor the instructor]. It ended up being so that it became an environment in which the students that were closer to the professor were permitted to ask 
 Even though this was never explicitly said out loud, it became an environment that 
+
+There ended up 
