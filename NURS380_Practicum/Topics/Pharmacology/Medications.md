@@ -38,7 +38,9 @@ Prevent clot formation
 ## Important Medications
 ### Warfarin
 Oral chronic anticoagulation therapy
-Interferes with Vitamin K synthesis (vitamin)
+Interferes with Vitamin K synthesis (vitamin K becomes the reversal agent)
+#### Indications
+Hear
 
 # Antiarrhythmics
 ### Amiodarone
