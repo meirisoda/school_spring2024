@@ -6,6 +6,8 @@ Promotes fibrin dissolution
 - DVT
 - Pulmonary embolism
 - Occlusioin of indwelling catheters, intracardiac thrombus formation
+## Contraindications
+
 # Antiarrhythmics
 ## Amiodarone
 ### Type
