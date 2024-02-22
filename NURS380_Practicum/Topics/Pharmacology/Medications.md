@@ -2,7 +2,10 @@
 -ace 
 Promotes fibrin dissolution
 ## Uses
-
+- STEMI/AMI
+- DVT
+- Pulmonary embolism
+- Occlusioin of indwelling catheters, intra
 # Antiarrhythmics
 ## Amiodarone
 ### Type
