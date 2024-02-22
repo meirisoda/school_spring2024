@@ -20,6 +20,7 @@ Promotes fibrin dissolution
 # Anticoagulants
 ## Types
 Prevent clot formation
+![[Review#PT]]
 ### Unfractionated Heparin (UFH)
 - Can only be given IV
 - Indicated for ACS, venous thromboembolism, PCIs and patients who have received fibrinolytic therapy
