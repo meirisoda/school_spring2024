@@ -20,12 +20,12 @@ Promotes fibrin dissolution
 # Anticoagulants
 ## Types
 Prevent clot formation
-### Unfractionated heparin (UFH)
+### Unfractionated Heparin (UFH)
 - Can only be given IV
 - Indicated for ACS, venous thromboembolism, PCIs and patients who have received fibrinolytic therapy
-- Narrow therapeutic range, increased bleeding risk, HIT and monitoring.
+- **Risks: Narrow** therapeutic range, increased bleeding risk, HIT and monitoring.
 ### Low Molecular Weight Heparin (LMWH)
-- ie. 
+- ie. Lovenox
 # Antiarrhythmics
 ### Amiodarone
 #### Type
