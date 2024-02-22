@@ -1,4 +1,19 @@
-![[Cardiology Basics#Pathophysiology]]
+``` dot
+digraph G {
+	graph [linelength=5];
+	node [style=filled,color=grey];
+	label="Contraction"
+	A [label="Right atrium"];
+	B [label="SA node"];
+	C [label="AV node"];
+	D [label="His & Purkinje fibers"];
+	E [label="Ventricles"];
+	F [label="Ventricular contraction", color="white"];
+	A -> B
+	B -> C [label="conducts an\n electrical signal"];
+	C -> D -> E -> F;
+}
+```
 # Common Rhythms
 ## NSR 
 ![[Pasted image 20240219003045.png]]
