@@ -11,7 +11,8 @@ Promotes fibrin dissolution
 - Low platelet count
 - Recent surgical procedure or trauma
 ## Nursing Management
-- Check baseline labs (platelets, )
+- Check baseline labs (platelets, clotting times ie. PT/INR)
+- Vitals q15/2hrs $\rightarrow$ q30/2hr
 # Antiarrhythmics
 ### Amiodarone
 #### Type
