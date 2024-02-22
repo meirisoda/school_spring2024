@@ -9,7 +9,7 @@ Promotes fibrin dissolution
 ## Contraindications
 
 # Antiarrhythmics
-### Examples
+### Amiodarone
 #### Type
 Class III Antiarrhythmic
 Inhibits potassium receptor responsible for repolarizing the heart $\rightarrow$ $K^+$ CCB effect
