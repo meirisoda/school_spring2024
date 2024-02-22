@@ -42,7 +42,7 @@ Interferes with Vitamin K synthesis (vitamin K becomes the reversal agent)
 #### Indications
 Heart failure, prosthetic valves, post AMI anticoagulation, VTE, cardiomyopathy
 #### Contraindications
-Uncontrolled hypertension, severe hepatic or renal impairment
+Uncontrolled hypertension, severe hepatic or renal impairment, if px is going to surgery soon
 
 
 # Antiarrhythmics
