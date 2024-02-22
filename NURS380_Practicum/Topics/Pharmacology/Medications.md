@@ -35,7 +35,9 @@ Prevent clot formation
 - ie. Angiomax, argatroban (typically given IV)
 - Used in patients who have a history of HIT and are undergoing PCI
 - Dosage based on aPTT results or ACT (activated clotting time)
-## 
+## Important Medications
+### Warfarin
+Oral chronic anti
 # Antiarrhythmics
 ### Amiodarone
 #### Type
