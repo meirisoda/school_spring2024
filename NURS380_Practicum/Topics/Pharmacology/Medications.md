@@ -19,7 +19,9 @@ Promotes fibrin dissolution
 - Watch for s/s of bleeding (check skin integrity)
 # Anticoagulants
 ## Types
-### Unfractionated heparin ()
+### Unfractionated heparin (UFH)
+- Can only be given IV
+- Indicated for ACS, venous thromboembolism, PCIs and patients who have received fibrinolytic 
 # Antiarrhythmics
 ### Amiodarone
 #### Type
