@@ -31,6 +31,8 @@ Prevent clot formation
 - Longer half-life, predictable effects, administered subQ
 - **Adverse Effects:** bleeding, thrombocytopenia, elevated liver enzymes, injection site complications
 - Usually given when needing heparin therapy to take home
+### Direct thrombin inhibitors
+
 # Antiarrhythmics
 ### Amiodarone
 #### Type
