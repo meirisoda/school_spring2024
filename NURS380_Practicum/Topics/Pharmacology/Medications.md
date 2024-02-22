@@ -12,7 +12,9 @@ Promotes fibrin dissolution
 - Recent surgical procedure or trauma
 ## Nursing Management
 - Check baseline labs (platelets, clotting times ie. PT/INR)
-- Vitals q15/2hrs $\rightarrow$ q30/2hr
+- Vitals q15/2hrs $\rightarrow$ q30/2hrs
+- Frequent neuro checks
+- Watch for s/s of bleeding (check skin integrity)
 # Antiarrhythmics
 ### Amiodarone
 #### Type
