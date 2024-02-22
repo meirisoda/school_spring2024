@@ -32,7 +32,10 @@ Prevent clot formation
 - **Adverse Effects:** bleeding, thrombocytopenia, elevated liver enzymes, injection site complications
 - Usually given when needing heparin therapy to take home
 ### Direct thrombin inhibitors
-
+- ie. Angiomax, argatroban (typically given IV)
+- Used in patients who have a history of HIT and are undergoing PCI
+- Dosage based on aPTT results or ACT (activated clotting time)
+## 
 # Antiarrhythmics
 ### Amiodarone
 #### Type
