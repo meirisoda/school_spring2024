@@ -22,3 +22,4 @@ There are several ethical issues specifically surrounding the military, which in
 The neurorights of the soldiers obviously have to be taken into account. Neurorights refer to "the right to cognitive liberty, the right to mental privacy, the right to mental integrity and the right to psychological continuity". This can be brought back to the topic of Neuralink, as well as the future landscape of the industry. Once these technologies become more commonplace, BCIs (on their own) provide a new method for data collection and behavioral control. Neuralink seeks to give people a method of communication, which involves a bidirectional BCI. 
 ### Subject Interview and Discussion
 February 22, 2024 2:50pm SH Physical Therapist
+The person I discussed this with is a physical therapist, somebody who works with people with impairments on the daily. 
