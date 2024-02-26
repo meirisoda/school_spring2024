@@ -18,6 +18,6 @@ I've been quite interested in Neuralink since it's announcement, and I believe t
 When people are presented with the idea of an implantable chip in your brain that can control your body and outside devices, there are typically two reactions: wonder and concern. 
 One is wonder at the possibility of how these devices can positively impact peoples' lives. Both invasive and non-invasive devices have been used in therapeutic contexts for long periods of time, and there is no mistaking that they save lives (think pacemakers, deep brain stimulators, prosthetics etc.). The study, as written in their brochure, is looking for quadriplegics who have lost their bodily function due to spinal cord injury or ALS. What Neuralink is trying to do is to give paraplegics their bodily autonomy back (in various ways, as stated on their website). 
 The second (and more popular reaction) is concern. Aside from Neuralink and healthcare, the usage of BCIs can be more broadly applied. Some other fields that nonmedical brain-computer interfaces are making their way into are gaming, virtual reality, artistic performance and the military. 
-There are several ethical issues specifically surrounding the military, which include utilitarianism and neurorights.  
+There are several ethical issues specifically surrounding the military, which include utilitarianism and neurorights. Utilitarianism is the view that generally 
 ### Subject Interview and Discussion
 February 22, 2024 2:50pm SH Physical Therapist
