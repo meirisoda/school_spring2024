@@ -232,10 +232,11 @@ Typically have to have chronic hypertensive heart disease
 | Regular | 40bpm<br>Accelerated 60-100bpm | Inverted before QRS, immediately after QRS, or hidden within QRS | Short (0.10 second) or not meaesurable | Normal      |
 ## AV Heart Blocks
 ### First Degree AV Block
+![[Pasted image 20240226180324.png]]
 
-| Rhythm | Rate | P Waves | PR Interval | QRS Complex |
-| ---- | ---- | ---- | ---- | ---- |
-|  |  |  |  |  |
+| Rhythm  | Rate | P Waves | PR Interval | QRS Complex |
+| ------- | ---- | ------- | ----------- | ----------- |
+| Regular | R    |         |             |             |
 ### Second Degree AV Block 
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
