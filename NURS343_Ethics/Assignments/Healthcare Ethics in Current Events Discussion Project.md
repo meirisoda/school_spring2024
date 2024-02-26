@@ -13,4 +13,5 @@ THEN: 
 ## Response
 
 https://healthmanagement.org/c/hospital/post/new/exploring-neuralink-unveiling-ethical-issues-surrounding-brain-implants
+Supplemental reading mentioned in above article: https://www.gao.gov/products/gao-22-106118
 ### Exploring Neuralink: Unveiling Ethical Issues Surrounding Brain Implants
