@@ -14,6 +14,6 @@ THEN: 
 
 https://healthmanagement.org/c/hospital/post/new/exploring-neuralink-unveiling-ethical-issues-surrounding-brain-implants
 ### Exploring Neuralink: Unveiling Ethical Issues Surrounding Brain Implants
-dd
+I've been quite interested in Neuralink since it's announcement, and I believe that it is especially more relevant now as it has undergone it's first human 
 ### Subject Interview and Discussion
 February 22, 2024 2:50pm SH Physical Therapist
