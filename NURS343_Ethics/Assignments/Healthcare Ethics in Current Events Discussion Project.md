@@ -15,6 +15,7 @@ THEN: 
 https://healthmanagement.org/c/hospital/post/new/exploring-neuralink-unveiling-ethical-issues-surrounding-brain-implants
 ### Exploring Neuralink: Unveiling Ethical Issues Surrounding Brain Implants
 I've been quite interested in Neuralink since it's announcement, and I believe that it is especially more relevant now as it has begun its first human trial earlier this month. BCIs (Brain Computer Interfaces) have always been like science fiction to me. While non-invasive BCI devices have stood clinical trials for a very long time, none had been approved by the FDA, which makes Neuralink a very significant jump in BCI commercialization and development. Another reason is obviously because of Elon Musk and his significance in technological development in the online and physical world.
-I've seen many opinions online regarding Neuralink since its announcement and when the human trial began. I chose this article as a good jumpstart to a conversation for those who were unfamiliar to Neuralink and the ethical dilemma
+I've seen many opinions online regarding Neuralink since its announcement and when the human trial began. I chose this article as a good jumpstart to a conversation for those who were unfamiliar to Neuralink and the ethical dilemmas surrounding it. 
+When people are presented with the idea of an implantable chip in your brain that can control your body and 
 ### Subject Interview and Discussion
 February 22, 2024 2:50pm SH Physical Therapist
