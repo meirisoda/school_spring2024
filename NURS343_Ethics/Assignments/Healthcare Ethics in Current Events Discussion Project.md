@@ -17,4 +17,4 @@ Supplemental reading mentioned in above article: https://www.gao.gov/products/ga
 ### Exploring Neuralink: Unveiling Ethical Issues Surrounding Brain Implants
 dd
 ### Subject Interview and Discussion
-2/22/2024 1440
+2/22/2024 1440 SH 
