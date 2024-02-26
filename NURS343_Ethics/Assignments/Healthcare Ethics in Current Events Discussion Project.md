@@ -23,4 +23,4 @@ The neurorights of the soldiers obviously have to be taken into account. Neurori
 ### Subject Interview and Discussion
 February 22, 2024 2:50pm SH Physical Therapist
 The person I discussed this with is a physical therapist, somebody who works with people with impairments on the daily. He thought that Neuralink was very interesting and something to keep his eyes on. He voiced some concern regarding the way that the study was being conducted (as Neuralink is funded by private equity) and the increasing number of these kinds of breakthrough technologies. He felt unsure on the intentions of the company and was mostly apprehensive of both the company (Neuralink) and of fhis own opinion. 
-I had not thought 
+I had not thought of the private equity model of medical research before. It was e
