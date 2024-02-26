@@ -11,5 +11,6 @@ THEN: 
 5. After posting your viewpoint, please respond to _**two**_ _**_(2) o_ther classmate's**_ post with a courteous and respectful agreement or disagreement. Please keep your responses to around 150-200 words.
 
 ## Response
+
 https://healthmanagement.org/c/hospital/post/new/exploring-neuralink-unveiling-ethical-issues-surrounding-brain-implants
-### Exploring Neuralink: Unveiling Ethical Issues Surroundin
+### Exploring Neuralink: Unveiling Ethical Issues Surrounding Brain Implants
