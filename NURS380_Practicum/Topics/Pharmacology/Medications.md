@@ -153,4 +153,5 @@ Categorized by MOA and area of function
 ie. furosemide (maximum dose 240mg push over 2 minutes)
 ## Thiazide
 Hydrochlorothiazide
-## Aldosterone Antagonist (Potassium Sparing)
+## Aldosterone Antagonist (Potassium Sparing Diuretic)
+Spironolactone
