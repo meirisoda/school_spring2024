@@ -157,4 +157,5 @@ w- Know your orders!!
 - Requires special filtered tubing (which usually comes from the blood bank anyways)
 - In the case of a patient who has a historrry of platelet reaction, administer slowly and administer antipiuretics or antihistamines
 ## Fresh Frozen Plasma
-- Treat postop hemorrhage
+- Treat postop hemorrhage, correct coagulation factor deficiency and prepare coumadin reversal agent
+- ABO compatibility **required**, Rh match not required 
