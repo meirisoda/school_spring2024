@@ -47,7 +47,9 @@ Heart failure, prosthetic valves, post AMI anticoagulation, VTE, cardiomyopathy
 #### Contraindications
 Uncontrolled hypertension, severe hepatic or renal impairment, if px is going to surgery soon
 ### Other
-Direct oral anticoagulants are only 
+Direct oral anticoagulants are only FDA approved for afib 
+ie. Eliquis
+Andexxa is reversal agent! 
 
 # Antiarrhythmics
 ### Amiodarone
@@ -93,4 +95,6 @@ Patients with asthma, or chronic bradycardia or hypotension
 >[!note]
 >Monitor BP and QT intervals
 >Overdose antidote is glucagon.
-	
+
+# Platelet Inhibitors
+Indicated for 
