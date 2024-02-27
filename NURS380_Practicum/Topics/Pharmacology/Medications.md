@@ -99,4 +99,6 @@ Patients with asthma, or chronic bradycardia or hypotension
 # Platelet Inhibitors
 Indicated for ACS, post PCI with stenting, mechanical heart valves in combo with warfarin, acute ischemic stroke, stable angina, Kawasaki disease, afib with high risk of stroke, primary prevention of VTE
 ## Aspirin
-#
+- Inhibits Cox enxyme that inhibits platelet aggregrations
+# Antiarrhythmics
+Controls abnormal heart t
