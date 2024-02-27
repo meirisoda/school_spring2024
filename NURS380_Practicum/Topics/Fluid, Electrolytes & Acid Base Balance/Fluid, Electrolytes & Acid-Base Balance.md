@@ -204,9 +204,17 @@ Calcium is 8.5-10.5
 	3. Fully compensated would be if one is pH is normal
 ## Respiratory Acidosis
 Disruption in any component of breathing and characterized by alveolar hypoventilation
+
 >[!sx]
 >Anxiety and  confusion
 >$\downarrow$ reflexes
 >shallow respirations 
 >tachycardia
 
+>[!tx]
+>Increase respirations
+>Bronchodilator
+>supplemental $O_{2}$
+>Treat the cause
+
+## Respira
