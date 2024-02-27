@@ -195,4 +195,5 @@ Calcium is 8.5-10.5
 	1. Provides information about the metabolic aspect of acid-base balance
 4. ROME (Respiratory Opposite, Metabolic Equal)
 	1. $\uparrow CO_{2}$ and $\downarrow pH$ = respiratory acidosis
-	2. $\downarrow CO_{2}$ and $$
+	2. $\downarrow CO_{2}$ and $\uparrow pH$ = respiratory alkalosis
+	3. $\downarrow HCO_{3}$ and $pH$ = metabolic acidosis
