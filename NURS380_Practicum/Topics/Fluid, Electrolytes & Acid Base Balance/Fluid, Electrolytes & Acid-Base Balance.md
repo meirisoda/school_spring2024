@@ -190,4 +190,5 @@ Calcium is 8.5-10.5
 1. Check the pH 
 	1. Determine if acidotic or alkalotic
 2. Determine the $PaCO_{2}$
-	1. Provides information about the respiratory
+	1. Provides information about the respiratory component of acid-base balance
+3. Determine the $HCO_{2}$ 
