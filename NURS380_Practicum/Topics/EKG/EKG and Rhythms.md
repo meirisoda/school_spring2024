@@ -312,6 +312,9 @@ Will correct severe metabolic acidosis (arrests in hyperkalemic patients)
 **Children:** 1 mEq/kg of 8.4% solution 
 **Neonates:** 1 mEq/kg of 4.2% solution 
 ## Naloxone
-**Adults:** 1 mg
-**Children:** 0.1 mg/kg IV for children <20
+**Adults:** 0.04mg-2mg for adults (every 2~3 minutes or continuous IV inusion)
+**Children:** 0.1 mg/kg IV for children <20kg
 **Neonates:** 2 mg/kg IV >5y and >20kg
+## Adenosine 
+### for SVT and PAT treatment
+Can 
