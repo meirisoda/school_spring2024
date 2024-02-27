@@ -194,3 +194,4 @@ Calcium is 8.5-10.5
 3. Determine the $HCO_{2}$ 
 	1. Provides information about the metabolic aspect of acid-base balance
 4. ROME (Respiratory Opposite, Metabolic Equal)
+	1. $\uparrow CO_{2}$ and &
