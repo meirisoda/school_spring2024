@@ -305,3 +305,6 @@ Blocks acetylcholine
 **Adults:** 300mg to 150mg for adults
 **Children:** 5 mg/kg (x3 if refractory)
 **Neonates:** not typically used
+## Sodium bicarbonate
+Check for good IV access
+Will correct severe metabolic acidosis (arrests in hyperkalmeic )
