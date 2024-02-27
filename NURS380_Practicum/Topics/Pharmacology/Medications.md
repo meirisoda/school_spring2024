@@ -99,7 +99,8 @@ Patients with asthma, or chronic bradycardia or hypotension
 # Platelet Inhibitors
 Indicated for ACS, post PCI with stenting, mechanical heart valves in combo with warfarin, acute ischemic stroke, stable angina, Kawasaki disease, afib with high risk of stroke, primary prevention of VTE
 ## Aspirin
-- Inhibits Cox enxyme that inhibits platelet aggregrations
+- Inhibits Cox enxyme that inhibits platelet aggregations
+- 
 # Antiarrhythmics
 Controls abnormal heart rhythms
 ## Adenosine
@@ -137,4 +138,7 @@ take q15 3times maximum, and if ineffective go to the ER immediately
 ### Considerations and Contraindications
 Gives people massive headaches 
 Contraindicated in people taking Viagra
+
 # ACE Inhibitors
+### Indications
+HTN, HF, STEMI, diabetic neuropathy and IBD (off=)
