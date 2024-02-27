@@ -127,8 +127,12 @@ low BP
 - contain a lot of solute (such as dextrose, sodium, chloride etc.)
 - Will cause fluid overload
 3% NaCl
+## Colloids
+>[!definition]
+>Plasma expanders - they pull blood into the bloodstream
 ## Nursing Responsibilities
 - Know your orders!! 
 - Be aware of fluid overload signs and symptoms
 	- If you suspect overload, stop the fluids immediately and let the provider know. 
-- Monitor intake and outpute 
+- Monitor intake and output as well as electrolytes
+# Blood Transfusions
