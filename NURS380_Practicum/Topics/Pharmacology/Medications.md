@@ -125,3 +125,4 @@ Most commonly affect arteries but some are venous vasodilators
 ## Nitroprusside 
 Administered IV and is very strong
 ### Indications
+Acute HTN, acute decompensated HF,
