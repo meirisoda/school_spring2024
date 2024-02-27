@@ -312,4 +312,6 @@ Will correct severe metabolic acidosis (arrests in hyperkalemic patients)
 **Children:** 1 mEq/kg of 8.4% solution 
 **Neonates:** 1 mEq/kg of 4.2% solution 
 ## Naloxone
-2~3 minutes or 
+**Adults:** 1 mg
+**Children:** 0.1 mg/kg IV for children <20
+**Neonates:** 2 mg/kg IV >5y and >20kg
