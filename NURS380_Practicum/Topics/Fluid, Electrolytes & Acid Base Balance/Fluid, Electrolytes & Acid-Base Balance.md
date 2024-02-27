@@ -235,4 +235,5 @@ Due to loss of bicarb from ECF, an accumulation of metabolic acids
 
 ## Metabolic Alkalosis
 Loss of hydrogen ions, gain in bicarb or both
-If $PaCO_{2}$ is >45, means that the lungs 
+If $PaCO_{2}$ is >45, means that the lungs are compensating for alkalosis
+Commonly associated with hypokalemia
