@@ -318,5 +318,8 @@ Typically asymptomatic.
 ## Adenosine 
 ### for SVT and PAT treatment
 - Can give 3 times maximum
-Push it as close to the patient as possible (fast and hard) 
-Preferrably a central line (as close to heart as possible)
+- Push it as close to the patient as possible (fast and hard) 
+- Preferrably a central line (as close to heart as possible)
+**Adults:** 1 mg
+**Children:** 0.1 mg/kg (max 1mg)
+**Neonates:** 0.01-0.03 mg/kg
