@@ -234,6 +234,8 @@ Typically have to have chronic hypertensive heart disease
 ### First Degree AV Block
 ![[Pasted image 20240226180324.png]]
 
+[!path]
+due to injury to the AV note 
 >[!sx]
 Typically asymptomatic.
 
