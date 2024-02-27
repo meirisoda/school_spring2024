@@ -246,15 +246,15 @@ Typically asymptomatic.
 ### Second Degree AV Block 
 #### Type 1 (Mobitz I)
 ![[Pasted image 20240227134727.png]]
+
 >[!path]
 >Blocked above the AV node
 >Usually temporary and resolves on its own
->Usually caused by MI, hyperkalemia (can be normal and asymptomatic in people who are v)
+>Usually caused by MI, hyperkalemia (can be normal and asymptomatic in people who are very athletic)
 
 | Rhythm                                                | Rate                                                                                  | P Waves | PR Interval                                                    | QRS Complex |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------- | ------- | -------------------------------------------------------------- | ----------- |
 | Regular atrial rhythm<br>Irregular ventricular rhythm | Atrial (rate of underlying rhythm)<br>Ventricular (depends, usually less than atrial) | Normal  | Varies, progressively lengthens until a P wave isn't conducted | Normal      |
-
 #### Type 2
 
 | Rhythm | Rate | P Waves | PR Interval | QRS Complex |
