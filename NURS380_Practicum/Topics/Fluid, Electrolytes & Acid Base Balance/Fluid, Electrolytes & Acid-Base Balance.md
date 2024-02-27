@@ -166,3 +166,6 @@ w- Know your orders!!
 # Electrolytes
 ![[Pasted image 20240227144324.png]]![[Pasted image 20240227144337.png]]
 Calcium is 8.5-10.5
+![[Pasted image 20240227144359.png]]
+![[Pasted image 20240227144405.png]]
+## Sodium
