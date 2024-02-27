@@ -224,4 +224,8 @@ Results from alveolar hyperventilation and hypocapnia (or CPR)
 >Prolonged PR interval and depressed ST 
 
 >[!tx]
->Sedation and anxi
+>Sedation and anxiety medication
+
+## Metabolic Acidosis
+An anion gap of greater than 14 (normal is 8-12)
+Due to loss of bic
