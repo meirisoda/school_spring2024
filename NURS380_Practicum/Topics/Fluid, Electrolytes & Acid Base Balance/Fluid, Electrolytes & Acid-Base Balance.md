@@ -120,3 +120,6 @@ low BP
 ### Hypotonic 
 - contains less solute
 - helpful for intracellular dehydration
+- Provide free water and sodium and chloride
+- Good 
+0.45% NaCl
