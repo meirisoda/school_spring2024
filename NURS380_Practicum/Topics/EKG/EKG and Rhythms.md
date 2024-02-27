@@ -322,3 +322,6 @@ Typically asymptomatic.
 - Preferrably a central line (as close to heart as possible)
 **Adults:** 6mg then 12 mg x2 doses for adults
 **Children:** 0.1mg/kg then 0.2mg/kg then 0.3mg/kg for children <50kg
+## Defibrillation
+150-200 joules initially
+Can increase to maximum of 360 J
