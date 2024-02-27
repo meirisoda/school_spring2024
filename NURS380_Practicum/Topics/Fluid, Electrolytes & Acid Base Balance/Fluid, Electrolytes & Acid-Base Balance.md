@@ -148,3 +148,5 @@ w- Know your orders!!
 - Restore or maintain oxygen carrying capacity, correct anemia, increase RBC mass
 - Make sure blood is compatible with other medications (typically given with NS)
 - Make sure blood is within 30m~1hr of coming from blood bank
+- Typically hang for 3 hours 
+- Monitor for transfusion reactions ($$)
