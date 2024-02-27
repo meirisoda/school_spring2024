@@ -101,4 +101,5 @@ Indicated for ACS, post PCI with stenting, mechanical heart valves in combo with
 ## Aspirin
 - Inhibits Cox enxyme that inhibits platelet aggregrations
 # Antiarrhythmics
-Controls abnormal heart t
+Controls abnormal heart rhythms
+## Adenosine
