@@ -146,4 +146,5 @@ w- Know your orders!!
 # Blood Transfusions
 ## RBCs
 - Restore or maintain oxygen carrying capacity, correct anemia, increase RBC mass
-- Make sure blood is compatible with other medications 
+- Make sure blood is compatible with other medications (typically given with NS)
+- Administer (30m~1hr)
