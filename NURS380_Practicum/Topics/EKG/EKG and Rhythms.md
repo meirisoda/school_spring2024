@@ -234,8 +234,8 @@ Typically have to have chronic hypertensive heart disease
 ### First Degree AV Block
 ![[Pasted image 20240226180324.png]]
 
-[!sx]
-Typically asymptom
+>[!sx]
+Typically asymptomatic.
 
 | Rhythm  | Rate                      | P Waves | PR Interval           | QRS Complex |
 | ------- | ------------------------- | ------- | --------------------- | ----------- |
