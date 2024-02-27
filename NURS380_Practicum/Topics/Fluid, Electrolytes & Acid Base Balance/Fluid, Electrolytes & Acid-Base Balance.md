@@ -203,3 +203,6 @@ Calcium is 8.5-10.5
 	2. Partially compensated would be if they are all in the same direction
 	3. Fully compensated would be if one is pH is normal
 ## Respiratory Acidosis
+Disruption in any component of breathing and characterized by alveolar hypoventilation
+>[!sx]
+>
