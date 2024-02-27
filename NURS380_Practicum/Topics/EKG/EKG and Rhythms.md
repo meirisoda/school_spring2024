@@ -299,6 +299,7 @@ Typically asymptomatic.
 **Children:** 0.02 mg/kg (max 0.5mg)
 **Neonates:** 0.1 mg/kg
 ## Amiodarone
-**Adults:**
-**Children:**
-**Neonates:**
+### for 
+**Adults:** 300mg to 150mg for adults
+**Children:** 5 mg/kg (x3 if refractory)
+**Neonates:** not typically used
