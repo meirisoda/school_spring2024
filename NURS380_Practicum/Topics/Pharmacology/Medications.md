@@ -108,3 +108,7 @@ Controls abnormal heart rhythms
 
 # Inotropes
 Increase cardiac contractility
+Improves CO, MAP and perfusion throughout the body
+Supports cardiac function in patients with low cardiac abilities
+
+**Dobutamine**, dopamine, isoproterenol, **milrinone**
