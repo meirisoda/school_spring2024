@@ -97,4 +97,6 @@ Patients with asthma, or chronic bradycardia or hypotension
 >Overdose antidote is glucagon.
 
 # Platelet Inhibitors
-Indicated for 
+Indicated for ACS, post PCI with stenting, mechanical heart valves in combo with warfarin, acute ischemic stroke, stable angina, Kawasaki disease, afib with high risk of stroke, primary prevention of VTE
+## Aspirin
+#
