@@ -290,9 +290,9 @@ Typically asymptomatic.
 # Medications used in Code Blue
 ## Epinephrine
 ### for vfib
-1 mg for adults
-0.1 mg/kg for children (max 1mg)
-0.01-0.03 mg/kg for neonates
+Adults: 1 mg
+Children: 0.1 mg/kg (max 1mg)
+Neonates: 0.01-0.03 mg/kg
 ## Atrophine
 ### for brady
 1 mg for adults (max is 3mg) --> large doses can cause heart blocks
