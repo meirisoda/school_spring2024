@@ -92,8 +92,8 @@ May cause bradycardia and hypotension
 ### Contraindications
 Patients with asthma, or chronic bradycardia or hypotension
 ### Considerations
->Monitor BP and QT intervals
->Overdose antidote is glucagon.
+Monitor BP and QT intervals
+Overdose antidote is glucagon.
 
 # Platelet Inhibitors
 Indicated for ACS, post PCI with stenting, mechanical heart valves in combo with warfarin, acute ischemic stroke, stable angina, Kawasaki disease, afib with high risk of stroke, primary prevention of VTE
@@ -146,4 +146,8 @@ Oral only
 **Dry cough, angioedema**, dizziness, hypotension, increased BUN and creaetinine, syncope and hyperkalemia
 Contraindicated in pregnancy
 
-# Beta Blockers
+# Diuretics
+Mainstay of heart failure management
+Categorized by MOA and area of function
+## Loop Diuretic
+ie.e furo
