@@ -127,4 +127,9 @@ Administered IV and is very strong
 ### Indications
 Acute HTN, acute decompensated HF, induction of perioperative hypotension
 ### Dosage
-0.4-4 mcg/kg/minute with maximum 10 mcg/kg/min IV infusion in D5W for less than 
+0.4-4 mcg/kg/minute with maximum 10 mcg/kg/min IV infusion in D5W for less than 10 minutes
+Half life is 2 minutes
+## Nitroglycerin
+Sublingual
+### Dosage
+take q15 3times maximum, and if ineffective go to the ER immediately
