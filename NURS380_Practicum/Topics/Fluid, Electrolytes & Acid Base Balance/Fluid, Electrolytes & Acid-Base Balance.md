@@ -220,3 +220,8 @@ Disruption in any component of breathing and characterized by alveolar hypoventi
 ## Respiratory Alkalosis
 Increased elimination of $CO_{2}$
 Results from alveolar hyperventilation and hypocapnia (or CPR)
+>[!sx]
+>Prolonged PR interval and depressed ST 
+
+>[!tx]
+>Sedation and anxi
