@@ -144,4 +144,6 @@ w- Know your orders!!
 	- If you suspect overload, stop the fluids immediately and let the provider know. 
 - Monitor intake and output as well as electrolytes
 # Blood Transfusions
-## RV
+## RBCs
+- Restore or maintain oxygen carrying capacity, correct anemia, increase RBC mass
+- Make sure blood is compatible with other medications 
