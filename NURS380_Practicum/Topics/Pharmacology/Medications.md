@@ -121,4 +121,7 @@ Indicated for decreased contractility due to HF or cardiac decompensation
 **Increases risk of afib with RVR and HTN**
 **Contraindications**: AMI, unstable angina, arrhythmias, hypokalemia
 # Vasodilators
-Most commonly a
+Most commonly affect arteries but some are venous vasodilators
+## Nitroprusside 
+Administered IV and is very strong
+### Indications
