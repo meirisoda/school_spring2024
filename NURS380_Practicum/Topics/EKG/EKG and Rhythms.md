@@ -287,4 +287,8 @@ Typically asymptomatic.
 ![[Pasted image 20240227135355.png]]
 ![[Pasted image 20240227135404.png]]
 
-# Medications used in 
+# Medications used in Code Blue
+## Epinephrine
+1 mg for adults
+0.1 mg/kg for children (max 1mg)
+0.01-0.03 mg/kg for neonates
