@@ -247,7 +247,9 @@ Typically asymptomatic.
 #### Type 1 (Mobitz I)
 ![[Pasted image 20240227134727.png]]
 >[!path]
->Blocked a
+>Blocked above the AV node
+>Usually temporary and resolves on its own
+>Usually caused by MI, hyperkalemia (can be normal and asymptomatic in people who are v)
 
 | Rhythm                                                | Rate                                                                                  | P Waves | PR Interval                                                    | QRS Complex |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------- | ------- | -------------------------------------------------------------- | ----------- |
