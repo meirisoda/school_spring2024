@@ -161,4 +161,6 @@ w- Know your orders!!
 - ABO compatibility **required**, Rh match not required 
 - It not compatible, may cause hypocalcemia!! 
 ## Cryoprecipitate
-- Treat factor VIII def
+- Treat factor VIII deficiency and fibrinogen disorders, hemophilia A
+- ABO compatibility required, Rh match not required
+# Electrolytes
