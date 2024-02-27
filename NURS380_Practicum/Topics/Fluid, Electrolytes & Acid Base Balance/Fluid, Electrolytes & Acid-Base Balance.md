@@ -152,4 +152,6 @@ w- Know your orders!!
 - Monitor for transfusion reactions ($\pm$ 1 degree Celsius)
 ## Platelets
 - Treat bleeding, improve platelet counts pre-op
-- A
+- ABO compatibility same as RBCs (RH negative should receive RRh negative products)
+- Take baseline labs (PT/INR and platelet count)
+- Requires special filtered tubing (which usu)
