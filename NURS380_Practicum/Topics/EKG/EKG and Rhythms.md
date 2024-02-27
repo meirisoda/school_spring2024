@@ -290,16 +290,18 @@ Typically asymptomatic.
 # Medications used in Code Blue
 ## Epinephrine
 ### for vfib
+Increase coronary perfusion
 **Adults:** 1 mg
 **Children:** 0.1 mg/kg (max 1mg)
 **Neonates:** 0.01-0.03 mg/kg
 ## Atrophine 
+Blocks acetylcholine
 ### for brady
 **Adults:** 1 mg (max is 3 mg) --> can cause heart blocks
 **Children:** 0.02 mg/kg (max 0.5mg)
 **Neonates:** 0.1 mg/kg
 ## Amiodarone
-### for 
+### for tachy 
 **Adults:** 300mg to 150mg for adults
 **Children:** 5 mg/kg (x3 if refractory)
 **Neonates:** not typically used
