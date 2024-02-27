@@ -245,10 +245,11 @@ Typically asymptomatic.
 | Regular | Rate of underlying rhythm | Regular | Consistent, Prolonged | Normal      |
 ### Second Degree AV Block 
 #### Type 1 (Mobitz I)
+![[Pasted image 20240227134727.png]]
 
-| Rhythm | Rate | P Waves | PR Interval | QRS Complex |
-| ------ | ---- | ------- | ----------- | ----------- |
-|        |      |         |             |             |
+| Rhythm                                                | Rate                                                                  | P Waves | PR Interval | QRS Complex |
+| ----------------------------------------------------- | --------------------------------------------------------------------- | ------- | ----------- | ----------- |
+| Regular atrial rhythm<br>Irregular ventricular rhythm | Atrial (rate of underlying rhythm)<br>Ventricular (depends, usually ) |         |             |             |
 
 #### Type 2
 
