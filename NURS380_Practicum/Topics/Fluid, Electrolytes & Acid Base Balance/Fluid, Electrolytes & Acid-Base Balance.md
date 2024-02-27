@@ -129,7 +129,10 @@ low BP
 3% NaCl
 ## Colloids
 >[!definition]
->Plasma expanders - they pull blood into the bloodstream
+>Plasma expanders - they pull blood into the bloodstream.
+>Thicker fluids as they contain particles too large to pass through membranes, so they will stay in intracellular space. 
+
+ie. dextran, hetastarch, 5% albumin, 25% albumin
 ## Nursing Responsibilities
 - Know your orders!! 
 - Be aware of fluid overload signs and symptoms
