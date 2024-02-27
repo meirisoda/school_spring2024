@@ -150,4 +150,7 @@ Contraindicated in pregnancy
 Mainstay of heart failure management
 Categorized by MOA and area of function
 ## Loop Diuretic
-ie.e furo
+ie. furosemide (maximum dose 240mg push over 2 minutes)
+## Thiazide
+Hydrochlorothiazide
+## Aldosterone Antagonist (Potassium Sparing)
