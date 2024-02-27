@@ -103,3 +103,8 @@ Indicated for ACS, post PCI with stenting, mechanical heart valves in combo with
 # Antiarrhythmics
 Controls abnormal heart rhythms
 ## Adenosine
+
+
+
+# Inotropes
+Increase cardiac contractility
