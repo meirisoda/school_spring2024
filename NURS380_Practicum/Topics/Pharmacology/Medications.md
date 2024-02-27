@@ -113,8 +113,12 @@ Supports cardiac function in patients with low cardiac abilities
 
 **Dobutamine**, dopamine, isoproterenol, **milrinone**
 ## Dobutamine
+### Indications
 Indicated for decreased contractility due to HF or cardiac decompensation
+### Dosage 
 0.5 mcg/kg/min to 40 mcg/kg/min
+### Considerations and Contraindications
 **Increases risk of afib with RVR and HTN**
 **Contraindications**: AMI, unstable angina, arrhythmias, hypokalemia
 # Vasodilators
+Most commonly a
