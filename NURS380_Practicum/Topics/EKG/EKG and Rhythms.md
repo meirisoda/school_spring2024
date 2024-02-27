@@ -308,6 +308,8 @@ Blocks acetylcholine
 ## Sodium bicarbonate
 Check for good IV access
 Will correct severe metabolic acidosis (arrests in hyperkalemic patients)
-**Adults:** 1 mg
-**Children:** 1 mEq/kg of 8.4% solut
-**Neonates:** 1 mEq/kg of 4.2% solution for neonates
+**Adults:** 50mEq dose (pre-filled syringe)
+**Children:** 1 mEq/kg of 8.4% solution 
+**Neonates:** 1 mEq/kg of 4.2% solution 
+## Naloxone
+2~3 minutes or 
