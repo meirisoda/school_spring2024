@@ -290,12 +290,12 @@ Typically asymptomatic.
 # Medications used in Code Blue
 ## Epinephrine
 ### for vfib
-Increase coronary perfusion
+- Increase coronary perfusion
 **Adults:** 1 mg
 **Children:** 0.1 mg/kg (max 1mg)
 **Neonates:** 0.01-0.03 mg/kg
 ## Atrophine 
-Blocks acetylcholine
+- Blocks acetylcholine
 ### for brady
 **Adults:** 1 mg (max is 3 mg) --> can cause heart blocks
 **Children:** 0.02 mg/kg (max 0.5mg)
@@ -317,4 +317,6 @@ Will correct severe metabolic acidosis (arrests in hyperkalemic patients)
 **Neonates:** 2 mg/kg IV >5y and >20kg
 ## Adenosine 
 ### for SVT and PAT treatment
-Can 
+Can give 3 times maximum
+Push it as close to the patient as possible (fast and hard) 
+Preferrably a central line (as close to heart as possible)
