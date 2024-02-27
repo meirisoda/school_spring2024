@@ -199,6 +199,6 @@ Calcium is 8.5-10.5
 	3. $\downarrow HCO_{3}$ and $pH$ = metabolic acidosis
 	4. $\uparrow HCO_{3}$ and $pH$ = metabolic alkalosis
 5. Compensation
-	1. Uncompensated would be if one is d
+	1. Uncompensated would be if one is different
 	2. Partially compensated would be if they are all in the same direction
 	3. Fully compensated would be if one is pH is normal
