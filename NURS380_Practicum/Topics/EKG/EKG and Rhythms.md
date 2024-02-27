@@ -289,6 +289,8 @@ Typically asymptomatic.
 
 # Medications used in Code Blue
 ## Epinephrine
+### for vfib
 1 mg for adults
 0.1 mg/kg for children (max 1mg)
 0.01-0.03 mg/kg for neonates
+## Atrophine
