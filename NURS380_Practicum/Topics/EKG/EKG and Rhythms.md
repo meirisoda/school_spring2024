@@ -306,8 +306,8 @@ Typically asymptomatic.
 **Children:** 5 mg/kg (x3 if refractory)
 **Neonates:** not typically used
 ## Sodium bicarbonate
-Check for good IV access
-Will correct severe metabolic acidosis (arrests in hyperkalemic patients)
+- Check for good IV access
+- Will correct severe metabolic acidosis (arrests in hyperkalemic patients)
 **Adults:** 50mEq dose (pre-filled syringe)
 **Children:** 1 mEq/kg of 8.4% solution 
 **Neonates:** 1 mEq/kg of 4.2% solution 
@@ -317,6 +317,6 @@ Will correct severe metabolic acidosis (arrests in hyperkalemic patients)
 **Neonates:** 2 mg/kg IV >5y and >20kg
 ## Adenosine 
 ### for SVT and PAT treatment
-Can give 3 times maximum
+- Can give 3 times maximum
 Push it as close to the patient as possible (fast and hard) 
 Preferrably a central line (as close to heart as possible)
