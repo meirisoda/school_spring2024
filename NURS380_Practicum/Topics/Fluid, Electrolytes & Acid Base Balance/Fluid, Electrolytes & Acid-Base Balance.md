@@ -135,9 +135,9 @@ low BP
 
 ie. dextran, hetastarch, 5% albumin, 25% albumin
 
-| Increase                                                    | Decrease |
-| ----------------------------------------------------------- | -------- |
-| Capillary perfusion<br>CVP<br>Cardiac utput<br>Urine output |          |
+| Increase                                                                | Decrease                                   |
+| ----------------------------------------------------------------------- | ------------------------------------------ |
+| $\uparrow$ Capillary perfusion<br>CVP<br>Cardiac output<br>Urine output | HR<br>PVR (peripheral vascular resistance) |
 ## Nursing Responsibilities
 w- Know your orders!! 
 - Be aware of fluid overload signs and symptoms
