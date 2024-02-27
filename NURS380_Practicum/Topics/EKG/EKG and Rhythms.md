@@ -257,6 +257,10 @@ Typically asymptomatic.
 | Regular atrial rhythm<br>Irregular ventricular rhythm | Atrial (rate of underlying rhythm)<br>Ventricular (depends, usually less than atrial) | Normal  | Varies, progressively lengthens until a P wave isn't conducted | Normal      |
 #### Type 2
 ![[Pasted image 20240227134923.png]]
+>[!tx]
+>Based on heart rate and symptoms
+>Permanent pacemaker
+>>If they are hiccuping, the pacemaker needs to be redone
 
 | Rhythm                                  | Rate                                                                                  | P Waves               | PR Interval                             | QRS Complex                                         |
 | --------------------------------------- | ------------------------------------------------------------------------------------- | --------------------- | --------------------------------------- | --------------------------------------------------- |
