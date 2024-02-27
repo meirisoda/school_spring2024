@@ -307,4 +307,7 @@ Blocks acetylcholine
 **Neonates:** not typically used
 ## Sodium bicarbonate
 Check for good IV access
-Will correct severe metabolic acidosis (arrests in hyperkalmeic )
+Will correct severe metabolic acidosis (arrests in hyperkalemic patients)
+**Adults:** 1 mg
+**Children:** 1 mEq/kg of 8.4% solut
+**Neonates:** 1 mEq/kg of 4.2% solution for neonates
