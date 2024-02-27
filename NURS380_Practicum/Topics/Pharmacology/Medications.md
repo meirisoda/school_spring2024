@@ -141,4 +141,7 @@ Contraindicated in people taking Viagra
 
 # ACE Inhibitors
 ### Indications
-HTN, HF, STEMI, diabetic neuropathy and IBD (off=)
+HTN, HF, STEMI, diabetic neuropathy and IBD (off-label)
+Oral only
+### Considerations and Contraindications
+**Dry cough, angioedema**, dizziness, hypotension, increased BUN and creaetinine, syncope and hyperkalemia
