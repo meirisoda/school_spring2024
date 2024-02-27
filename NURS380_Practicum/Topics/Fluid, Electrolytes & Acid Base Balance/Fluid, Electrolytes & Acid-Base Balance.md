@@ -129,4 +129,6 @@ low BP
 3% NaCl
 ## Nursing Responsibilities
 - Know your orders!! 
-  
+- Be aware of fluid overload signs and symptoms
+	- If you suspect overload, stop the fluids immediately and let the provider know. 
+- Monitor intake and outpute 
