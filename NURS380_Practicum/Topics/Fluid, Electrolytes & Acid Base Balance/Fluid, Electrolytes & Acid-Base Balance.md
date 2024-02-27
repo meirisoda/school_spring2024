@@ -127,4 +127,6 @@ low BP
 - contain a lot of solute (such as dextrose, sodium, chloride etc.)
 - Will cause fluid overload
 3% NaCl
-## 
+## Nursing Responsibilities
+- Know your orders!! 
+  
