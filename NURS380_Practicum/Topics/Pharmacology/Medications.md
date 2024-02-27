@@ -120,6 +120,7 @@ Indicated for decreased contractility due to HF or cardiac decompensation
 ### Considerations and Contraindications
 **Increases risk of afib with RVR and HTN**
 **Contraindications**: AMI, unstable angina, arrhythmias, hypokalemia
+
 # Vasodilators
 Most commonly affect arteries but some are venous vasodilators
 ## Nitroprusside 
@@ -133,3 +134,7 @@ Half life is 2 minutes
 Sublingual
 ### Dosage
 take q15 3times maximum, and if ineffective go to the ER immediately
+### Considerations and Contraindications
+Gives people massive headaches 
+Contraindicated in people taking Viagra
+# ACE Inhibitors
