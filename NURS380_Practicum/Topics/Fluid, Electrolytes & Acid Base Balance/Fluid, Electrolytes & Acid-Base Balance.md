@@ -188,7 +188,9 @@ Calcium is 8.5-10.5
 | $CO_{2}$  | >45      | 35-45     | <35       |
 | $HCO_{3}$ | <22      | 22-26     | >26       |
 1. Check the pH 
-	1. Determine if acidotic or alkalotic
+	1. Determine if acidotic or alkalotic.
 2. Determine the $PaCO_{2}$
 	1. Provides information about the respiratory component of acid-base balance
 3. Determine the $HCO_{2}$ 
+	1. Provides information about the metabolic aspect of acid-base balance
+4. R
