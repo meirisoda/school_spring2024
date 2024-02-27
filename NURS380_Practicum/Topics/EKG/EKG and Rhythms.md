@@ -293,8 +293,8 @@ Typically asymptomatic.
 **Adults:** 1 mg
 **Children:** 0.1 mg/kg (max 1mg)
 **Neonates:** 0.01-0.03 mg/kg
-## Atrophine
+## Atrophine 
 ### for brady
-**Adults:** 1 mg (max is 3 mg )
-**Children:** 0.1 mg/kg (max 1mg)
+**Adults:** 1 mg (max is 3 mg) --> can cause heart blocks
+**Children:** 0.02 mg/kg (max 0.5mg)
 **Neonates:** 0.01-0.03 mg/kg
