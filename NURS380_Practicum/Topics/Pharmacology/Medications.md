@@ -40,6 +40,7 @@ Prevent clot formation
 ### Warfarin
 Oral chronic anticoagulation therapy
 Interferes with Vitamin K synthesis (vitamin K becomes the reversal agent)
+INR levels can indicate effectiveness of coumadin
 #### Indications
 Heart failure, prosthetic valves, post AMI anticoagulation, VTE, cardiomyopathy
 #### Contraindications
