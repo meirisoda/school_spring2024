@@ -246,10 +246,12 @@ Typically asymptomatic.
 ### Second Degree AV Block 
 #### Type 1 (Mobitz I)
 ![[Pasted image 20240227134727.png]]
+>[!path]
+>Blocked a
 
-| Rhythm                                                | Rate                                                                  | P Waves | PR Interval | QRS Complex |
-| ----------------------------------------------------- | --------------------------------------------------------------------- | ------- | ----------- | ----------- |
-| Regular atrial rhythm<br>Irregular ventricular rhythm | Atrial (rate of underlying rhythm)<br>Ventricular (depends, usually ) |         |             |             |
+| Rhythm                                                | Rate                                                                                  | P Waves | PR Interval                                                    | QRS Complex |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------- | ------- | -------------------------------------------------------------- | ----------- |
+| Regular atrial rhythm<br>Irregular ventricular rhythm | Atrial (rate of underlying rhythm)<br>Ventricular (depends, usually less than atrial) | Normal  | Varies, progressively lengthens until a P wave isn't conducted | Normal      |
 
 #### Type 2
 
