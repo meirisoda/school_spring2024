@@ -164,3 +164,5 @@ w- Know your orders!!
 - Treat factor VIII deficiency and fibrinogen disorders, hemophilia A
 - ABO compatibility required, Rh match not required
 # Electrolytes
+![[Pasted image 20240227144324.png]]![[Pasted image 20240227144337.png]]
+Calcium is 8.5-10.5
