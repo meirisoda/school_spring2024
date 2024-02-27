@@ -202,3 +202,4 @@ Calcium is 8.5-10.5
 	1. Uncompensated would be if one is different
 	2. Partially compensated would be if they are all in the same direction
 	3. Fully compensated would be if one is pH is normal
+## Respiratory Acidosis
