@@ -121,5 +121,7 @@ low BP
 - contains less solute
 - helpful for intracellular dehydration
 - Provide free water and sodium and chloride
-- Good 
+- Good for hypernatremia or decreased renal function
 0.45% NaCl
+### Hypertonic fluids
+- contain a lot of so
