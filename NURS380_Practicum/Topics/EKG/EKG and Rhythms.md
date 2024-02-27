@@ -256,10 +256,11 @@ Typically asymptomatic.
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------- | ------- | -------------------------------------------------------------- | ----------- |
 | Regular atrial rhythm<br>Irregular ventricular rhythm | Atrial (rate of underlying rhythm)<br>Ventricular (depends, usually less than atrial) | Normal  | Varies, progressively lengthens until a P wave isn't conducted | Normal      |
 #### Type 2
+![[Pasted image 20240227134923.png]]
 
-| Rhythm | Rate | P Waves | PR Interval | QRS Complex |
-| ------ | ---- | ------- | ----------- | ----------- |
-|        |      |         |             |             |
+| Rhythm                                  | Rate                                                                                  | P Waves | PR Interval | QRS Complex |
+| --------------------------------------- | ------------------------------------------------------------------------------------- | ------- | ----------- | ----------- |
+| Regular<br>Ventricular can be irregular | Atrial (rate of underlying rhythm)<br>Ventricular (depends, usually less than atrial) |         |             |             |
 
 ### Third Degree AV Block
 
