@@ -182,6 +182,8 @@ Calcium is 8.5-10.5
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | - In conjunction with hypocalcemia<br>- Arrythmias (complete heart block)<br>- Tremors<br>- Tetany<br>- EKG changes (widened QRS, peaked T waves, prolonged PR, Torsades) | - weakness<br>- nausea<br>- dizziness<br>- confusion<br>- decreased reflexes<br>- bladder paralysis<br>- seizures<br>- Hypotension, bradycardia, AV blocks |
 # Acid/Base Balance
-|     | Acidotic | Normal | Alka |
-| --- | -------- | ------ | ---- |
-|     |          |        |      |
+|           | Acidotic | Normal | Alkalosis |
+| --------- | -------- | ------ | --------- |
+| pH        |          |        |           |
+| $CO_{2}$  |          |        |           |
+| $HCO_{3}$ |          |        |           |
