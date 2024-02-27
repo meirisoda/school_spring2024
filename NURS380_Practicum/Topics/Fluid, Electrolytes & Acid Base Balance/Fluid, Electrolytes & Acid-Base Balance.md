@@ -228,4 +228,7 @@ Results from alveolar hyperventilation and hypocapnia (or CPR)
 
 ## Metabolic Acidosis
 An anion gap of greater than 14 (normal is 8-12)
-Due to loss of bic
+Due to loss of bicarb from ECF, an accumulation of metabolic acids
+>[!tx]
+>IV $NaHCO_{3}$
+>It is not compatib
