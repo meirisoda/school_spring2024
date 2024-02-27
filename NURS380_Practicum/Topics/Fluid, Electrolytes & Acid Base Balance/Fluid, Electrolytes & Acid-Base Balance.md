@@ -169,9 +169,9 @@ Calcium is 8.5-10.5
 ![[Pasted image 20240227144359.png]]
 ![[Pasted image 20240227144405.png]]
 ## Sodium
-| Hypo                                                                                                               | Hyper                                                                   |
-| ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
-| - Behavioural/LOC changes<br>- Muscle weakness<br>- Hyperactive bowel sounds<br>- Seizures<br>- Excessive sweating | - Twitching/irregular contractions<br>- Progressive muscle weakness<br> |
+| Hypo                                                                                                               | Hyper                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
+| - Behavioural/LOC changes<br>- Muscle weakness<br>- Hyperactive bowel sounds<br>- Seizures<br>- Excessive sweating | - Twitching/irregular contractions<br>- Progressive muscle weakness<br><br>Causes<br>- |
 ## Potassium
 | Hypo | Hyper |
 | ---- | ----- |
