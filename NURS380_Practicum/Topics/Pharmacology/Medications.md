@@ -125,4 +125,6 @@ Most commonly affect arteries but some are venous vasodilators
 ## Nitroprusside 
 Administered IV and is very strong
 ### Indications
-Acute HTN, acute decompensated HF,
+Acute HTN, acute decompensated HF, induction of perioperative hypotension
+### Dosage
+0.4-4 mcg/kg/minute with maximum 10 mcg/kg/min IV infusion in D5W for less than 
