@@ -270,7 +270,14 @@ Typically asymptomatic.
 | --------------------------------------- | ------------------------------------------------------------------------------------- | --------------------- | --------------------------------------- | --------------------------------------------------- |
 | Regular<br>Ventricular can be irregular | Atrial (rate of underlying rhythm)<br>Ventricular (depends, usually less than atrial) | Sinus (2-3 more more) | Consistent (can be normal or prolonged) | Normal or wide (if wide, located below the AV node) |
 ### Third Degree AV Block
+![[Pasted image 20240227135221.png]]
 
-| Rhythm | Rate | P Waves | PR Interval | QRS Complex |
-| ------ | ---- | ------- | ----------- | ----------- |
-|        |      |         |             |             |
+>[!path]
+>Lyme disease or massive heart attack
+
+>[!tx]
+>Pacemaker
+
+| Rhythm  | Rate | P Waves | PR Interval | QRS Complex |
+| ------- | ---- | ------- | ----------- | ----------- |
+| Regular | Atr  |         |             |             |
