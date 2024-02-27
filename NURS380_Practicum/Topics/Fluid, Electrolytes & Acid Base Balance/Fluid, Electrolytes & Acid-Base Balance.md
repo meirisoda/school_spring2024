@@ -173,9 +173,9 @@ Calcium is 8.5-10.5
 | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | - Behavioural/LOC changes<br>- Muscle weakness<br>- Hyperactive bowel sounds<br>- Seizures<br><br>Causes<br>- Excessive sweating | - Twitching/irregular contractions<br>- Progressive muscle weakness<br><br>Causes<br>- excessive isotonic/hypertonic fluid administration<br>- Cushings disease<br>- dehydration |
 ## Potassium
-| Hypo                                              | Hyper |
-| ------------------------------------------------- | ----- |
-| - Arrhythmias<br>- EKG changes (PVCs, T wave cha) |       |
+| Hypo                                                                                                                                                 | Hyper                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| - Arrhythmias<br>- EKG changes (PVCs, T wave changes, ST depression)<br>- Respiratory muscle weakness<br>- Muscle weakness in general<br>- Paralysis | - bradycardia<br>- EKG changes (tall T wa) |
 ## Magnesium
 | Hypo | Hyper |
 | ---- | ----- |
