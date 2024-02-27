@@ -147,4 +147,4 @@ w- Know your orders!!
 ## RBCs
 - Restore or maintain oxygen carrying capacity, correct anemia, increase RBC mass
 - Make sure blood is compatible with other medications (typically given with NS)
-- Administer (30m~1hr)
+- Make sure blood is within 30m~1hr of coming from blood bank
