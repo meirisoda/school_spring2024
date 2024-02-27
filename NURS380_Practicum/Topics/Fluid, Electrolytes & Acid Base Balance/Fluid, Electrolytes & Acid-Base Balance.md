@@ -149,4 +149,4 @@ w- Know your orders!!
 - Make sure blood is compatible with other medications (typically given with NS)
 - Make sure blood is within 30m~1hr of coming from blood bank
 - Typically hang for 3 hours 
-- Monitor for transfusion reactions ($\pm$ 1$\degr\mathrm{Re}e$)
+- Monitor for transfusion reactions ($\pm$ 1$\\text{degree}$)
