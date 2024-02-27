@@ -284,3 +284,7 @@ Typically asymptomatic.
 ![[Pasted image 20240227135336.png]]
 
 # 12 Lead EKG
+![[Pasted image 20240227135355.png]]
+![[Pasted image 20240227135404.png]]
+
+# Medications used in 
