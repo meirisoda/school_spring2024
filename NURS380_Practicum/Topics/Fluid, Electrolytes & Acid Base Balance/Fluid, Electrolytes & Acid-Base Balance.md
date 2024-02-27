@@ -159,3 +159,6 @@ w- Know your orders!!
 ## Fresh Frozen Plasma
 - Treat postop hemorrhage, correct coagulation factor deficiency and prepare coumadin reversal agent
 - ABO compatibility **required**, Rh match not required 
+- It not compatible, may cause hypocalcemia!! 
+## Cryoprecipitate
+- Treat factor VIII def
