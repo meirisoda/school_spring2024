@@ -154,4 +154,5 @@ w- Know your orders!!
 - Treat bleeding, improve platelet counts pre-op
 - ABO compatibility same as RBCs (RH negative should receive RRh negative products)
 - Take baseline labs (PT/INR and platelet count)
-- Requires special filtered tubing (which usu)
+- Requires special filtered tubing (which usually comes from the blood bank anyways)
+- In the case of a patient who has a historrry of platelet reaction, administer slowly and administer antipiuretics o
