@@ -169,3 +169,7 @@ Calcium is 8.5-10.5
 ![[Pasted image 20240227144359.png]]
 ![[Pasted image 20240227144405.png]]
 ## Sodium
+| Hypo | Hyper |
+| ---- | ----- |
+|      |       |
+## Potassium
