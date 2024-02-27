@@ -231,4 +231,8 @@ An anion gap of greater than 14 (normal is 8-12)
 Due to loss of bicarb from ECF, an accumulation of metabolic acids
 >[!tx]
 >IV $NaHCO_{3}$
->It is not compatib
+>It is not compatible with anything so double check!! 
+
+## Metabolic Alkalosis
+Loss of hydrogen ions, gain in bicarb or both
+If $PaCO_{2}$ is >45, means that the lungs 
