@@ -40,12 +40,14 @@ Prevent clot formation
 ### Warfarin
 Oral chronic anticoagulation therapy
 Interferes with Vitamin K synthesis (vitamin K becomes the reversal agent)
-INR levels can indicate effectiveness of coumadin
+INR levels can indicate effectiveness of Coumadin
+Starting dose is 5mg/day
 #### Indications
 Heart failure, prosthetic valves, post AMI anticoagulation, VTE, cardiomyopathy
 #### Contraindications
 Uncontrolled hypertension, severe hepatic or renal impairment, if px is going to surgery soon
-
+### Other
+Direct oral anticoagulants are only 
 
 # Antiarrhythmics
 ### Amiodarone
