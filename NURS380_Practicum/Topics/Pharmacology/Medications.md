@@ -92,7 +92,6 @@ May cause bradycardia and hypotension
 ### Contraindications
 Patients with asthma, or chronic bradycardia or hypotension
 ### Considerations
->[!note]
 >Monitor BP and QT intervals
 >Overdose antidote is glucagon.
 
@@ -145,3 +144,6 @@ HTN, HF, STEMI, diabetic neuropathy and IBD (off-label)
 Oral only
 ### Considerations and Contraindications
 **Dry cough, angioedema**, dizziness, hypotension, increased BUN and creaetinine, syncope and hyperkalemia
+Contraindicated in pregnancy
+
+# Beta Blockers
