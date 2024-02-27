@@ -112,3 +112,7 @@ Improves CO, MAP and perfusion throughout the body
 Supports cardiac function in patients with low cardiac abilities
 
 **Dobutamine**, dopamine, isoproterenol, **milrinone**
+## Dobutamine
+Indicated for decreased contractility due to HF or cardiac decompensation
+0.5 mcg/kg/min to 40 mcg/kg/min
+**Increases risk of afib with RVR and HT**
