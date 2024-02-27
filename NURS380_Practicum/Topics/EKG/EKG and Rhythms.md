@@ -297,4 +297,8 @@ Typically asymptomatic.
 ### for brady
 **Adults:** 1 mg (max is 3 mg) --> can cause heart blocks
 **Children:** 0.02 mg/kg (max 0.5mg)
-**Neonates:** 0.01-0.03 mg/kg
+**Neonates:** 0.1 mg/kg
+## Amiodarone
+**Adults:**
+**Children:**
+**Neonates:**
