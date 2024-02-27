@@ -281,11 +281,11 @@ Typically asymptomatic.
 | Rhythm  | Rate                                                                                          | P Waves                                            | PR Interval             | QRS Complex     |
 | ------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------- | ----------------------- | --------------- |
 | Regular | Atrial (rate of underlying rhythm)<br>Ventricular (**SLOW** and always less than atrial rate) | Sinus with no constant relationship to QRS complex | Not consistent/variable | Normal or wideA |
-![[Pasted image 20240227135336.png]]
+![[Pasted image 20240227135336.png|500]]
 
 # 12 Lead EKG
-![[Pasted image 20240227135355.png|50]]
-![[Pasted image 20240227135404.png]]
+![[Pasted image 20240227135355.png|500]]
+![[Pasted image 20240227135404.png|500]]
 
 # Medications used in Code Blue
 ## Epinephrine
