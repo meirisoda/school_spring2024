@@ -124,4 +124,7 @@ low BP
 - Good for hypernatremia or decreased renal function
 0.45% NaCl
 ### Hypertonic fluids
-- contain a lot of so
+- contain a lot of solute (such as dextrose, sodium, chloride etc.)
+- Will cause fluid overload
+3% NaCl
+## 
