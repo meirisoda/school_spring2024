@@ -131,10 +131,11 @@ low BP
 >[!definition]
 >Plasma expanders - they pull blood into the bloodstream.
 >Thicker fluids as they contain particles too large to pass through membranes, so they will stay in intracellular space. 
+>Will **maintain** circulating blood volume and 
 
 ie. dextran, hetastarch, 5% albumin, 25% albumin
 ## Nursing Responsibilities
-- Know your orders!! 
+w- Know your orders!! 
 - Be aware of fluid overload signs and symptoms
 	- If you suspect overload, stop the fluids immediately and let the provider know. 
 - Monitor intake and output as well as electrolytes
