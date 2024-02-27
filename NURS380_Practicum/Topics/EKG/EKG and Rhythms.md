@@ -278,6 +278,6 @@ Typically asymptomatic.
 >[!tx]
 >Pacemaker
 
-| Rhythm  | Rate | P Waves | PR Interval | QRS Complex |
-| ------- | ---- | ------- | ----------- | ----------- |
-| Regular | Atr  |         |             |             |
+| Rhythm  | Rate                                                                                          | P Waves                                            | PR Interval             | QRS Complex |
+| ------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------- | ----------------------- | ----------- |
+| Regular | Atrial (rate of underlying rhythm)<br>Ventricular (**SLOW** and always less than atrial rate) | Sinus with no constant relationship to QRS complex | Not consistent/variable |             |
