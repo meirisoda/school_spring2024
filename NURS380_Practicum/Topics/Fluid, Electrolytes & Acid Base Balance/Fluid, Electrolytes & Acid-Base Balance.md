@@ -197,3 +197,6 @@ Calcium is 8.5-10.5
 	1. $\uparrow CO_{2}$ and $\downarrow pH$ = respiratory acidosis
 	2. $\downarrow CO_{2}$ and $\uparrow pH$ = respiratory alkalosis
 	3. $\downarrow HCO_{3}$ and $pH$ = metabolic acidosis
+	4. $\uparrow HCO_{3}$ and $pH$ = metabolic alkalosis
+5. Compensation
+	1. Partially compensated would be if 
