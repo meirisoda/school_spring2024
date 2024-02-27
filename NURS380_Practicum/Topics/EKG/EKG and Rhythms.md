@@ -320,6 +320,5 @@ Typically asymptomatic.
 - Can give 3 times maximum
 - Push it as close to the patient as possible (fast and hard) 
 - Preferrably a central line (as close to heart as possible)
-**Adults:** 1 mg
-**Children:** 0.1 mg/kg (max 1mg)
-**Neonates:** 0.01-0.03 mg/kg
+**Adults:** 6mg then 12 mg x2 doses for adults
+**Children:** 0.1mg/kg then 0.2mg/kg then 0.3mg/kg for children <50kg
