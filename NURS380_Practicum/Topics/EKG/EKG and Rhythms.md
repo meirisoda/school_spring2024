@@ -18,9 +18,9 @@ digraph G {
 ## NSR 
 ![[Pasted image 20240219003045.png]]
 
-| Rhythm | Rate | P Waves | PR Interval | QRS Complex |
-| ---- | ---- | ---- | ---- | ---- |
-| Regular | 60-100bpm | Normal | 12-20ms | 6-10ms |
+| Rhythm  | Rate      | P Waves | PR Interval | QRS Complex |
+| ------- | --------- | ------- | ----------- | ----------- |
+| Regular | 60-100bpm | Normal  | 12-20ms     | 6-10ms      |
 ## Sinus Bradycardia
 ![[Pasted image 20240219001339.png]]
 
